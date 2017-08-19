@@ -1,0 +1,4570 @@
+NN VBD VBN TO DT NN NN 
+NN VB DT NN VBZ 
+PRP$ JJ CD NNS . 
+NN RB RB , VBN DT NN 
+DT , CC DT JJ NN 
+( CD ) VBD VBN Attribute DT JJ JJ 
+NNP VBD JJ . 
+NNP NN NNP POS DT NN 
+JJ NN VBG NNS nan 
+nan PRP VBP Location DT NN . 
+DT NNP VBD VBG NN . 
+PRP MD VB Manner NN , 
+NN JJR nan CD NNS 
+CD Value NN 
+VB RP DT NNP NN 
+NNP NNS NNP TO NNP . 
+CC CD . 
+PRP$ NNS VBN Stimulus 
+Location DT NN nan 
+JJS CD NNS Location DT NN NN 
+NNP DT CD , CD 
+NNP NNP Location DT NNP CD 
+NNS Location DT JJ NN 
+JJ NNS VBZ VBN RP DT NN 
+( PRP VBP VBN nan Approximator JJS CD NNS RB . ) 
+DT NN NN ProfessionalAspect NNP NNP CC 
+VBG NN . 
+CC VBZ JJ CC NN . 
+RB CD JJ CC 
+CD . VB PRP Topic DT NN WRB 
+CC VBN nan DT NN . nan 
+DT JJ NN Time DT NN NNP 
+NN , Circumstance PRP$ JJ NN 
+CC Circumstance WP DT NNS 
+WP VBZ CD CC CD . 
+VB NNP NNP NNP PRP 
+NNS VBP DT NN VBZ 
+DT NN VBD Comparison/Contrast NN DT NN 
+PRP$ NN NNS Extent CD 
+VBN VBN , nan WP PRP VBD nan 
+NNP POS JJ NN nan DT JJ NN 
+NNS VBP RB RBR JJ 
+( VBN ) MD VB Scalar/Rank PRP$ JJ NN 
+NN , PRP VBD Location NNP 
+CC RB NNS nan 
+DT JJ NN 
+CD NNS VBD VBG JJ NN . 
+NNS VBP JJ State NNP CC JJ 
+NN CC NN TO VB RB . 
+VB JJ , CC VBG nan NN 
+DT JJ JJ NNS , VBG 
+Circumstance DT JJ NN , 
+NN VBZ RB ValueComparison DT NN PRP 
+RB RB : VBG DT NNS : 
+NN DT JJ NN 
+DT NN VBZ : NNP VBZ PRP DT NN TO VB PRP TO DT JJ NN , CC PRP VBP TO VB RB . 
+JJ NNS VBN Location DT NNP NN 
+JJ NN Function NNS State JJ NN . 
+Scalar/Rank DT , CD VBZ 
+JJ NN NN Beneficiary PRP CC DT 
+PRP MD VB , VB JJ NNS , WRB 
+NNP NNP POS NNS , CD 
+PRP VBZ VBG Circumstance VBG NN 
+JJS JJ NN State NNP NNP NN . 
+CC DT NNS VBG NNS VBD VBN . 
+NNS NNP VBZ JJ JJ NN 
+PRP$ NN POS NN VBZ NN CD , CC 
+WDT VBD VB RP DT NN WDT 
+VBP RB VBG VBN Circumstance DT NN nan 
+VB PRP$ NN , NNP , 
+NNS , NNS , NNS Idiom PRP . 
+DT JJ NN Location DT NN NN 
+PRP$ JJ NN , VBG VBG NNS JJ 
+RB , CC CD NN StartTime CD . 
+CD RB VBG RP JJ VBG NN '' 
+DT JJ NN , 
+DT JJ VBP , NNS NNS . 
+DT NN NN Location DT NN , DT 
+JJ NN NN PRP$ JJ NN . 
+NN : DT NN RelativeTime NNP CC NNP 
+JJ NN NN Attribute DT NN . 
+DT JJ NN 
+DT NNP NN NN NNP NN . 
+DT NN Location DT NNP 
+NN NN NN Manner DT JJ NN 
+RelativeTime RB PRP VBP VBN TO VB PRP VB PRP$ JJ NN NNS RB RB nan PRP VBG JJR CC MD RB RBR VB PDT DT NNS . 
+Location 
+PRP$ CD NN nan DT NNP NN . 
+NNP NNP NNP NNP NNP POS NNP NNP 
+NN VBZ VBN StartTime DT NN VBD 
+DT NN VBP Location DT JJ NN NN 
+NN CC NN PhrasalVerb DT NNS 
+NNP NNP NNP Location DT JJ NN 
+EX VBZ DT NN . 
+nan DT NN , VB nan 
+NNP VBZ nan Duration CD NN 
+VBG DT NN NN RB DT NN . 
+JJ CC NNP StartTime JJ NN 
+NN DT NN Location NNP CC VBD 
+DT PRP$ JJ CC PRP$ NNS VBP RB 
+JJ JJ NN Location NN NN . 
+NNP PRP$ NNS VBD 
+PRP VBP PRP$ NN JJ DT NNS RB JJ CC JJ . 
+VB PRP VBN Scalar/Rank DT NN 
+WP VBZ CD NN CD . 
+DT NN Circumstance VBG 
+nan DT VBZ DT NN 
+VBG NNP , NNP NNPS 
+VBZ VBN NN Agent DT VBN NN 
+nan NN NNS . nan 
+NNS VBD Location CD NNP NNP . 
+nan DT NN Topic NN NNS . 
+JJ NNS VBD Topic nan 
+NNS , VBG DT NN NN , 
+DT NN NN Location NNP NNP 
+CD NNP NNPS DeicticTime JJ NNP NNP 
+PRP$ NN , DT JJR nan PRP VBD 
+NNP NNP NN , Accompanier 
+VBZ RB VB PRP VBZ RP 
+NNP Via NN NN . 
+NNS Explanation DT NN NN 
+DT NN Location DT JJ NN 
+NNP NNP , NN NN NNP VBG NNS 
+NN Location DT NN , NN 
+NNS : NNP NNS Duration NNP NNP POS CD 
+NNP NNP , CD NN NNP NNP DT NN 
+CD MD VB RP CC VB NN 
+CD ) Circumstance PRP VBD 
+VB RB VBN Possessor DT NN . 
+VBG NN NN NN 
+nan DT NN CD . nan 
+CC Comparison/Contrast NNP , DT NNS 
+RB CC VBG TO VB 
+NN VBZ VBN ValueComparison CD . DT NN 
+NNS EndTime JJ NNP . 
+NNP NNP NN NNP NNP ( JJ ) , 
+CD . Approximator CD NN NNS 
+Location JJ NNP NNP , 
+JJ JJ NN nan DT NNP NNP . 
+PRP$ NNS NNP VBZ JJ NNS 
+VB DT NN Location DT NN NN 
+VBP DT JJ Location DT NN . 
+NN nan DT NNP NNP , 
+WRB NN NN Locus JJ NNS VBZ 
+NNP NNP VBZ Superset JJ NNS 
+NNS , PRP VBP JJR RP VBG PRP . 
+WRB PRP VBP Goal DT NNS CC 
+DT JJ NN NNS VBG 
+nan NN RB , Approximator JJS DT NNS 
+DT NNP , VBD NN CD , NNP NNP POS 
+NNS : NN WP '' nan DT NNS NNP 
+JJ JJ NN Location DT NNP NN 
+Location JJ NNP , RBR 
+WDT VBD VBN State NNP NN 
+VBN RB VBN StartTime CD CC VBD 
+NNP POS JJ NN Topic JJ NN VBG 
+NN Location PRP$ NN POS NN . 
+NNP NNP POS NNP Via NNP NNP NNP 
+RB , Circumstance DT NN POS JJ 
+nan $ CD CD ValueComparison DT JJ JJ 
+VBN CD NNS Time CD . 
+JJ NN NN NN nan 
+DT NN Theme WP PRP VBP 
+VB JJ NNS Manner VBG CD 
+RB VBG NN StartTime DT NN WRB 
+NN , VBG NN Direction PRP . 
+VBG RelativeTime NN CD CC 
+NN Time VBG 
+NN NNS VBD VBG nan 
+DT NNP NN JJ NNS VBP 
+VBG VBD JJ NN NN CC NN , 
+VBZ VBN RB Duration DT NN , EX 
+Location PRP , nan 
+NNS , VBP VBN Source NNP NNP NN 
+JJR nan CD NN 
+MD VB VBN Location DT NNS 
+nan DT NN Location PRP VBP VBN 
+DT NNP NNP Location NNP , NNP , VBD 
+NNP NNP NNP Manner DT NN 
+NNP State DT NNP NN 
+JJ $ CD CD nan NNP , CC DT 
+NN RP RB . 
+NN nan , VB NNP NNP NNP : NN 
+DT NN NN StartTime NNP CD , CD . 
+NNP , Accompanier 
+, PRP VBD VBN DT NN nan 
+VBZ DT NN Elements NNS NN NN . 
+DT JJ NN Location NNP NNP , DT 
+NNP VBD RelativeTime NN NNP 
+PRP RelativeTime VBG RP . 
+JJ NN JJ TO PRP$ JJ NN 
+NNP Location PRP$ NN , DT 
+NN , Comparison/Contrast NNS 
+VB PRP$ JJ NN NNP NN . 
+VB Topic NNP NNS 
+nan CD NNS ProfessionalAspect DT NN NN 
+PRP VBP DT VBG Idiom DT JJ NN . 
+CD NNS Location DT NN NN , 
+JJ NN VBZ Scalar/Rank DT NN 
+VBN nan VBG 1DTrajectory DT NNP NN 
+DT NN VBD RP NN 
+NNS CC VBZ RB DT NN VBZ 
+NN DeicticTime DT NN . 
+DT JJ NN . 
+CC CC CD NN NNS . 
+VBG VBN Location DT NNP NNP 
+VBN CD CC RB VBD RP 
+PRP$ NN NN CD NNP NNP 
+NN nan NN NN NNS nan 
+DT NNS , Elements DT 
+NN Location PRP 
+NNS VBP VBN VBG DT JJ NN 
+DT JJ NN Location DT NN VBZ 
+Location DT JJ NN 
+Elements NNS 
+NNP , DT NN Topic DT NNP NNP 
+Destination DT NN . 
+NNP , PRP VBP RP NN 
+PRP VBP NNS Elements PRP$ JJ NN . 
+NNS , DT NN Location DT NN RB 
+DT JJ NN VBZ RB JJ . 
+NN VBG NN NN VBD NN 
+DT NNS NN Approximator CD ) CC DT 
+WDT VBD NNS VBG DT JJ NN 
+NNP Via JJ NN . 
+DT NNP NNP JJ NNP NNP . 
+VBP RB VBG VBN DT JJ NN 
+DT JJ NN Location DT NNP NNP 
+NNS DT NNS NN , nan 
+JJ NN NNP NNP NNP ( NNS 
+PRP VBD PRP$ NN nan RB CD NN . 
+Manner VBG 
+WDT MD VB DeicticTime CD NNS CC 
+DT NNP NN nan DT JJ NNP 
+NN NNP VBD VBN DT NN 
+DT NNS VBD DT NN Whole DT NN . 
+DT JJ JJ NNS , VB 
+: DT NN Time NNP CD , CD . 
+RB JJ NN VBG WRB NNS CC 
+VBP VBN RB JJ CD , DT NN 
+NNP NN NNS , NNP 
+PRP JJR NN Topic PRP$ NN POS JJ 
+NN ValueComparison CD NNS 
+PRP$ NNP NNP Time PRP VBZ DT 
+NNS : NNP NNP , RelativeTime NNP NNP NNP 
+NNS VBD nan NNP VBG NN nan 
+NNP NNP NNP , VBG NN CC NN , 
+CD . VBG NNS 
+NN PhrasalVerb DT NN . 
+NNP , CC DT NNS VBD 
+NNS VBG RP 
+Elements 
+CD DT NNP Location NNP NNP VBZ 
+NNS NNS RB RelativeTime PRP VBD VBN 
+NN Duration NNP , 
+RB PRP VBD nan JJ JJ NNS , 
+RB RB VBN NNS NNS . 
+NNS VBP VBG CC DT NN 
+CC Circumstance VBG NNP NNS 
+VBN DT NNS , RB JJR NN NNP 
+NNP NNP VBZ PhrasalVerb PRP$ CD NN NN . 
+CC CD , nan Accompanier 
+Elements VBG DT NN 
+NNS POS NNS VBP nan : CC NNP 
+NN JJ NNS Location DT JJ NNP 
+NN NNS VBP Superset PRP . 
+VBG DT NNS CC 
+DT NNP NNP NN NNP POS NN , NNP 
+NNP CC RB JJ CC 
+VB RB RB Goal DT JJ , JJR 
+VBD RB JJ Time VBG DT NNP . 
+NNP VBZ VBN Explanation JJ NNS CC 
+NN EX VBZ DT JJ NN Accompanier DT NN . 
+NNP NNP NNP CC NNP 
+Scalar/Rank NNP . CD 
+PRP VBD NN VBG JJ NNS . 
+VBP VBG JJR RP 
+Possessor DT NN , PRP VBZ 
+DT JJ NNS Location DT NN , NNP 
+Location PRP$ JJ NN . 
+Location JJ NN 
+NN RB VBN Agent NNP NNP NNP 
+WP VBD RB VBN Comparison/Contrast DT RB VBN . 
+DT NNS VBN EndState NN 
+VBG NN 
+WP VBZ WRB JJ PRP VBP PRP TO VB TO VB DT NN . 
+VBG JJ NN NNS . 
+JJ DeicticTime DT NN VBZ 
+DT NN RB Scalar/Rank WP PRP VBD 
+VB NN VBN RP 
+RB VBP TO VB PRP MD nan 
+CD . RB VBG TO DT NN VBD 
+JJ NNP JJ NNP NNP 
+CD NN NNP , Topic DT NN VBG 
+NN 2DArea NNP , VBG NNS 
+CC JJ NNS , VBG NN , VBD CD NN . 
+NN VBG 
+NN NNS VBD JJR nan CD CD 
+RB JJ NNS Via NNP . 
+NN Co-Agent DT NN 
+CD NNS nan NNP POS NN NN nan 
+CC DT NNS VBP JJ NN , VBP VBN VBG TO VB DT JJ NNS NN TO VB PRP$ NN , NN CC NN . 
+JJ NN VBZ Comparison/Contrast NNS , NNS , NNP 
+NNS nan NN NNS CC nan 
+CC VB NN EndTime DT NN VBZ 
+Circumstance DT VBG NN 
+JJ NNS Elements DT JJ NN 
+RBR nan RB nan DT JJ NN 
+VB DT NNS VBG NN 
+NN PRP$ NN CC PRP VBD TO VB PRP$ CD NN JJ NN RP DT NN CC PRP VBD RB VBG DT . 
+JJS JJ NNS Scalar/Rank DT NN , VBG 
+DT JJ NN VBG PRP$ NN MD 
+NNS VBZ RB Scalar/Rank PRP$ NN . 
+CC DT JJR RP DT NN , EX VBZ 
+DT JJ NN Scalar/Rank NNP JJ NNP 
+NNP NNS RP DT NN VBZ 
+NN WDT VBD Location DT NNS , VBD 
+NN NNP NN Time PRP$ NN , VBG , 
+NNP VBD RB VBG nan NNS 
+NNP NNP NN Source DT VBN NN 
+DT NNS VBG NN nan 
+NNP , NNP VBD RP 
+NNS Elements NNS CC NNS 
+NN NNS VBD NN NNS . 
+NNS Duration DT NN NN 
+DT NN Elements VBG PRP VBD 
+WP PRP MD TO VB RB NNP 
+DT NN , CC PRP$ NN VBZ 
+Approximator CD CD 
+NNS VBP PRP$ NN . 
+NNP NNP StartTime CD CC 
+DT JJ NN TO VB DT NN 
+ValueComparison CD 
+PRP VBP RB VBD DT JJ NN NN InitialLocation NNP . 
+NN NNP NNP Time NNP CD . 
+CC NNP NNP JJ NNP NNP NNP . 
+NNP CC CD 
+NNP NNP VBZ DT RB JJ JJ NN . 
+Approximator CD NNS WDT 
+Location DT NN NN 
+CC , Via NNP , PRP VBZ 
+PRP VBD Topic nan NNP NNP 
+DT NN VBD PhrasalVerb DT NNS 
+NNS VBG NN InitialLocation DT NN , RB 
+VBZ PRP$ NNS Duration DT NN NN 
+NNP VBG 
+NN VBZ CD Value NN 
+NN , NN , NN Attribute NN , NN NN , 
+JJS JJ NNS Attribute DT NN 
+NNS : CD Explanation VBG JJ NNS . 
+DT NN VBN Location DT NNP NN 
+VB VBN nan NNP 
+NNS Elements NN CC NN . 
+VBG 
+NNS , CC RB 
+JJ JJ NNS TO VB PRP$ VBG 
+NN , NN NN EndState DT JJ NN . 
+NNS VBD VBN Location DT NN . 
+JJ NN VBN Agent DT NNP NNP 
+VBN DT JJ NN DT NN 
+CC CD NN DT 
+JJ NNP Manner VBG NNP NNP . 
+CD : NNP NNP Topic VBG NNP NNP 
+NN NNS , VBD Location DT JJ , VBP 
+DT NNS Elements 
+NN VBD RB DT NN POS JJ nan 
+DT NN nan NN RB . 
+NNP CC NNP VBD DT JJR NN 
+VBZ RB VB TO VB NNP NNP 
+NNS , CC VBZ StartTime VBN VBN 
+JJ JJ NN , CC NN NN VBZ 
+VBN JJ VBG PhrasalVerb DT NN NN , 
+JJ NN , RB , Elements RB 
+JJ NNS Location NNP . 
+NNP NNP NNP ProfessionalAspect NNPS NNP NNP 
+DT NN Elements NNP VBZ JJR 
+nan PRP , CC PRP VBP 
+RB VBN CC VBN DT RBR JJ 
+VBN 
+Elements NNP POS NN , DT 
+JJ NNS VBP Superset JJ NNS nan 
+VBD VBN JJ NN 
+NNS VB VBN RP 
+NN NN VBN Attribute NNP NNP VBZ 
+DT NN : NNS Topic NN NNP NNP 
+NNP NNP VBD VBG VBG 
+DT JJ NN nan NN 
+DT NN CC nan DT NN . 
+CD VBD nan DT NN NN , 
+JJ CD NNS NNS NNP POS JJ 
+NN Circumstance DT JJ JJ 
+JJ NN VBN Stimulus DT NN NN 
+NN NN NN Time NNP NNS DT 
+RB JJ NNP , VBZ CD NNS 
+DT JJ NN , PRP VBD 
+DT JJ NN EndTime DT NN . 
+DT NN Elements DT VBZ 
+( NN NNP NNP VBP PRP$ NNP NNP 
+DT NN State DT NNP POS NNS 
+NNS VBD RB VB RP 
+NNP , Accompanier 
+DT JJS NN Location DT NNP CC 
+NN EndTime NNP 
+CC JJ NNS Locus JJ NNP NNS 
+NNP NN 
+JJS VBG DT NN 
+DT NNS NN VBG JJ NNS RB . 
+NN NNS Elements NNP . 
+NNP ( NNP ) VBP Superset DT NNS VBG 
+NN NN Circumstance DT NN NN , 
+DT NN RP NN 
+PRP$ NN , VBD RP DT NN 
+VBG DT JJ NN 
+CD : NNP State DT NN 
+DT JJ NN . 
+NNP NN PRP VBP RB VBN . 
+JJ NNP NN Location DT NNP NN 
+NNP , CD , NNS RP CD NNS , NNS 
+NN Attribute NN 
+CD NNS VBG 
+NNP NNP Via NNP . 
+VB PRP$ NNS Idiom PRP . 
+CD . JJ NNS State DT RB VBN 
+JJ NNS Experiencer DT NNP NNP 
+VBN NNP NNP Beneficiary VBG NN NN , 
+DT NN , VBG DT WDT NN 
+CD NNP NNPS Elements VBG 
+NNS DT NN VBG JJ NNS 
+NNP NNP VBD Idiom DT NNS 
+NNP VBZ VBN Location DT NN . 
+NN Experiencer NN , NNS CC 
+NNS JJ NN Elements DT NN 
+CC NN NN , Circumstance 
+VBD JJ RB RB JJ VBG VBG NNP CC NNP NN 
+NNS , VBG NN , NN , CC DT NN TO VB RP CC VB Co-Agent NN TO VB PRP$ JJ NNS CC Purpose WDT RB PRP$ NN NN NNS MD VB . 
+DT VBG NN NNS 
+CC Circumstance PRP$ NNS , RB 
+JJ NN NN : Elements DT NNP NN , 
+RB VBG 
+NNP POS JJ NN Location DT NNP NNP . 
+NN : Approximator CD 
+VBN Theme DT JJ NN 
+DT NN NN Location CD NNS VBD 
+NN CC NN NN CD . 
+Location NNP NNS VBP 
+VB DT NN Location DT NNP NN 
+JJ NN VBG PRP$ NN CC 
+PRP VBP JJ , JJ CC JJ NN NNS . 
+RB JJ nan VBG DT NN 
+PRP VBD RB JJ nan DT NN VBD VBG Location NNP , Explanation PRP VBP Location NNP . 
+VBG NNS 
+VBN DT NN Location DT NNS 
+NN VBD PRP Elements nan PRP VBD 
+VBZ RB RB VBG DT NN NN 
+CD NN PRP$ RB RB 
+DT NN VBZ JJ NN . 
+PRP VBD DT NN NN Location JJ NN CC VBN Theme DT NN Quantity JJ NN . 
+DT NNS VBP VBG JJ NN . 
+VB RP DT NN 
+DT NN VBG EndTime CD , NNP VBZ 
+NN RP 
+VBG JJ NNS Elements NNP NNP CC 
+VBN , CC RB RB RB 
+NNS VBP NN Elements 
+DT NN Location DT NNS WRB 
+VBZ VBN VBN , VBG JJR nan CD 
+NNS Theme NNP ( NNP ) NNS 
+NNP , NNP , NN CD . 
+NN , CC PRP RB VBP 
+NNP NNPS VBZ VBG DT NN 
+NN CC NN NNS VBG nan DT 
+MD VB VBN VBG WDT NNS CC 
+VBN PRP$ NN RelativeTime VBG PRP CD 
+PRP VBP VBN NNS TO VB . 
+NN CC NN nan NNP NN , VBG 
+VBN NNS ( NNS ) VBP DT NN CC 
+DT JJ NNS NNP NNP 
+NNS MD VB RP $ CD CD 
+VBG DT NN RP DT NN ( CC 
+NNS , VBD PRP Topic VBG PRP DT 
+NN , NNP VBZ RB CD NN NN 
+JJ RB VBD RP DT NN PRP VBP 
+CD RB VBG RP JJ NNP NNP POS 
+NN , JJR NNS . nan 
+NN DT NN Co-Theme DT CD NNS . 
+VB PRP Destination DT NN 
+PRP VBP JJ NN Value DT JJ NN . 
+VBZ VBN NNS VBG VBG DT NN 
+NNP Location NNP NNP CD , 
+PRP VBP PRP$ JJ NN . 
+RB TO PRP$ JJ NN : PRP VBD VBN TO JJ NN CC VBD Location TO VB PRP$ NN Explanation PRP VBD VBN PRP MD VB Explanation PRP VBD VBG RB . 
+NNS Topic VBG DT NN POS 
+NNP POS NN , nan Accompanier 
+NN : Comparison/Contrast DT NN NN , 
+JJ NNP , VBD RB JJ NN . 
+PRP$ NNS Location DT JJ POS NNS 
+DT JJ NNS RelativeTime NNP POS JJ NN , 
+VBG 
+nan NNP NNP , NNP . nan 
+DT JJ NN Topic NNS VBZ VBG 
+CC NNS VBD Superset DT VBG NNS 
+VBD JJ NNS Theme NNP NNP NN 
+NN VBZ JJ , Elements 
+CC RB VB PhrasalVerb NNP . 
+VBZ JJ RB , Elements nan PRP VBZ 
+Beneficiary NNP , RB 
+JJ NN NN VBZ RBR Comparison/Contrast CD . WRB DT 
+RB JJ , RB VBN NNP NN 
+VBD VBN VBG RP DT JJ NN . 
+DT JJ NNS , CC DT JJ NN 
+NN , VBZ VBN nan NNS . 
+NN NNP Scalar/Rank NNP 
+NN CC VBD nan 
+DT NN VBG VBG JJ NN , 
+VB PRP VBD RB EndTime NNS 
+Circumstance DT JJ NN , 
+NN DeicticTime DT NNS VBP 
+DT NN CD VBG DT NN 
+DT JJ NN Attribute NN . 
+DT CD NNS , Accompanier 
+DT NNS VBG NN nan 
+RB VBG RBR , VBG RBR CC VBG 
+RB VB NN Location DT NN . 
+NNS CC NNS JJ NN NNS 
+JJ CD NNS RB JJ NNS CC 
+NN 2DArea DT NN , 
+CD . DT Topic DT NNS . 
+PRP VBD RP VBG RB RBR . 
+PRP VBZ JJ Scalar/Rank NNP , RB WRB PRP$ NN VBZ Purpose DT NN , VBP PRP$ RB . 
+CC JJ NN Theme DT JJ NNP 
+( RB JJ ) NN Accompanier 
+JJ NN VBZ Possessor DT JJ NNS 
+CD NN CD , NNP POS VBN . 
+NNS State NN , VBP JJ 
+Comparison/Contrast DT NN Quantity NN VBN Accompanier PRP TO VB NNS Duration DT JJ NN , TO DT NN Duration DT NN NN TO DT JJ NN Possessor DT NN PRP . 
+NNP NNP VBZ Circumstance DT NN 
+NN NNP , EndTime CD RB NNP . 
+DT JJ NN . 
+DT NN 
+$ CD Theme DT NN WDT VBZ Approximator CD JJ NN NN CC VBZ JJ Attribute NN NNS . 
+NNP DT NN Superset NNP 
+NNP NNP VBZ Via NNP POS NNP NN . 
+NN CC VBD Destination DT NN . 
+VBG JJ NN 
+VBG DT JJ NNS 
+NN WDT VBD RB 
+DT NNS VBP RB JJ Comparison/Contrast NNS 
+DT NNP NNP Location DT NN 
+Scalar/Rank DT , DT VBZ 
+CD VBG DT NNP NN 
+DT NN , VBN PhrasalVerb DT JJ NNS 
+RelativeTime VBG NNP RelativeTime VBG NNP NN VBD VBG nan DT NN VBN NN . 
+NN , NNP , VBG Approximator CD NNS , NN 
+NNP NNP nan DT NN NN nan 
+NN Location DT NN 
+DT JJ NNS , Elements DT VBG NN 
+CC Elements VBG 
+DT NNP NN Theme PRP$ NN . 
+PRP VBP DT NN 
+CD DT NN , JJ NNP NN NN . 
+RB RB VBG Destination DT NN NN 
+NNS MD VB RP 
+NNS , VBG VBN Attribute DT RBS JJ 
+VB DT NN 
+Location DT NN NN , 
+NNP Location DT NN 
+PRP$ JJ NNS CC NN 
+NNS JJ NNS TO VB DT JJR 
+NNP POS NN NN , VBG NN NNS , VBD 
+NN CC NN Scalar/Rank PRP CC 
+PRP$ NN NNS Activity NN NN VBG 
+PRP VBD Scalar/Rank DT NN 
+NNP , WDT VBZ Location DT JJ NNS , 
+CD , VBG VBG 
+$ CD CD Value NN . 
+DT NN NNS . 
+NN VBZ VBN Location PRP$ NN CC 
+NN VBG DT JJ NN . 
+NNP VBD nan Locus JJ NNS NNP 
+NN NNS Agent NNP NNP NNP . 
+NNS nan 
+NN NN VBZ Superset DT CD NNS 
+PRP$ NN , Location DT NN 
+NN , NNS VBG 
+NNS JJ NN Locus JJ NNS 
+VB RB Elements VBG 
+DT NN VBZ JJ RB , CC EX VBZ DT JJ NN Theme DT NN CC NN . 
+VBG NNP CD . VBG JJ NNS , PRP 
+NN NN , CC JJ NN NN nan 
+VBG VBN Manner VBG NN 
+DT JJ NN VBG NN . 
+: DT VBN Superset DT JJ 
+JJ NNPS VBD RP DT NN 
+PRP VBP ProfessionalAspect DT JJ JJ NN RB VBG PRP$ NNS Destination NNP CC VBD TO VB TO VB DT Quantity PRP$ NN NN NN VBD VBN RB CC State NN . 
+NNS VBG NN Destination NNP . 
+PRP$ NNS VBG JJS NNS . 
+DT JJ NN RB . 
+DT JJ NN ProfessionalAspect NNP POS JJ NN 
+NNP CD , CD , Duration PRP$ JJ NN 
+PRP VBP nan TO PRP Comparison/Contrast PRP VBP JJ NNS , nan PRP VBP PRP$ NN RB JJ RB NN . . 
+NNS VBG NN Explanation VBG VBD 
+VB Location NNS . 
+DT NN Superset 
+DT VBG NNS CC DT NN 
+DT NNP NN NN NNP NNP POS NN 
+NN Duration NNS 
+NNS MD VB NNS VBG NN NNS 
+PRP RB VBD RB VB Comparison/Contrast PRP VBD TO VB PRP DT NN Superset NNS nan PRP VBD RB VB . 
+RB VB VBN VBG 
+DT NNS , CC JJ NN CC 
+NNS JJ NN Destination NN NNP NNS 
+PRP VBP VBN JJ VBG DT NN DT 
+nan DT NNP NNP nan 
+DT NNP , VBD Topic DT NN 
+Elements CD JJ NNS 
+CD CD NNS 2DArea DT NN WP 
+NNS 2DArea DT NN VBP 
+NN 
+VBZ DT VBG Possessor JJ NN NNS . 
+DT CD CC JJS NNS VBG 
+NNS MD VB VB PRP$ NNP NN , 
+NN VBD VBN JJ NN 
+PRP VBD 1DTrajectory DT NN . 
+Location NNP CC nan . 
+PRP VBD NNS DT NN VBN 
+VB RP JJ JJR NNS 
+DT NNP NNP , NN 
+NNS CD 
+RB RB JJ , Circumstance VBG DT JJ 
+NNP NNP : VBG RP 
+DT : RelativeTime NNP VBZ PRP$ 
+DT NN NN VBZ PRP$ NNS 
+NN VBD DT JJS NN NN PRP VBP RB VBD CC PRP MD VB VB PRP . 
+NN , NNP VB RP . 
+NN DT NN Topic PRP$ JJ NN 
+PRP VBD VBG nan PRP , 
+RB RB JJ : Elements DT NN , NN 
+VB JJ NN NN 
+VB DT NNS VBG NN 
+VB CD NN Location DT NN , CC 
+NNP nan Circumstance VBG VBN 
+JJ NN , VBG Location PRP 
+VBG CD NN Superset '' NN : NNS POS Location JJ NN MD VB JJR . 
+VBN DT NN StartTime NN , CC VBP 
+NNS VBD VBN Destination DT NN 
+VBN JJ NNS Co-Agent JJ NNP NN 
+PRP VBD RB . 
+CC CD NN NNS . nan 
+VBN VBN VBG Explanation PRP VBD RB 
+CC VB PRP Attribute NN NNS CC 
+RB CD Value NN . 
+NN NNS VBG Co-Agent DT NNP . 
+JJ NNS VBP 1DTrajectory DT NN 
+JJ NN , VBD RP DT JJ NN 
+NN VBD VBN Beneficiary PRP 
+NNP NNP Time PRP$ NN . 
+NNP NNP VBD nan DT RB VBN 
+VBD RB RB VBG VBG 
+NNP NNP POS NNP Direction DT NNP VBZ 
+CD NNS RelativeTime NNP VBD CD , 
+VBD RB VBN NN PRP . 
+Location DT NN POS NNS 
+DT JJ NN Location NNP 
+DT NN Location DT NNP NNP 
+Location DT NN . 
+RB , VBG NN NNS . 
+VBD RP JJ NN 
+NN NNS 2DArea DT NN 
+PRP VBP DT NN PRP , RB NN 
+, PRP$ NN nan DT NN nan 
+NNS CC NNS VBG JJ NNS , DT 
+NN WRB NN Comparison/Contrast DT NN NNS 
+NNS CC NN Via DT NN VBP 
+NNS 2DArea DT NNP NNPS . 
+: DT NNPS , State DT NN 
+NNP NNP VBZ RB NNP 
+RB VBD PRP Instrument DT NN nan 
+VBG JJ NN POS NN , 
+DT JJ NNS VBP PRP , VBD NNP . 
+Comparison/Contrast NNS , PRP VBD 
+NNP CD NN VBN PRP$ NN 
+EX VBP JJ NNS Attribute NN RB RB JJ Attribute NN WDT VBZ NNS CC NNS RB RBR . 
+DT NN VBZ VBN Extent JJS . 
+NN JJ NN Co-Agent DT NN NNP 
+Location DT NN MD 
+NNS nan NN NNS DT nan 
+PRP RB VBD RB CC VBD VBN nan NN , RB NN , VBZ VBN Duration DT NN : NN nan PRP$ NN : DT NN NN JJ TO DT NN WDT VBZ NN Whole NN . 
+CD NNS NNP Location NNP NNP NNS 
+VBG DT NNS DT 
+VB RP DT NN WP$ 
+NNP , WP VBD Location DT NNP NNP 
+NN PRP VBD 2DArea NNP NNP 
+DT JJ NNS Value NN . 
+VBD VBN VBN : Circumstance JJ NN , DT 
+NN DT NN NN NNP POS JJ NN 
+DT NN VBD Location DT JJ NN , 
+RB VBN . 
+NNS VBP VBN Location DT NN . 
+JJ JJ NN StartTime CD NNP . 
+CC CD NNS NNP 
+NNP NNP NNP , Approximator CD NN 
+. nan Elements 
+JJ NN NNS StartTime CD . 
+WP PRP VBP VBZ DT $ CD NNP NN NN TO NN DT NN Via DT JJ CD $ CD NN NNP VBZ nan PRP MD RB VB TO VB JJ NN ( VBN : DT VBG ) . 
+PRP$ JJ NNS 
+NNS , CC DT NNS VBP 
+NNS Age CD , VBD JJ 
+NN nan VBG DT NN nan 
+VB DT NNS VBG NN 
+MD RB VB Theme DT JJR NN . 
+NNS VBP RB Location NNP NNP NN 
+NNP , WP$ VBN NN VBZ NNP 
+CD . VB JJ TO VB PRP$ NN . 
+DT RBR JJ . 
+NN VBZ RB VBG VBG NNS WP 
+RB Circumstance DT JJ NN 
+NN DT NN Time DT NN . 
+DT JJ NN , VBG NNS 
+WRB PRP VBD PRP RB VBD Time DT NN WRB NNS VBP VBN nan PRP MD VB PRP RB . 
+JJ NN VBD RB CD NNS VBD 
+CD NNS Location NNP NNP NNS . 
+, DT NN nan NNP CC NNP nan 
+VB CD NNS Location DT NN NN 
+DT NN , nan VBN DT NN . 
+VB Scalar/Rank DT NN PRP 
+NNP NNP NNP RelativeTime DT NN 
+DT , Elements 
+NN NNS NNS VBG NN , DT RB 
+NNP NN VBD Location DT NN CC 
+JJ NN VBZ Location DT NN , nan : 
+NNP VBD RP RB , NNP VBD 
+VBG RB JJ NNS DT VBD 
+JJ NN NN RB RB . 
+NNP VBD JJ CC JJ Topic NN NN : NN . 
+NNS VBD NN Duration NNP , NNS VBP . 
+NN VBP nan Comparison/Contrast DT NN VBD 
+VBD NNS RP DT NNP NNP nan 
+DT JJ NN , Location DT JJ NN 
+PRP RB VBD NNP NNP 
+VBN RB $ CD Location DT NN 
+NN VBG . nan 
+NN NNS VBD Extent CD NN 
+NNS Duration NNP CC PRP$ 
+DT JJ NN VBG PRP$ NN CC 
+PRP$ CD SYM : NN VBD VBG RB TO CD NNS RB PRP VBD NN Function DT NN . 
+NNS Manner DT NN . 
+NNP NNP NNP Location DT JJ NN 
+CD : NN Goal DT NNP NNP 
+PRP RB VBZ CD NNS Purpose DT NN NN , Explanation PRP VBP TO VB JJ JJ NN TO DT NN . 
+VBP JJ NNS JJ JJ NNS . 
+NNS CC NNS nan 
+nan MD VB Causer DT NN . 
+DT NN NN , CC JJ NN NNS 
+NN Location DT NN POS NN 
+VBN JJ NN Circumstance DT NN . 
+DT NNS VBD DT JJS . 
+VB DT NN 2DArea DT NN . 
+nan DT NN NN nan 
+JJ Via NN 
+NNS VBP VBN StartTime NNP NNP VBD 
+PRP$ NN NN , VBG CD JJ CC 
+JJ NN 
+CD Explanation PRP VBD VBN 
+VBD VBG RB Direction DT NN 
+DT NNP NNP Comparison/Contrast DT JJ NNP 
+CD JJ NNS TO VB PRP TO 
+JJ NNP NNS Elements NNP NNP VBZ 
+NNS VBP NN Scalar/Rank DT NNP NN , 
+WRB NN VBG PhrasalVerb DT NN . 
+NNS : NN NNS nan DT NNS 
+NN NNP NNP Topic DT JJS NN 
+DT NNP VBD VBG DT NN VBD 
+Elements VBG JJ NNS 
+DT NN VBG 
+NNP NNP NNS Location DT NNP VBD 
+WP PRP VBP nan CC WRB PRP 
+JJ NN NN Co-Theme NNP VBG NN 
+NNS VBD VBN Approximator CD JJ NNS 
+NN VBD VBN VBG nan DT 
+PRP VBD NN NN , PRP VBD RB , PRP VBP VBN nan NN NN Circumstance VBG DT NN CC NNP NN VBZ , NNP PRP VBP VB . 
+VB DT NN Elements NNS CC JJ 
+PRP VBP RB VB RB NNP CD NNS 
+Comparison/Contrast DT JJ NN 
+DT NNS VBP CD . 
+NNP JJ JJ NN 
+JJ NN , VBN Location WP VBZ VBN 
+, VBG Circumstance DT NN nan 
+DT NN Elements nan NNS , 
+VBD VBN JJ NN JJ NNS . 
+VBN JJ NN , RelativeTime DT NNS 
+NN NN VBD Comparison/Contrast DT 
+DT JJ NN Theme DT NNS RB 
+nan DT NN TO VB . 
+VBG NN NNS CC EX VBD DT 
+VBG 
+DT JJ NN , CC DT MD RB VB 
+WRB PRP VBD JJ PRP$ NN NN 
+PRP$ NN VBD Time PRP VBD RB CC VBD RB RBR Time VBG NNP Location DT NNP : NN . 
+NNP VBD Elements NNP , NNP CC 
+CD JJ NNS Value NNP NNP NN . 
+NNS VBP JJ , VBG NNS 
+NNS MD VB State nan NN 
+NN WP VBZ VBG DT NN 
+DT NN NN Location DT NN 
+DT JJ NN Duration NNP POS NN VBD 
+NNP NN RB StartTime JJ NNP . 
+NN VBZ VBN 2DArea DT NN , CC 
+NNS Location DT NNP NN 
+VBD DT NN nan JJ NN , CC 
+CD CD NNS VBG JJ NN . 
+CD Value NN 
+DT NN 
+JJ NN , NN Time PRP VBZ JJ 
+NNS 2DArea DT NN . 
+NN VBD VBG Location DT NN WRB 
+VBD DT NNS VBG DT NN . 
+NNS , NNP VBD State DT NN 
+NN VBZ JJ Location DT NN . 
+DT JJ NN , Elements 
+RB VBG RP JJ NNP NNP 
+CD NNP , Location CD NNP ( JJ ) NN . 
+NN MD VB VBG 
+NNP CC NNP VBD RB JJ , CC WRB NNP POS VBD TO VB Patient PRP$ NN , NNP VBD RB RB CC VBD DT NN CC VBD WP NNP POS NN MD RB VB . 
+Scalar/Rank DT , NNP NNP 
+CC Circumstance JJ 
+RBS JJ NNS TO VB DT NNP 
+VB RP DT NNP NNP 
+NNP NN VBD RB JJ . 
+NN , VBG JJ NN NN , 
+DT NNP NN NN CD . 
+CC Circumstance DT JJ NN 
+VB RB ValueComparison DT CD CD 
+DT JJ NNS MD PRP 
+NNS : NNP NN nan NN : DT JJ , 
+DT NNP NNP VBD PRP$ NN NN . 
+DT NNS VBD JJ NNS nan DT NN CC VBP JJ Topic WP VBZ DT JJ NN CC NN NN . 
+CC CC CD , NN , RB 
+VBG NNS , NNP VBD 
+VB PhrasalVerb DT nan DT 
+VB VBG PhrasalVerb DT NN NN 
+VB PRP CC VB 
+DT NN VBG NN . 
+Elements 
+PRP$ NN VBN Location PRP$ JJ NN , 
+Location NNP PRP VBD 
+WP$ NNS VBD Location PRP . 
+NNP POS DT NN . 
+NNP NN NNS . 
+NN NNS VBN nan NNS CC 
+DT JJ NN Location NNP 
+JJ NN NN , CC VBD 
+NN RB PRP , '' NNP NNS 
+NNP NNP NNP Attribute DT CD NNP . 
+VBG JJ NNS Topic PRP . 
+NNS Via DT NNP MD 
+Circumstance DT NNS 
+PRP MD RB VB TO NNP Purpose PRP$ NN NNS CC VB DT JJ NN , CC PRP VBP TO DT NNP NNP Explanation PRP$ NN . 
+NNP NNP Circumstance NNS nan NNS 
+VBD DT NN Location DT NN 
+DT VBZ , nan VBZ DT VBG NNS , 
+VBN NNP NNP State JJ 
+CC NNP NNS DeicticTime CD NNS . 
+DT NNP NN NN nan RP 
+DT NN WDT VBD CD 
+VB DT NNS Location DT NNP CC 
+NNP NNP VBZ Causer NNS 
+NN NN NNS nan DT JJ NN NN 
+NN nan Approximator JJS RB CC PRP MD VB TO VB . 
+JJ NN Beneficiary NNP 
+NN NNP NN , VBG DT NN 
+NNP NNP VBZ nan DT NN . 
+MD RB VB VBN RP . 
+CC Elements PRP$ NN , DT 
+JJ NN NNS , VBG DT 
+DT NN Topic VBN NN VBP 
+NN EndTime RB JJ . 
+Circumstance DT NNS , NN VBZ RB RB JJ , CC PRP RB VBZ RB JJ . 
+RB JJ NN VB JJ NN Species NN nan PRP RB MD RB VB Location DT NN Superset NNS . 
+NNP : JJ . . 
+JJR NNS Comparison/Contrast DT VBN NN 
+NN InitialLocation NNP POS NN 
+NNP Circumstance DT NN 
+CD NN NN NN Circumstance DT NN , NNP 
+DT NN Co-Theme DT NN NN 
+VBN CD NNS StartTime NNP CD . DT 
+PRP$ NN Topic JJ NNS , RB 
+NN CC NNP StartTime JJ CD , VBG 
+NN VBP NNP NNP NNP NNP . 
+NNP CD , CD , Location PRP$ NNP NNP 
+MD VB VBN DeicticTime NNS , RB VBD 
+DT NN Location DT JJ NN 
+NN CC NN VBG NNS WP VBP 
+DT JJ CD NNS . 
+NN VBD VBN RP 
+PRP$ NN VBD VBG ProfessionalAspect NNP NNPS CC NNP NNP . 
+NNS nan DT NN nan 
+NNP NNP VBD Approximator CD NNS 
+NN NNS Location DT NN . 
+NN NN NNS Locus NNP JJ NN , 
+NNP NN VBD nan DT NNP NN 
+DT NNP CC 
+RB CD NN ValueComparison DT NN NN , 
+VBZ DT NN Scalar/Rank NN RB PRP 
+NNS CC VBG 2DArea JJ NNP CC 
+VBD DT NN Theme DT NN CC 
+NNP State DT NN , WDT 
+WRB PRP MD VB RP PRP$ JJ NN 
+VBN DT NN Location PRP 
+VBD RB VBG Idiom NN WRB PRP$ 
+DT NN , VBG NNP . 
+NNS VBP JJ 2DArea DT NN 
+DT NN , EndTime PRP VBD 
+NNS DT NN Location DT NN 
+DT NNP NN NNP NN , DT 
+Elements PRP VBZ RB DT 
+DT NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP , NNP NNP NNP NNP NNP NNP NNP NNP nan NNP NNP NNP NNP NNP NNP NNP . 
+NNP RelativeTime VBG VBN JJ . 
+CD . DT NN TO VB . 
+VBN RB VBN PhrasalVerb DT NN 
+NN , PRP VBD Location CD 
+Circumstance DT NN , NNS 
+NNP MD RB VB Manner VBG DT JJ 
+DT nan 
+NNP VBZ DT JJ 
+Approximator CD . DT CD 
+CC NNP NNP , RB RB Accompanier NNS . 
+nan PRP VBD Destination DT NN CD 
+NNP VBD nan NNS nan 
+JJ NNP VBZ Approximator CD NNS NNP 
+Elements VBN NNS , DT 
+NNP RB VB TO PRP$ NN : 
+JJ NN NN , Comparison/Contrast NN WDT NNS 
+NNP NNPS : NN CD : JJ NN 
+RB CD RB NNP . 
+VBZ RB VBG DT NN nan 
+RB VB PRP , Circumstance DT NN nan 
+NNP VBZ VBN Explanation JJ NNS 
+NNP NNP VBZ Co-Agent NNP NNP POS NNP 
+DT JJS NN NNS VBG NN CC 
+RB JJ NNS Location DT NN . 
+VBD DT NN VBG NNP 
+NNS JJ NNS Manner DT JJ NN . 
+JJ RB NN NN nan NNS : 
+WP VBZ VBG VBP JJ NNS 
+DT NN Locus DT NNS 
+VBZ VBN NNP Duration NNP POS NN , 
+NNP NNP NNP , Duration DT NN NN 
+DT NN VBZ RB JJ CC JJ . 
+NNS Location DT NN . 
+NNS Idiom NNS , DT NNS 
+PRP VBD PRP RB . 
+DT NN Manner VBG VBN PRP , 
+NNP POS NN NNS VBG DT NNP NNP 
+NNS ( CD NNS ) Location NN , DT NN 
+WRB PRP VBP Topic DT NN 
+VBG NN NNS CC 
+DT NN Location NNP POS JJ NN 
+DT VBG NN . NN NN 
+JJ , JJ NN Location NNP NN , NN 
+CC CC CD NN . 
+NN VBD VBN CC NNS VBD NN 
+DT NNP NN Means VBG 
+NNP NNS nan , Comparison/Contrast JJS NNS , WP 
+DT JJ NN VBG DT NN NNP NNP VBD 
+NNS CC NNS VBG NN NN , RB , 
+NNP VBZ VBG VBG , WDT MD 
+NNP NN CD , VBZ PRP 
+NNS VBP DT JJ NN 
+MD VB NN TO DT JJ . CD 
+DT JJ NN JJ NNP NNP POS NNP 
+NNP NN VBD RB NNP NNP DT 
+JJ NN Duration VBG NNS NNP 
+DT NN , Location NNP , DT NNS 
+CD RB VBG RP JJ NNP NNP : 
+JJ JJ NN CC JJ NN NN StartTime DT CD JJ 
+DT JJ NN Duration DT NNP NNP 
+DT NNP NNP NNP NNP NNP . 
+NNS WP VBP Locus PRP . 
+VBG JJR nan NN . 
+MD VB VBN Via NNP . 
+NNS VBD VBN Location JJ NNS , NNP 
+JJ NNP NNS Elements 
+JJ . : NN 
+VBD RB VB PhrasalVerb DT JJS JJ 
+NNS NNP VBD DT NN Quantity DT NN . 
+NNP POS NN NN Theme NNP . 
+PRP$ NN , RB Location PRP . 
+DT JJ NN Location DT NNP FW 
+NNS VBP VBN Duration DT JJ NN , 
+VBD DT NN Explanation DT JJ NN 
+NN DT NN Theme NNS POS NNS : 
+NNS POS JJ NN '' Topic NNS JJ 
+NNS PRP . 
+DT nan DT NN 
+CC PRP VBZ VBG Location DT NN 
+DT NN EndTime NN , 
+PRP RB VBZ VBG DT NN . 
+NNS , NNS NNP FW NNP , 
+PRP VBZ RB DT JJS NN , CC PRP VBD JJR Scalar/Rank PRP VBD CC DT NN VBD RB JJ . 
+NNS PRP VBZ Location DT NN . 
+JJ NN NNP NNP NNP , VBD NNP 
+NNS , CC WP PRP VBD 
+JJ NN NNS , VBG 
+VBG NNS , VBP RB 
+: NN NN ProfessionalAspect NNP 
+DT NN JJ NN PRP$ JJ NN . 
+NNP NN , Time DT NN Possessor VBG PRP$ NN DT NN VBD VBN CC VBN RB RB CD NN Whole WP VBD VBN . 
+Scalar/Rank DT , PRP MD 
+CD NNS Value NN . 
+VB PRP DT NN . 
+DT JJS NN Topic NN 
+JJ NNS NN NN NN , 
+DT JJ NN 
+PRP$ NN Duration DT NN . 
+NN Elements 
+NN NNS VBD Location DT NNP NNP 
+CD Value NN 
+DT NN VBG DT JJ 
+NN NNS VBP VBG NN NN . 
+NNP NN NNS TO VB NN NN . 
+NNS Attribute NNP VBP NNS 
+PRP RB VBP NNP NN Reciprocation VBG DT JJ NN RB RBR Means PRP$ JJ NN CC NN . 
+PRP VBP PRP$ JJ NN NN TO NN InitialLocation : CC PRP VBP DT JJ , NN VBD NN . 
+WDT VBD Via JJ NNS 
+RB JJ NNS VBG DT JJ NN , 
+CC VB PRP VB DT NN . 
+NN CC VB Topic NN '' RB . 
+VB DT NNS VBG NN 
+JJ NN NN Location NNP , nan CD 
+NNS VBG 
+NN NN NN VBD PRP$ NN . 
+NN Scalar/Rank NNP 
+DT JJ NN 
+DT JJ NN NN 
+RB CD NNS Location DT NN 
+DT JJ NN Comparison/Contrast WP VBZ JJ CC 
+NNS PRP VBD Time CD NNP NNP 
+Location DT NN VBD 
+NNS NNP NN TO DT NNP . 
+DT NN , Circumstance VBG DT NN 
+VB State NN . 
+PRP , Comparison/Contrast PRP , VBD 
+NNS , DT NNS Location NNS RB VBP 
+CD Superset CD CD NNS : 
+LS . VB Topic DT NN PRP 
+VB PRP VBN Scalar/Rank NN RB . 
+VBG DT NN Location CC 
+DT NN , Elements 
+NNP CD , CD , Duration DT NNP NNP 
+Elements VBG NN WDT 
+NNP NNP , NN CD . 
+NNS , DeicticTime DT NN DT NN 
+RB VBP RP 
+JJ NN NNS TO CD , CC VB 
+WRB PRP VBD RP NNP 
+RB CD NNS TO VB NNP NNP 
+MD NNP VB Topic NN CC NN 
+NNS CC NNS Duration JJ NNS , 
+VBG 
+RB , nan PRP VBP DT nan 
+PRP$ JJ NNS Via NNP NNS . 
+JJ NNS VBG DT NN 
+Elements VBG JJR JJ 
+NN PRP VBG PRP$ NN , PRP 
+CD RB VBG RP JJ NNP CD 
+NN VBD VBN RP 
+VBG DT NNS CC 
+JJ Topic DT CD NNS , 
+VB VBN PRP$ JJ . 
+DT NNP NNP Location NNP NNP . 
+Scalar/Rank DT , NNP VBD 
+VBN NN Time CD NNP NN . 
+VBD VBN NNP Time CD NN NNS 
+VB WP VBZ VBG Possessor DT NN . 
+VBG DT NNS Duration DT NN MD 
+RP PhrasalVerb . nan 
+VBZ VBN JJ StartTime JJ NNP , 
+JJ NN VBG nan DT CD NNS . 
+JJR PRP$ NNS Duration DT NN NN 
+( CD ) NN NNS Age NNS CD : NN 
+CD NNS Duration JJ NNP CD 
+VBZ VBG PRP PhrasalVerb 
+Scalar/Rank DT , DT VBD 
+RB VBG NNP NNP NNS 
+CC CC CD NNS , CC 
+NNP , WDT VBD RP PRP$ JJ NN . 
+PRP VBZ RB PhrasalVerb NNP NN . 
+PRP VBZ DT NN TO NN CC DT NN Possessor DT NN NN ProfessionalAspect NNP nan VBZ DT NN RB Comparison/Contrast DT NNS . 
+PRP VBD PRP RP 
+NNS NNPS NNP ( NNP ) NNS . 
+NNP NNP , CD , Superset NNP NNP POS NNP 
+NN Co-Agent NNP . 
+PRP VBP JJ NN NNS 
+VB DT NNS VBG NN 
+DT NN CC VBZ RB JJ 
+JJS NN NN RB . 
+DT NNS VBD Location DT NN NN 
+CD NNS : DT Topic NNS DT NN 
+PRP VBD State NNP NN . 
+CD . NN TO NN . 
+NNP NNP NNP 
+NN WP VBD Superset DT JJ NNS 
+NN VBZ JJ Co-Theme NNP NNP ( NNP 
+MD VB JJ Location NNP , NNP , CC 
+NNP VBD JJ Location DT JJ NN 
+VBN PRP$ NN Destination DT NN , DT 
+NNP CD CC VBD RB VB 
+NNP NNP NN Explanation VBG DT JJ 
+PRP$ JJ NN VBG NNP NNP POS NN . 
+DT JJR CC DT RB . 
+PRP ProfessionalAspect NNP CC NNP NNP NNPS VBP JJ nan PRP$ NN CC DT JJ NN PRP VBD TO VB RP NNS VBG RB , PRP MD VB PRP$ JJ NN nan NN VBZ RB CC PRP MD VB PRP TO JJ NNS Attribute NN NNS . 
+NNS 2DArea DT NN NN 
+NN NN State DT NNP NNP 
+WP NN VBZ VBG 
+NN VBZ PRP RP 
+DT NN NN Beneficiary CD POS DT NN 
+NNP VBZ VBN Means DT JJ NN . 
+VBP VBG NNS Topic DT NN NN 
+CD JJ NNS Superset DT NNP NNP 
+CD ) PRP VBZ RB VBG DT NN PRP$ 
+DT NN VBD RP NNS 
+DT JJ NN Location NNP . 
+NNP VBD VBN PhrasalVerb DT NN 
+DT JJ NN StartTime CD . 
+NNP RB VBD nan : 
+NN NNS VBP Location DT JJ NN 
+VBG NN NNS , NN 
+VBN RB VBN PhrasalVerb VBG DT JJ 
+DT NN Location DT NNP NNP 
+VB DT NNS VBG NN 
+NNS RB VBP RP DT NN 
+DT NN VBD Location DT JJ NN . 
+DT NN VBD VBN WRB 
+NNP NNP CD 
+NN NN VBP Location DT NN , DT 
+NNS Co-Theme JJ NNS 
+DT NNP NN JJR nan CD NNS 
+NN JJ NNS Location DT NN VBD 
+NN EndTime CD NNS . 
+Scalar/Rank DT , VBG NN 
+VB RB VBN EndTime PRP VBP CD NNS 
+DT NN Approximator CD NNS : 
+NNP NNP VBD VBG NNS nan DT 
+MD RB VB JJ NN JJ NN . 
+nan DT VBG RP DT NN NN 
+nan WRB NNS VBP 
+RB Accompanier JJ NN 
+NNS : NNP NN nan NN : DT JJ , 
+VBN NNS VBD Circumstance NNS CC JJ 
+JJ NN NN Co-Theme DT NN 
+NN CD nan NN NN nan 
+PRP VBP JJ NN Location NN CC VB State NN . 
+CD , VBD Location DT NN 
+DT JJ NN ProfessionalAspect NNP . 
+DT NNPS POS NN Manner JJ NNS CC 
+NN NN : Elements DT JJ NN 
+JJ NN NN Co-Agent NN 
+NN , NNP VBP VBG NNP NN CC 
+DT JJ NN 
+PRP$ JJ NN Value CD 
+NNS JJ NNS Circumstance DT JJ NNS . 
+PRP$ JJ NN Scalar/Rank DT NNS . 
+RB VBD nan DT NN NN POS nan 
+NN CC VB PRP$ NNS . 
+VB PRP$ NN EndTime NNP NN VBZ 
+VBZ DT CD Value NN NN NN . 
+NNS CC NN VBG DT NN NNS 
+NNP VBD NNS Theme NN NNS WDT 
+DT JJ NN , NN CD . 
+DT JJ NN . 
+NNS VBG Location NNP , CC NNS 
+DT NN RB VBG 
+NNS DT NN Duration DT NN VBD 
+DT JJ NN Location 
+NNP VBG DT JJ NN 
+VBN PRP$ NN Location DT NNP 
+MD VB VBN Location DT NN . 
+PRP DT VBZ PhrasalVerb DT NN 
+CC DT NN Comparison/Contrast PRP . 
+NNS NN NNS VBG JJ NN VBD 
+DT JJ NN Location PRP$ NN NN 
+DT NN Location PRP , PRP VBD . 
+CD : JJ NNP Attribute NNP , PRP VBD 
+$ CD NN Duration DT NN NN 
+MD VB JJR , VBG DT NN NNS , 
+NN NN Location DT NN POS NN . 
+NNS MD RB VB VB DT NN NN 
+DT JJ NN , NNP VBD . 
+DT NN ( NN ) 
+Elements PRP VBP RB 
+NNS NNP VBD 2DArea DT NNS . 
+NN RB NNS RelativeTime NNP NNP POS NNP 
+NN NN Circumstance JJ JJ NN , 
+DT JJ NN State NN 
+NN VBZ $ CD Value NN NNS CC 
+CD . VB VBN DeicticTime CD NNS . 
+NN CC VB Location DT NNS 
+NN NN Explanation NNP NNP NN 
+JJ JJ NN Destination DT JJ NN . 
+DT JJ NN 
+CC PRP VBP RB VB PRP Elements nan VBG RB . 
+NN NNS VBP VBP PRP$ NNS . 
+CD NNS TO VB PRP VB 
+NNP NN NN Source VBN NN NNP 
+RB VBG RP nan DT NN nan 
+VB JJ Location DT NN 
+PRP VBD PRP VBZ PRP 
+RB DT NN RelativeTime DT NN . 
+DT JJ NN Time PRP$ NN CC 
+DT NNS VBP State NNS . 
+Location DT NN , 
+WRB JJ NNS Attribute DT NN DT 
+NN DT NN : NNP JJ NN 
+JJ NN NNS Location DT NN VBZ 
+JJ NNP , VBZ Scalar/Rank DT NN NN , 
+NN CC VBN Location DT JJ NN 
+NN NNS , RelativeTime VBG 
+VBD VBN nan DT NN . nan 
+nan PRP VBZ DT nan NN : CC 
+VBZ VBN DT NN 
+CD VBD Time NNP nan PRP$ 
+DT NN nan WP VBD VBG . nan 
+NN NN NN VBG NN 
+RB , VB PRP NN nan nan PRP VBP Location NNP , PRP VBP RB InitialLocation NNP , PRP VBP RB VB Stimulus NN CC PRP RB VBP NNP TO NN ( RB JJ , RB JJ , RB JJ ) . 
+Possessor DT NN 
+NN PRP VBD VBG 
+JJ NNS VBG Topic WP MD VB 
+VBD DT NN Co-Agent NN 
+VBD VBN VBG nan DT JJ CD NNS 
+JJ JJR VBP VBG JJ NNS . 
+JJ NN NN VBZ Theme NN Location NN CC NNS 
+NN MD VB TO NNP NNP NNP 
+RB JJ NN Topic CD 
+DT JJ NN JJ NNP . NNP , NNP 
+RB VB PRP RP 
+CD NNS Location DT NN POS JJ 
+NN VBP RB RB PRP$ JJ NNS , NN 
+MD VB RB JJR NN 
+VBZ DT NN Quantity DT JJ NN 
+JJ NN NNS VBD DT JJ NN 
+NN VBD RB Location PRP$ NN 
+NN NNP VBG RB NN NNS . 
+DT NN NN Location DT NN 
+NNP NNP VBD nan DT NN 
+DT JJ NN , VBN 
+VBD DT NN Topic NN . 
+NN 
+NN NNS Direction DT JJ NNP 
+Comparison/Contrast JJ NNS : EX 
+nan CD NNS VBG NN JJ NNS , 
+DT JJ NN Location NNP . 
+RB NN NN Duration DT JJ NN . 
+DT JJS NN Attribute PRP$ NN . 
+DT NNP NNP Accompanier 
+CC JJ NNS Location DT JJ NN . 
+PRP VBD VBN Locus DT JJ NNS 
+RB ValueComparison NNS CC VBG 
+NNP CD , CD , Duration DT NN 
+RB JJ nan NNS . nan 
+NNS : NNS : NNS Duration NN CD NNS : 
+JJ NNS NN 2DArea DT NNP NNP . 
+NNS RB RB Location NNP NNP . 
+PRP VBD DT NN PRP VBD Co-Agent NN DT PRP VBP VBN VBN . NN TO VB PRP VB nan NNP MD VB DT JJ NN Function VBG VBG DT NN Topic NNP . 
+RB , PRP VBP JJ NN NN CC DT RB JJ NN 
+NN NN Locus JJ NNS CC 
+CC JJ NNS VBG DT JJ NN 
+CD , CC RB VBN NN 
+NN nan RB , CC PRP VBP RB VBG 
+NN CD NN . 
+NNP , WP VBD RB 
+DT NNS RB VBG 
+JJ NN NN NNS . 
+CC CD NN 
+VBZ VBN PRP StartTime PRP VBD JJ . 
+PRP$ NN , PRP VBZ StartTime VBN nan DT 
+NN VBG DT NNP NN nan 
+JJ NNS VBP Topic PRP NN : VBG 
+DT JJ NN , CC RB 
+VBD DT NN Location DT NNP NN 
+nan DT NN RelativeTime PRP$ JJ NNP , 
+VB JJ Accompanier PRP . 
+PRP VBZ DT NN Goal JJ NN 
+VB ValueComparison NN 
+VBZ RB VBN State VBG NN 
+VBZ VBG JJ Via DT JJ NN . 
+VBD DT NN Idiom 
+PRP VBD VBN Accompanier PRP . 
+NNP JJ NN : 
+NN NNP VBZ TO VB NNP . 
+NN NNS Approximator $ CD 
+PRP$ NN VBZ RB RB NN PRP VBZ DT JJ NN TO VB RB RB VBN Purpose DT NN PRP VB . 
+NNP ( NNP ) VBZ Duration DT NN NN 
+PRP VBP DT JJ NN . 
+NNP DT NN , Circumstance DT JJ NN 
+PRP$ JJ NNS , CC CD POS NN 
+JJ NNPS VBP RBR JJ 
+NN CD NNS Location DT VBG NN . 
+CD Superset NNP NN NNS 
+VBN RB , JJ Comparison/Contrast NN NNS . 
+NNP NNP VBZ DT JJ NNP NN NN NN . 
+DT NN NN NNS 
+PRP$ JJ NNS NNP . 
+NNP NNP NNP NNP VBD 
+NNP Explanation VBG DT NN . 
+DT JJ NN Co-Agent DT NNP NNP 
+VBN CD NNS nan DT JJ NN , 
+NN NN NN , Elements 
+CC NN VBZ RB JJ . 
+Elements NNS 
+NNS VBD NNS Location NNP NNP NN 
+NNS DT NNP Location NNP . 
+JJ Location JJ NNP . 
+NN Purpose DT NNP NNP 
+PRP VBP nan VBZ PRP DT NN . 
+DT PRP VBP TO VB TO VB PRP JJ NNP NN , VBZ VBG DT JJ NN Quantity NN . 
+PRP$ NN VBZ VBG VBG DT NN 
+DT NN VBP RB VB NN NN NN , CC nan PRP VBP VBG NN DT JJ NN CC VBP RB DT NN , VBP RB VB PRP . 
+NN PRP$ NN , Accompanier 
+PRP$ NN , Location PRP$ NN NN , 
+Circumstance DT NN , NNP 
+NNS DT NN Location DT NN 
+CC VBD . 
+NNP NNP VBZ Time NNP NNP , NNP POS 
+NNP VBZ JJR nan PDT DT 
+NN NNS VBG NNP NNP NNP 
+NN , RB JJR nan DT CD 
+NNP NNP NNP RelativeTime NNP : RB CC 
+JJ NNS Elements DT NNP 
+Elements DT RB JJ 
+2DArea NNP NNP , NNP 
+VB DT VBG NN NN , nan 
+PRP$ NN nan DT NNP NNP 
+VBZ VBN PRP Duration PRP$ NN , 
+: WDT VBZ JJR nan $ CD 
+DT JJ NNS Location DT NN VBG 
+CD CD NNS Value NN , nan 
+VBZ RB JJ Idiom DT NN 
+JJ NN 
+Possessor PRP$ NN NN 
+PRP$ JJ NN , VBG NN . 
+NNP NN NNS Location DT NN 
+NNP NNP , VBZ Duration DT NN NN 
+VBD PRP$ NN Location NN 
+RB CD VBD 
+VB VBN PhrasalVerb NN 
+NN PRP VBZ , VB DT JJ NN 
+PRP VBD JJ , JJ NN , PRP VBP PRP VB nan JJ , CC DT NN VBD JJ . 
+DT nan DT NN . 
+NNP CC NNP Manner NN NN . 
+Elements NNP , 
+NN MD RB VB Accompanier NNP POS NN . 
+NNP NNS VB Location DT RB VBN 
+WP VBZ VBP RP 
+NN , EndTime DT NNS VBP 
+VBG ValueComparison DT JJ NN 
+NNP POS JJ NN VBG JJ NNS 
+VBZ DT RBS JJ NN 
+RB VBP JJR nan NNS nan 
+DT NNP NN . 
+VBG NNS VBN Activity DT NN . 
+NNS , VBG NN NNS CC 
+DT JJ NN Beneficiary NNP 
+NNP RB VB DT NN . 
+DT NN Location DT NN , DT 
+DT NN , VBG DT NNS , DT 
+NN NNP VBZ VB DT NN 
+Elements 
+NN Location DT NN 
+PRP VBP RB VBG PRP VBZ DT CD NN NN . 
+DT VBZ CD Superset PRP$ JJ NNS TO VB Circumstance NN . 
+NN WDT VBD VBG NN . 
+NNP CD , CD , Location NNP , NNP , 
+CD . WRB nan RB PRP VBP 
+VBD RBR CC RBR JJ . 
+VBG JJ NNS . 
+NN NN State DT NN . 
+DT NN VBN Location DT NN 
+PRP VBD RB JJ TO VB PRP$ NNS CC DT NN NN TO VB DT RB JJ CC VBG NN Whole PRP$ NN . 
+VBG PRP$ NN 1DTrajectory NNP 
+Co-Agent DT NNP . NNP 
+VB RP 
+VBG 
+RB JJ NN State DT NNP NNP , 
+NN DeicticTime PRP MD VB 
+( CC ) : DT NN Elements DT NN VBZ 
+VB RP 
+DT CD CD CC JJ NNS 
+DT NNPS VBP Circumstance VBG PRP$ NN 
+NNS RB VBD RP DT JJ NN . 
+JJ NN VBP Superset DT NNS . 
+DT nan DT NN VBD 
+RB RB PRP VBD DT JJ NN StartTime VBG TO VB . 
+DT NN NN NN NNS WDT VBP 
+Location NNP , DT NNP POS 
+PRP VBD VBN RelativeTime DT NN 
+VBN JJ NN Location DT NN DT 
+NNP NNS NNP Agent NNP WP VBZ 
+VBZ RB JJ EndTime DT NN 
+$ CD Value NN CC DT 
+NNP CC NNP Circumstance VBG NNP NNP 
+JJ NN NN 1DTrajectory DT NNP NNP . 
+VB DT NN Destination DT NN NN 
+JJ NN DT NN JJ 
+DT NN Goal DT JJ NN 
+NNP NNP StartTime CD . 
+VB DT JJ NN nan NN 
+CD NNS EndTime NN . 
+NN NNP POS NNS Location DT NNP NNP 
+DT NNS VBP nan DT NN 
+JJ NNS Comparison/Contrast DT NNP NNP , 
+Location DT NNP 
+VBD VBN VBN PhrasalVerb DT NN CC 
+NNP NNP NNP DT NN 
+WRB PRP VBP Topic DT NN 
+DT NN VBZ VBN DT NN CC 
+NNP NNP NNP NNP NNP 
+JJ NNS . 
+nan NN CC JJ nan 
+PRP$ NNS RelativeTime PRP$ NN VBZ . 
+Location DT NNS , NNP 
+VBG TO VB 
+NNS nan DT NN , DT nan 
+PRP VBP RB JJ 
+DT VBZ VBN Agent NN 
+Elements NNS , DT NN 
+WRB NNS VBD PhrasalVerb DT JJ NN 
+NNP CC DT JJ NN 
+PRP VBD RB VBG DT NN 
+DT RBS JJ Duration DT NNS , RB 
+PRP VBD PRP RP JJ . 
+VBZ VBN VBN Beneficiary JJ NN VBG 
+Elements RB PRP VBZ 
+DT NN Comparison/Contrast DT CD NN 
+NNP RB VBZ Attribute DT NN 
+VB DT NN nan DT NNS POS NNS . 
+NNP CD Location JJ NN NN 
+VB PhrasalVerb PRP$ NN . 
+VB DT NN Manner DT NN NNS . 
+DT NN VBG Location PRP$ NNS 
+CD NNP ValueComparison JJ NNP NNS . 
+NNP NNP Manner NN . 
+DT NN NN Duration NN . 
+DT JJ NN Direction DT NN , NNP 
+CC NNS VBD Location DT NN . 
+Comparison/Contrast DT JJ NN 
+DT NN Location DT NNS WRB 
+DT JJ NN Co-Theme VBN NNP NNP 
+DT JJ NN NN 
+DT JJ CD NNS VBP 
+NNS WDT VBD Destination NNP NNP VBD 
+Elements VBG 
+Goal 
+NNS RB RB VBG 
+VBP VBN VBN Location NNP . 
+Location PRP VBD DT 
+NN StartTime DT JJ CD . 
+JJ NN NN DeicticTime DT JJ NN . 
+WP$ NNS VBP JJR nan $ CD DT 
+PRP$ JJ NN Beneficiary DT NNP RB . 
+nan VBG CD Via JJ NN , PRP 
+VB PRP$ NN Stimulus DT NNS 
+VBG JJ NNS , DT NNS 
+NN VBD JJR Approximator CD NN nan 
+VBD JJ NN Value NN VBD 
+NNP VBD VBN Location DT NN CC 
+RB DT JJS , CC RB DT RB , 
+nan PRP VBP RB , PRP VBZ DT VBD RP . 
+DT NN Location DT NNP CC 
+PRP$ JJ NN Duration DT NN NN 
+NNP CC ValueComparison DT CD NN NN 
+VBG DT NNS 2DArea DT NN , VBG 
+RB JJR NNS Theme NNP . 
+CC DT NN TO VB JJ NNP 
+VBN CD NN , VBN , FW CD NN 
+NNP NNP VBZ Time PRP VBZ DT 
+VBD RB VBN nan JJ NN 
+VBD CD CD , RB CD 
+NNP NNP VBD JJ NNS Goal NN 
+VB RB PhrasalVerb NNP NNP . 
+VBD RB JJ VBG NN 
+CC NN NNS , VBG TO VB 
+DT NN NN WDT MD NN 
+$ CD CD NN NNS 
+NNS VBG 
+CD VBZ nan JJR JJR NNS ProfessionalAspect DT NN . 
+NN RB VBZ Location DT NN 
+CC VB NNS VBG 
+NNP NNP VBP Location DT NN NN 
+JJ , PRP VBZ DT NN NN 
+DT JJ NN VBZ Location DT NN NN , WRB DT NN VBZ RB JJ CC VB DT NN PRP RB VBD Topic DT NN . 
+: NNS VBP Instrument NNS 
+CC RB VBG RP 
+DT NNP VBZ DT NN Attribute JJ JJR NNS , CC RB CD VBD . 
+DT NN Via JJ NNS 
+PRP VBZ VBN NNS Extent NNS 
+NNP NNP NNP RelativeTime CD 
+VBZ PRP$ NN Destination DT NNS 
+DT JJ NN VBG RB VBN JJ 
+NN Co-Participant JJ NNS 
+NNS VBD VBN Location DT NN . 
+: VBD JJ Location DT NN WRB 
+VBD JJ NN Course NNP NNP 
+VB VBN DeicticTime NNS , NNP VBD . 
+NNP NN VBZ State NN 
+Elements DT JJ NN , 
+CD NNS RB RelativeTime DT NN . 
+JJ NN , Accompanier 
+NN VBD VBN JJ JJ NN 
+CD RB VBG RP JJ NNP NNP 
+VBN NNP NNP Activity PRP$ JJ NN 
+DT NN NN Location DT NN 
+PRP$ NN NN StartTime DT NN 
+NNP VBZ JJ CC JJ nan 
+NNS Location DT NN , DT 
+NNS DT NN NN NNP POS NN , DT 
+NNP NNP NNP Location NNP . 
+NNP , JJ NNS VBG NNS VBD CD NN 
+RB CD NNS Location DT NN , DT 
+PRP VBZ RB $ CD CC nan NN RB CD JJ NN NN . 
+NN VBD PRP 1DTrajectory DT NN 
+RB VBN . 
+VBG Beneficiary DT WP VBD 
+NN : CD NN Explanation VBG DT NN 
+PRP VBP VBG PRP TO VB RB DT NN RB nan PRP VBD PRP$ NN TO WRB PRP MD VB PRP Duration RB DT NN CC DT JJ DT CD NNS . 
+VBZ RBR JJ NNS JJ NNS nan 
+VBD RB VBN NN NN NNS . 
+DT VBG NN Manner JJ VBG DT 
+CD . DT NN Elements VBG . 
+VBN PRP$ NN Location NNP NNP . 
+RelativeTime DT NNP NN 
+VBP VBN VBN RP 
+, CD NNS nan PRP$ JJ NN , nan 
+NNS : JJ NNS Via JJ NN NNP 
+NNP VBZ CD Superset DT NN POS JJ 
+JJ NN VBZ RP VBG PRP$ NN 
+$ CD CD Value NN . 
+VBG PRP DT VBD 
+NN NNP NNP CC JJ NN CC 
+CC VBG PRP$ NN DT JJ NN 
+NNS Reciprocation DT JJ NN CC DT JJ NN . 
+VB RB VBN Possessor DT NN . 
+NNP NNP NN CD . 
+NNP NN VBD , DT 
+DT JJ NN VBN 
+DT JJ NN Elements NN . 
+CD Superset CD DT VBZ 
+CC NN RB Superset DT NN VBD 
+CC , Scalar/Rank DT , PRP VBP VBN 
+CC PRP VBP , CC PRP VBP RB 
+NNP NNP VBG DT NN 
+CD ) Co-Agent DT NN POS NN 
+DT NN Explanation DT NN VBD 
+DT JJ NN VBG WRB NNP VBD 
+NN RP DT NN POS JJ 
+JJ NNP NNP VBG NNS , NN , NNS 
+DT NN Duration DT NNS , DT 
+NNP NNPS ( NNP ) Circumstance NN 
+$ CD CD , CC DT JJ NN 
+Location PRP$ NNS VBZ 
+JJ NNS RB Goal VBG NNP JJR 
+DT JJ NNS VBP VBN 
+nan NNP 
+VBG NNS , RB JJ 
+DT NN , Location DT JJ NN 
+NNP NNS VBP RP PRP$ NN 
+LS . VB nan DT NN 
+DT NNP NNS Location NNP . CD : 
+NNP NNP Via NNP NNP ) NNP , 
+PRP RB VBD RP DT NNS VBG , 
+NNP NNP VBZ PhrasalVerb JJR nan CD 
+NNS VBZ RB VBG VBG nan 
+PRP$ NN NN NN NN NNS 
+NNS VBD NNP State DT NN RB 
+DT NN NN . 
+DT JJ NN Via DT NN 
+VBN VBG PRP Location DT JJ NN 
+PRP VBD DT NN Attribute DT $ CD NN , WDT PRP VBD . 
+CD : VB Topic PRP$ JJ NN 
+NN VBD NNS 2DArea DT NN 
+CD NN NN Location NNP NNP CD , 
+PRP DT NN Location NN . 
+CD : NN Topic NNP VBG NNS 
+CD NNS : NNS Topic NN 
+DT NN nan , Comparison/Contrast DT JJ JJ 
+DT , CC DT RBR JJ 
+VBD VB : Manner NN : CC 
+DT JJ NN 
+NNP NNS , ValueComparison DT CD CD 
+DT JJ NN Location CD 
+NNP NNP VBZ DT NN . 
+NNP NN NN VBG NNP . 
+DT NN VBN NNS NNS . 
+VBZ DT NN Location PRP$ NN NN . 
+JJ JJ NNS Attribute NN . 
+DT JJ NN VBD , PRP VBD 
+NNS CC NNS VBG DT NNP , 
+Circumstance DT JJ NN 
+CC CC CD NN NNS . 
+JJ VBG NNS Time NNP , VBG 
+NNP VBD VBN RP 
+NN , VBG NN NNS , NNP 
+DT JJ JJ NNS DT 
+VBZ VBN DT JJ CD NNS NN 
+CD : NN VBD Topic NN DT JJ 
+CD . CD NNP NNP NNP DT JJ 
+PRP VBZ NNP VBG NNP POS NN 
+VBG NNS Location DT NN VBP 
+VBP VBN RB JJ NNS 
+PRP VBD JJ , CC RB DT JJ NN . 
+DT VBD RB InitialLocation NNP DT VBZ 
+DT JJ NNS , VBG DT NN NN 
+DT JJ NN Co-Agent DT JJ NN 
+NNP NN NNS Duration DT NN CD 
+VB Elements VBG NNS . 
+DT NNP NNP Topic NNP POS NN . 
+DT JJ NN Location DT NNP NNP 
+DT NN NN Location DT NN . 
+DT NN nan 
+CD , NNP VBD RP DT JJ NN , 
+RBR VBN , RBR JJ NNS . 
+DT NNP Course NNP 
+NNP CD , CD , Explanation DT NN 
+PhrasalVerb DT JJ NNS , 
+VBG Idiom JJ NNS , VBG 
+( NN ) NN RelativeTime DT NN CC 
+DT NN NN Location PRP , 
+CD . VBG DT NNS WDT 
+NN PhrasalVerb JJR NNS CC 
+DT JJ NN . 
+DT NN VBD Goal NNP NNP VBZ 
+CC JJ NN ValueComparison DT NN NN 
+JJ NNS VB Location DT NNS RB 
+JJ NN ProfessionalAspect DT NNP NNP 
+DT JJ NN Destination NNP . 
+CD Location DT JJ NN . 
+NN VBZ RB Location DT NN . 
+NN Value CD . NNS VBP 
+NNS VBD RB ValueComparison VBG , NNS VBD 
+VBG DT JJ NNS , 
+RB VBG JJ , JJ NNS 
+NN NN NNS . 
+Approximator CD NNS . 
+NNP VBZ VBD Location NNP NN , NNP , 
+VBG DT CD NNS 
+JJ NN VBN DT NN 
+RB JJ PRP Manner VBG PRP VBD 
+NNP RB VBD RP 
+NN VBZ VBN Location DT JJ NN 
+VBN PRP VBD VBG JJ NN . 
+PRP RB NN CD NNS RelativeTime PRP$ CD NN CC CD NNS RelativeTime PRP$ CD NN . 
+VBN CD NNS Source DT NNP 
+NNP NNP , CC PRP$ NN VBD 
+NN nan DT NN NN nan 
+DT VBD PRP Beneficiary PRP VBZ DT RBR NNP POS . 
+VBN NN NN NN NNS , 
+DT JJ NN Topic JJ NNS VBG 
+DT NNS VBD JJ NNP VBP DT 
+VB DT VBZ Locus DT NN : 
+PRP VBD VBN Location DT JJ NN 
+VBP RB VB , VB NN PRP VBP NN 
+VBG NNS RB Location DT NNS . 
+DT JJ JJ NNS , PRP 
+NNP NNP NNP Location DT NNP NNP 
+NNS VBD VBN Location DT NN NN , 
+DT NN VBZ RB JJ NN 
+JJ NN , VBD Location DT RB NN 
+NNS RB , VBD Location DT NNP NNP 
+DT NN VBZ Idiom NNS DT NN 
+PRP VBP VBN RB RB Time DT JJ NN CC MD RB VB RB CC MD RB VB PRP . 
+PRP VBD TO PRP$ NN Duration DT NN CC VBD VBG Patient DT NN . 
+DT NN NN , CC NN NN CC 
+NNS NNP nan 
+VBG JJ NNS Age CD CC CD 
+CD NN NN Location NNP NNP NNP 
+DT VBD VBN RP 
+VBN PRP$ NN Extent PDT DT NN . 
+VBN DT JJ NNS NNP . 
+CD Superset CD NNP NNS 
+DT NN VBZ Location NNP , DT JJ 
+MD VB VBN NNS NNP 
+VBN JJ NNS Location DT NNP NNPS 
+CD NNS TO VB CD NNS 
+DT NNP , EndTime DT JJ NNS 
+NNP NN NN , JJS NN PRP VBP RB VBN . 
+RB VBD NNS VBG 
+VB VBN , nan Elements 
+JJ NNS VBN InitialLocation NNP 
+NNS MD VB 1DTrajectory DT NNP NN 
+NNP VBZ Superset DT JJS 
+NN , nan PRP VBZ StartTime VBN 
+DT NNP NNP NNP NNP WDT VBZ , 
+CC RB VBN nan DT NNS . 
+Elements 
+CD NNS Value NN . 
+PRP VBZ JJ DT NN Time NN Explanation DT NN , DT NN VBZ RB CC DT NN VBZ JJ . 
+NN VBG NNS Possessor DT NNS CC 
+NNS VBN JJ Via DT JJ NN 
+NN VBZ VBZ Via NNP VBD 
+NN NNS VBG RB VBG NN 
+JJ NN VBZ nan DT JJ NN 
+NN NN Elements NNP NNP NNS . 
+WP VBZ VBN Attribute DT RBS JJ 
+NNP NNP NNP Time NNP , Time NN 
+NN NNS VBD Location DT NNS VBP 
+VB State DT RBS JJ 
+JJ NNP NNS , VBZ JJ NNS . 
+PRP VBZ VBG nan NN MD 
+NNP VBG DT NNS VBP 
+CD NNP nan NN 
+JJ NN NN 
+CD Value NN . CD 
+DT NN NN 
+NN CC VBD Destination DT NN NN . 
+nan DT NNP NNP nan 
+PRP VBD PRP$ NN , CC VBD TO RB . 
+JJ NNP Location DT NN 
+Scalar/Rank DT , PRP VBD 
+VBG DT JJ NN 
+NN NN NNS Source CD NNS 
+VBN DT NN Topic DT JJ NN . 
+NNS : CC VBN NN VBD NNS . 
+NN VBD VBN RP RBR nan PRP 
+DT VBG DT NN NN 
+NN JJ Circumstance DT NN . 
+NNP NNP VBZ VBG JJR 
+NN : PRP VBP NNS NNP POS NNS 
+VBN CD NNS State DT NN NNP 
+$ CD CD NNP Time CD , NNP NNP 
+VBP TO VB NNP NNP nan PRP VBP VBG NN nan PRP$ NN . nan 
+CC Comparison/Contrast NNP POS , NNP VBZ 
+nan VBN nan PRP VBZ 
+CC VBG NN Location NNP NNP CC 
+NNS , NN Locus PRP DT NN 
+NNP NNP Topic NNP . 
+CD NNS VBD InitialLocation DT NN 
+NNS VBD RB 
+WP VBD NN Location PRP$ NN CC 
+Approximator DT NN RB 
+DT JJ JJ PRP VBP VBN DT NN VBZ DT NN . 
+DT JJS Location DT NN . 
+VBG VB DT JJ NN 
+VB DT NNS VBP JJ NNS CC 
+NN NNP VBZ PhrasalVerb DT NNP CD 
+VBD DT NNPS State DT NN VBN 
+RB NNP NNP NNP NNP CC NNS 
+NN NN VBD Location DT NN NN . 
+NNP CD Superset NNS VBD JJ , PRP VBD DT JJ NN , CC VBN Time NN , PRP VBP RB VBG VB PRP CC VB PRP TO JJ NNS PRP MD Explanation nan DT JJ NN PRP VBD PRP . 
+JJ NNP NN Idiom PRP CC VB 
+NN Duration DT NN . 
+RB VB NN VBG nan VBG PRP 
+NNP : ValueComparison DT JJ NN POS NN NN CD NN CD NN 
+NNS Location DT NNP NNP 
+NN : DT NN Location DT NN 
+DT NNP VBD JJR nan CD NNS 
+RB NNP NNP PRP . 
+NN NNPS VBP Location DT JJ NN 
+VBD CD NNP Circumstance VBG 
+DT NN VBG Location DT NN CC 
+JJ NNP ( NNP ) Comparison/Contrast DT JJ NN 
+nan PRP VBP VBN nan NN , VBG Theme DT JJ NN CC nan PRP VBD DT NN NNS , PRP VBP RB VBN nan WP PRP VBD Purpose NNP DT NN WDT VBP JJ , CC RB RB JJ VBG RP nan PDT DT NN . 
+NN VBD JJ EndTime PRP VBD RP 
+DT NN RB Comparison/Contrast DT JJ NN . 
+NNP NNP VBD Superset DT NNS 
+DT NNS VBP PRP$ DT NN 
+DT NNS , Elements 
+CC RB VBD RP PRP$ NNP NNP 
+JJ NN NNP NNP NNP ( NNP ) VBD 
+JJ NN CC JJ NN VBZ JJ . 
+JJ NN NNS , VBG NNS , NNS , NNS , 
+VBG DT JJ NNS 
+NN . . 
+VB VBG DT NN 
+VB DT NN . . 
+Elements DT NNP CC 
+DT VBP RB VBG 
+VBZ DT JJ NN MD RB VB 
+DT JJ NN Elements NNS MD VB 
+NNP VBZ VBG VBG DT JJ 
+DT NN NN Manner PRP$ JJ NN , 
+nan DT NNS VBP VBG NNP NNP CC RB TO DT NNP NNP NNP , DT NN VBZ RB JJ . 
+DT NN Accompanier DT NNP NNP 
+CC JJ NNS Location DT NNS . 
+NN RB , NNS VBP 
+Location NNP . , DT NN 
+VB PRP$ NNS Theme DT NNP NNP 
+NNP , DT NN Location DT JJ NN , 
+CD NNS TO VB VBN DT 
+NN Extent DT PRP VBD 
+JJ JJ NNS VBD PRP$ NNS CC 
+NN RP DT JJS NN 
+DT JJ NN Elements DT , NNP VBD . 
+NN VBD VBG Location DT NN , PRP VBP 
+VBG 
+NNS JJ Location DT NN 
+CC DT NN DeicticTime VBG 
+NN VBZ State JJS NNS POS NN 
+DT NN JJ NN PRP$ NN NN , 
+PRP VBD RB DT NN nan PRP VBP PRP$ JJ NN . 
+NNP . NNP NN NNS . 
+DT JJ , VBG TO VB 
+NN VBD NN VBG NN NNS , NNP 
+RB VBN , NNP MD VB NN MD VB 
+VBZ NNP NNS Topic JJ NNS . 
+Location DT NNP NN 
+LS . CD Value NN 
+VB DT NN InitialLocation DT NN . 
+VBG DT NN 
+CD , NN NNP NN 
+PRP VBN Scalar/Rank NNP NNP . 
+RBR RB 
+JJ NNS VBG 
+WP VBP PRP nan DT RBS CC 
+NN Explanation VBG NN NN 
+NN MD VB NN DT NN . 
+Location DT NN 
+NNP VBD VBN Agent NNP NNP 
+DT JJ NN Elements PRP CC DT 
+NN POS JJ NNS VBP PRP CC JJ 
+NNP VBD VBN RP 
+JJ NN , RB VBG 
+NNP CD , CD , Duration DT NN VBG 
+DT NN : NNS Topic NN NNP NNP 
+NN NNP nan PRP$ JJ NN POS NN nan 
+NNS WDT VBP VBG DT NN 
+JJ NNS 
+WP VBP VBN Location DT NN 
+NN NNS VBP TO NNP NN POS NN . 
+VB DT NNS VBG NN 
+JJ VBG NNS RelativeTime VBG VBN 
+: NN NNP ProfessionalAspect NNP NNP CC 
+CD ( NNS ) Location NNP , PRP VBD . 
+nan WRB NNS VBP 
+RB Scalar/Rank CD NN CC 
+NNS Location NNP 
+PRP VBP VBN PRP$ NN nan NNP . 
+VBG JJ NNS Theme JJ NNS CC 
+nan PRP$ NN VBG NN 
+VBN DT NN Scalar/Rank VBG 
+DT NNP POS NN Duration DT NN NN 
+VBD RBR JJ nan VBG PRP VBP DT JJ NN RB RB RB VB DT NN . nan 
+CD NNP CD Circumstance DT NN 
+JJ JJ NN NNP CC JJ nan 
+DT NN NN Activity NN . 
+DT NNP VBZ VBG PRP$ NN NN 
+VBD VBN NNP Attribute DT JJ NN 
+Location PRP . 
+JJ JJ NNS Topic PRP$ NN : PRP 
+nan CD NNS Direction DT NN 
+NN NNS CC Destination NN NNS , WRB 
+PRP VBZ RB Scalar/Rank DT NNS 
+CD . VB RP DT NNS . 
+( NNP ) , EX VBP Approximator CD NNP VBD 
+VBZ VBG nan NNP NNP NNP . nan 
+NN DT NN , VB DT VBG NN 
+NNP NN ( VBN Time NNP CD , CD ) 
+WRB MD VB VBG 
+NN , WDT VBZ JJR nan NNP . 
+Elements PRP$ NN NN , 
+MD VB JJ EndTime PRP VBZ DT 
+NN VBG DT NN NNP 
+CD RB VBG RP nan DT NNP 
+NNP Explanation VBG 
+DT NN Beneficiary NNP , WDT VBD 
+VBG 
+PRP VBZ DT JJS NN Value DT NN PRP MD VB Location DT Whole NN NNP . 
+VBG NNS NNS Location NNP . 
+JJ NN NN Locus DT NNP NN . 
+PRP VBZ NN CC NN VBD JJ CC PRP MD RB VB VBG TO PRP$ NN RB . 
+PRP VBP VBN Circumstance CD NNS : DT 
+Location DT NNP , DT 
+NN VBG Topic DT NN NN 
+NN VBG PRP$ NN 
+Approximator NNP $ CD CD . 
+NNP NNP CC 2DArea NNP NNP . 
+NNP NN NN Topic NNS DT NN 
+VB DT NNS VBG NN 
+CD : RB Circumstance JJ JJ NN . 
+NN CC NN VBZ JJ . 
+NN VBG NNS 
+NN Duration PRP$ NN 
+RB VB VBN PhrasalVerb 
+VB Elements TO VB 
+JJ NN NN Accompanier 
+NN NN NN Location DT JJ NN 
+NN NN NNP , Approximator CD NNS VBP 
+: DT NN Quantity NNS WDT VBD 
+DT NN VBZ Location JJ NN 
+JJ Accompanier PRP$ NNS 
+NN RBR JJS , Location NNP NNP CC 
+NN NN NNS Location DT NNP . 
+VB VBN nan nan VBG 
+RB , PRP VBD RB VB PRP RB JJ CC PRP$ NN VBD NN . 
+NN VBG NNS . 
+DT NN NNS ProfessionalAspect NNP VBD RB 
+NNS CC NNS RP DT NN 
+NNP , JJ CC NNS Quantity NN . 
+VBD NN VBZ Location RB DT NN 
+NNP , CD NN Scalar/Rank NNP 
+NN JJ NNS Location DT NN VBD 
+CD , RB ValueComparison DT NN POS NN 
+NN CC VB EndState JJ NNS . 
+CC CC CD NN NNS . 
+NN , NNP ( DT NN NN CC JJ 
+NNP VBD DT NN CD 
+VBD RB VBN RP 
+JJ NN VBG DT NNS VBG 
+NN NN NN Duration DT NN 
+CC DT NN VBD JJ NN nan CD MD VB Location DT JJ NNP . 
+Location DT NN 
+VBD VBG RP PhrasalVerb 
+RB , nan NN , EX VBZ DT JJ NN , Attribute RB JJR NNS . 
+PRP VBZ RB VBG nan DT NN 
+NNS RB VBN StartTime DT NN 
+DT NN NN ValueComparison CD NNS NN . 
+DT NN NN Location NNP POS NN , VBG 
+JJ NN VBP PRP$ NNS , NNS 
+RB VB JJ TO VB PRP$ NN . 
+NN DT NN Location NNP NNP NNP 
+NNP , VBG DT NNS 
+NN NN : VBG JJ NN NNS 
+NNP StartTime CD . 
+CD NNS Location DT NN 
+MD VB VBN nan DT NN NN 
+NNP NNP VBZ nan NN 
+RB NN , VBZ Approximator CD NN 
+NN VBZ VBN Location PRP$ NN Location 
+NNP NN NN , Circumstance DT NNP , CC 
+NN NN , nan Elements 
+JJ NN NN PRP$ JJ NN . 
+VBD VBN VBN nan 
+NN VBZ VBN PhrasalVerb NN CC NN , 
+PRP VBZ DT JJ NN Attribute DT RB JJ , VBD : RB RB . 
+FW NNP : JJ State nan NN 
+PRP$ NN Duration DT NNP CD 
+NNP NNP NNP , Location DT NN 
+NNS VBP RB VBN PRP$ NNS 
+MD RB VB VBN DT JJ NN 
+NNP CC VBD VBG NN POS NN NN . 
+NN StartTime CD NNP CD 
+NNS CC NNS Via PRP$ JJ NNS 
+VBZ RB VB NN Theme NN NNS CC 
+DT NN , VBG NNS WP VBD 
+NNP POS NN Circumstance DT NNS . 
+NN VBZ VBG 
+DT JJ NN Duration NNP NNP CD , 
+DT NNP NN Accompanier 
+NNP NNP NN CD NN Manner CD JJ NN 
+NN Source NNP NNP , NNP 
+Location NNP , JJ VBD 
+NN JJ NN NNS 
+Elements PRP VBZ RB RB 
+VBZ PRP VB JJR CD 
+DT VBP NN Location DT NNP NNP 
+PRP$ NNS RB RB Location NNP . 
+MD RB VB . 
+NN NN PRP$ JJ NN . nan 
+CD NNP VBN Source NNP NNP NNP 
+NN NN VBN VBG DT NN . 
+nan JJ NNS , Elements 
+NNP NN NNS Accompanier 
+NNS Topic NNS VBP VBN 
+VB VBN 
+VBZ NN nan DT NN , VBD nan 
+nan JJ NN ValueComparison CD VBZ JJ 
+NNP VBZ DT Attribute NN CC VBZ RB JJ NNS Theme DT NNS Locus PRP$ NNS . 
+PRP$ NN NN POS VBP VBZ JJR Scalar/Rank DT NN NNS . 
+Elements NNP NN NN 
+Scalar/Rank DT , VBZ DT 
+: NN VBN Attribute DT NNP NNP POS 
+CD . VB NNS Topic DT NN NN . 
+DT JJ NN Location DT NNP NNP 
+DT JJ CD NNS , 
+NN POS VBG NN NN NNS 
+JJ NN NN NN WDT NN 
+NNP , PRP VBZ nan 
+NN Location PRP$ NN , NNP 
+VBN CC NNS Location DT NN VBD 
+DT NNS Theme WDT DT NN 
+CD NN NNS VBG DT JJ NN 
+DT NN JJ VBN DT JJ NN 
+NNS NN NNS Duration PRP$ NN 
+JJ NN NN PRP VBD RB . 
+WDT NN NNS Extent NNS 
+NNS Duration PRP$ NN . 
+NNP VBD JJ , CC NN JJ , CC NNS WDT VBP VBN TO VB JJ MD VB DT JJR NN Theme VBG PRP$ NN TO VB JJ CC JJ , RB RB JJ . 
+NN MD VB VBN 
+nan NN , PRP RB VBD TO VB PRP$ NN , CC PRP VBD nan nan PRP$ NN TO VB NN nan PRP . 
+JJ JJ NN Location DT NN NN . 
+NN , CC NN VBN 
+NNP NNP NNP NN NN VBG DT NN MD 
+DT NN Attribute DT NN 
+DT NNP NNP , VBG DT CD VBD 
+NN Course DT NN 
+RB JJ . 
+CC NN NN , CC DT JJ , VBD 
+NN NN VBN Agent NNP NNP NNP 
+CD NNP NN StartTime 
+NNP : JJ JJ NNP NN 
+NNP DT VBN VBD 
+JJ JJ NN Theme DT NNP , PRP 
+JJ NNS ( NNS ) Location DT NN NN . 
+PRP VBP DT NNS Location DT NN TO VB JJ . 
+RB VB VBN Via NN CC NN 
+DT JJ NN 
+PRP RB VBD DT NNP NNP NNP NNP NN RB . 
+CC NN NNS Topic DT JJ NN 
+nan CD NN ValueComparison PRP$ NN NN , 
+VBG NNS 
+NNS WDT VBP Location DT NN 
+JJ NNP NN Location PRP$ NN WRB 
+MD VB VBN Location DT NNS VBG 
+nan DT NN Location DT NN POS NN 
+Location PRP 
+JJ VBP VBG DT JJ NN , 
+JJ NN NNS VBP JJ NNS , 
+RB VB VBD RP 
+JJ : NN ProfessionalAspect NN , NNP NNP 
+VB DT NN 1DTrajectory DT NNP NN 
+NN NNS , Accompanier nan NNS 
+VBG DT VBG VBN PRP$ JJ NN 
+VB VBN Location DT NN . CD 
+CD : NN VBZ RP CC VBG DT 
+VBN DT NN : Approximator CD . 
+$ CD MD VB VBN TO VB 
+JJ NNS RP nan . 
+JJ NN , RB VBG DT JJ NNS 
+PRP VBP Duration DT NN , NNP POS 
+Elements DT NNP NNP , 
+nan CD nan NN nan 
+JJ NN NNS Accompanier NNP NN , CC 
+nan CD NNS Location NN , RB , VBG 
+CD : RB nan CD 
+NN NN VBG PhrasalVerb DT NNS 
+JJ NNP POS NN , VBG JJ NN . 
+DT JJ NN Topic JJ NNS 
+DT JJ NN Locus VBG NNP NNS 
+Location DT NN NNS 
+CC Circumstance VBG DT NN 
+VBD DT NN NN NNP NNP 
+NN NNP NNP , Time VBG DT NN , 
+VB VBN DT JJ NN . 
+Elements DT , WRB 
+VB Goal DT JJ CC 
+NNS VBP VBN StartTime CD . 
+NNS NNP NNP RP NN 
+NNP NNS RelativeTime PRP VBD VBN 
+NNS VBD NNS Topic NN 
+DT JJ NN Agent PRP VBZ JJ 
+Elements VBG DT NN 
+NNP DT NN VBG JJ VBN NN 
+DT NN VBZ VBG nan DT NNP 
+PRP$ JJ NNS , VBG NNP NNP . 
+DT JJ NN NNS JJ 
+JJ NN NNS TO VB 
+PRP MD NNP VB NN ProfessionalAspect NNP NNP RB . 
+CD Location DT JJ NN . 
+NNP VBD VBN Activity DT NN , VBD 
+DT NN , CC Explanation DT $ CD CD 
+: VBD VBN Location DT NNP , DT 
+VB NNS VBG NNS 
+VBG JJR nan DT NN 
+DT NN Location PRP . 
+JJ NNP NNS Location DT 
+VBD DT NN Beneficiary NNP 
+DT NNP NNS VBG NNP VBP 
+VBZ NN nan DT JJ NN nan 
+NNP NNP NN , JJR nan DT JJ 
+NNP NNP NNS Location DT NN . CD 
+NNP VBD NNP Location DT NN 
+NNS VBG 
+VBG NN VBD RB VBN NN 
+VBP RB VB , CC PRP MD VB WRB TO VB PRP$ NN . 
+DT NNP NNP StartTime DT NN CD 
+DT NNP NNP NN , WDT PRP 
+DT NNP NNP , Circumstance WP DT NN 
+MD VB RB Comparison/Contrast JJ 
+NN VBD RB VBN RB JJ NNP , NNP 
+DT NN POS NN Via DT NN NN 
+DT NN VBD 
+JJ NNS VBD 2DArea DT NN . 
+DT NN NN JJ NNP NNP POS NN 
+JJ NN , nan JJ NNP CC NN 
+NNP POS NN VBD RP NN 
+CD NNS nan JJ NN . 
+CD NNS ( NNP Via NNP ) PRP VBP 
+NN POS JJ NN Duration DT NN 
+MD VB nan NN . nan 
+NNP ( CD NN NN CD NN , RB ) , 
+$ CD Value NN 
+NNS VBG 
+DT NN ProfessionalAspect NNP VBD JJ . . 
+NN , Location DT NN 
+NN RP 
+Circumstance DT JJ NN , 
+DT NN , VBG JJ CC NN 
+NN PhrasalVerb DT NN , VBG 
+NNP RelativeTime DT JJ NN 
+RB $ CD 
+VBG DT VBD VBG RB . 
+NN WDT VBZ Location PRP . 
+CD , VBG DT NN NN 
+CC NN EndTime PRP VBZ 
+CC VBD NN 
+NNP NNP VB NN VBD NNS 
+NN NNP VBZ Superset DT NNS 
+NNP VBD NNP 
+CD NNS , CC JJR nan $ CD 
+VBG JJ NNS Theme JJ NNS CC 
+Elements 
+DT NNS VBD RB JJ CC DT NN VBD JJ . 
+CD , PRP VBZ StartTime VBN VBN 
+VB JJ NN Locus DT NN NNS 
+JJ NN RBR Source NNP NNP , NN 
+JJ NNP CC nan PRP 
+NNS , Circumstance RB VBG DT 
+CD NNS VBG Topic DT NNS WDT 
+DT NN VBD PhrasalVerb DT NNS CC 
+DT NN RelativeTime DT NN 
+VBG nan JJ NN . 
+JJ NNS Elements NN WDT MD , 
+NNP , Location DT NN 
+PRP RB VBP VB DT NN 
+PRP Elements JJ NNS , nan 
+CC NNP VBZ Scalar/Rank DT NN . 
+CD CC CD Via JJ NN NNS 
+DT VBZ JJ Topic DT NNS PRP VBZ 
+VBG VB VBN RP NNS CC VBD 
+NNS Duration DT NN 
+CD NNS VBN Agent JJ CC JJ 
+NNS VBD NN Topic NN CC JJ 
+CC VBD RB 1DTrajectory NNP . 
+PDT DT RBS JJ nan 
+DT NN VBZ Beneficiary DT NNS , VBZ 
+Time DT NN Duration DT NN VBD DT NNS , PRP VBP JJ RB VBN InitialLocation nan PRP$ NN . 
+NNP NNP VBD RB JJ CC JJ Beneficiary PRP$ NN CC PRP VBD PRP VBP VB PRP RP . 
+NNS VBZ DT JJ NNP NNP . 
+DT VBP NNS Destination DT NN 
+CD JJ Explanation NNP NNP NNS 
+DT JJ NN . 
+JJ NNS VBP VBG 
+JJ NNS 2DArea DT NN CC 
+Accompanier DT NN 
+NNP NN VBD RelativeTime VBG DT NN 
+PRP VBD RB WRB PRP VBD DT JJ NN Time NNP CC PRP VBD DT JJ NN . 
+VBG State DT NN . 
+NNP Accompanier 
+NN RP 
+NN nan NNP NNP NNP 
+NNS Explanation PRP$ NN NN 
+DT NNP NNP StartTime DT NN 
+DT NN VBZ JJ . 
+NNP NNS Accompanier DT NNS 
+DT JJ NNS Comparison/Contrast NNS , 
+PRP$ JJ JJ NN . nan 
+VBG NN NNS Location DT NN WRB 
+VBG DT NNS 
+Approximator CD NNS 
+NNP PRP VBP , NNP DT NNP VBP 
+DT NN , CC DT JJ NNS 
+JJ NN : RB VBZ nan WRB PRP VBP PRP . 
+JJ NN VBG Via NN NN . 
+DT NNS , VBG DT NN POS NN . 
+VBG 
+DT JJ NN Co-Theme DT CD . 
+VBG NNP nan DT JJ NN nan 
+NN CC VB PhrasalVerb NN JJ nan 
+JJ JJ NNS Beneficiary NN . 
+Accompanier DT NN 
+PRP VBZ JJ TO VB PRP MD VB JJ NN , JJ NN , CC Value DT JJS NN DT nan CD . 
+NNP NNP NNP , VBG DT JJ NN 
+DT NN Location DT NN . 
+NN NNP NNP Duration DT NNP NNP 
+VBD JJ NNS VBG DT NN 
+NNP VBZ VBN Topic DT NN 
+NNP NNP VB NNP NNP . 
+VBP RB VB RP : NN VBZ 
+JJ 1DTrajectory NNP . POS JJ NN , 
+VBG DT NNS Location NNS JJR JJ 
+NN , VBG JJ NNS . 
+RBR VBG nan PRP$ NN 
+NN VBZ VBN PhrasalVerb 
+VB DT NNS 1DTrajectory JJ NNS . 
+JJ NNP NN NNP RB 
+DT JJ NN 
+NN NNS VBD Location DT JJS JJ 
+VB VBN VBG RP DT JJ NNP 
+CC JJ NNS Destination PRP$ NNS . 
+DT NN WDT VBD DT 
+DT JJ NN 
+DT JJ NN Scalar/Rank NN NNP NNP 
+CD . VB Goal NN NN . 
+PRP VBP NNP NNP . 
+RelativeTime DT , PRP RB VBD TO VB PRP$ NN Possessor NN CC NN NN DT NN . 
+JJ NNP Location DT JJ NN POS 
+CC Circumstance JJR NNS VBG 
+VBP VBN JJ VBG NNP POS NN . 
+NNS VBP VBN Elements 
+RB JJ , RB VBG DT JJ NN 
+Superset NNP EX VBP 
+NNP Time NNP CD , CD . 
+NN NN VBZ nan DT NNS . 
+LS . DT NN Elements NN DT NN 
+DT NN NN Time CD RB , JJ 
+VBN NN nan Location DT NN 
+PRP$ NN NNS , CC DT JJ JJ 
+NN Manner PRP$ NN . 
+NN NN VBN Attribute DT JJ NN . 
+CD NNS VBD State NN NNP NN , 
+NNS WDT VBD nan JJ NNP NNS 
+VBD PRP JJ Topic DT NN CC 
+CC DT NN Attribute NNS 
+NNP NNP VBZ nan NN 
+JJ NNS VBN Agent NN NNP 
+NNS VBD VBN nan 
+DT NN VBN Location NNP . NNS JJ 
+VBZ NNP VBG Location DT JJ NN . NN 
+VBD PRP$ NN NN RB nan PRP 
+Location DT NN . 
+RB EndTime CD NN , 
+DT NN JJ , Elements PRP VBP RB 
+NN CC VBN CD NNS VBG . nan 
+NNS VBD JJ RB CC 
+Elements DT NN POS JJ 
+NN NNP VBZ RP 
+Elements VBG DT JJ 
+NNP NNP Time NNP , NNP NNP 
+DT NN NN 
+JJ NN VBN Agent DT NN . 
+DT NN Via PRP$ NNP NN . 
+VBZ DT NN Agent NNP NNP . 
+NN nan DT NN NN . nan 
+DT NN VBG RP DT NN RB 
+CC PRP VBZ RB Comparison/Contrast DT NN NN 
+VBD RB VBG RP PRP . 
+CD NNS Duration DT JJ NN . 
+DT NN Locus NNPS . 
+NNP VBD Stimulus DT NNS 
+NN , CC RB DT VBD 
+NNS VBD PRP Destination DT NN CC 
+DT JJ NN NN 
+JJ VBG RB Topic WRB DT JJ 
+NNP NN NN 
+NNP VBD Location DT JJ NN , 
+NNS WDT VBP VBN DT NN PRP$ 
+DT JJ NN CC JJR 
+VBN RB JJ Topic DT . 
+NN Locus NNP . 
+JJ NN NN Elements NN , VBD NNP 
+CC Circumstance JJ NN NNS , 
+CD . VBG PRP TO JJ NNS MD 
+DT JJ CD NNS . 
+JJ NNS , VBZ VBN NN 
+DT NN VBD VBN TO VB Location DT JJ NN , CC PRP VBP PRP Location DT CD . 
+DT NN NN Location DT JJ NNP 
+NNP NNP VBP Direction DT NNP NNP 
+VBZ RB DT NN NN 
+CC CD VBG ValueComparison NN NN . 
+Time CD NN . 
+NNP NN Comparison/Contrast , NNP . 
+JJ JJ NN RelativeTime VBG RP 
+DT JJ NN . 
+VBN JJ NN JJ NN , CC 
+DT NNP , VBD RB 
+NNP NNP NN Destination DT JJ NN 
+NNS VBP VBN StartTime DT JJ NN 
+NNS DT NN , VBG DT NNS . 
+NNP NNPS NN , VBG DT NN 
+Elements NNS 
+DT NN RelativeTime DT NN 
+DT NNP NNP , Elements NNP NNP VBD 
+MD VB JJ RelativeTime CD . CD NNS : 
+NN VBD NN Stimulus DT NNP NNP 
+VBD RB VBN , CC JJ NNS VBP 
+VB PRP VB DeicticTime DT JJ NN . 
+NN , PRP VBP VBN NNS , CC PRP$ 
+JJ NNP NN RelativeTime PRP VBD 
+CD CD NNS DeicticTime NNS 
+JJ JJ NN Means VBG CD JJ 
+NNS ( CD ) VBZ , Comparison/Contrast NNP , 
+VBN Manner NN NNS NN 
+VB Topic NNS 
+PRP VBD VBG Topic VBG NNP , nan 
+CD . JJ NN Theme DT NNP NNP 
+DT NN Destination DT NN , VBG 
+NNP NNP CC NNP 
+RB JJ NNS VBG DT JJ NN . 
+VBG DT NNS , NN 
+VBG DT NN POS VBG NNS CC NNS . 
+NN , WDT VBD RP 
+CC NNP NNP , Superset NNS , NNP VBD 
+DT JJ NNP , PRP VBD Attribute PRP$ NN TO VB RB CC VB DT JJ CD NNS , WDT VBD NNS . 
+CC CD nan 
+CD NN , CC CD NN 
+Location DT NN NN , 
+VBP RB VBN RP 
+JJ , NNP VBD Via DT NN 
+DT JJ NN VBG PRP$ NN 
+$ CD CD Attribute JJ NNS DT 
+JJ RB VBD RP 
+VBZ VBG NNS VBG VBG DT NN 
+DT NN : VBG DT NN : 
+VBG 
+DT NNP NN , VBP DT NN CC 
+NNS NN NNS Duration NN . 
+NNP NNP VBZ PhrasalVerb PRP$ NN NN 
+NNP VBZ JJ Explanation PRP$ NN 
+CD JJ NNP NNP : PRP$ JJ 
+NN VBD DeicticTime CD NNS , VBG 
+JJ NN NNS JJR nan $ CD . 
+NNS NNS : RelativeTime VBG NN . 
+NNS : DT VBD VBG 
+DT NN VBD Location DT NNS . 
+Circumstance DT JJ NN 
+NNS VBD RB Destination DT NN 
+NN VBZ VBG Location DT NNP , WDT 
+VBG VBD NNS 
+Location DT NN . 
+NNS : NNS NNS Attribute JJ NNP NN 
+JJ VBD EX StartTime NN VBD CD . 
+Accompanier DT NN CC 
+CD NNS , CC EndTime NNS , VBG RB 
+NNP NNP NNS Location DT JJ NN 
+NN Via NNP ( CC VBP 
+VB VBG JJ NNP nan 
+PRP$ JJ NN NN Location NNP 
+NNS ValueComparison PRP$ JJ NNP 
+PRP VBP JJ Topic VBG PRP$ NN POS 
+DT NN Location DT NNP NN . 
+VBD DT JJ NN NN NN 
+NN NN NNS Location DT NN NN . 
+NN NNS VBG Comparison/Contrast 
+DT VBG NN , DT NN 
+NNP VBG VBN RP 
+VBG : JJ NNS CC VBD NNS . 
+NNS VBP DT NN 
+VBN Direction NN . 
+NNP NNP NNP Circumstance JJS RB RB . 
+PRP$ NN , CC VBG DT NN 
+NNP VBG NNP JJ NNP NNP 
+JJ NNS . 
+NNP Via DT JJ CC 
+NNP NNP , VBN Explanation DT JJ WRB 
+WDT VBD RB Location DT NN . 
+WRB JJ . 
+VBN PRP$ NN Co-Agent PRP$ NN , NN 
+PRP VBZ RB JJ . : ) 
+DT JJ NN Location JJ NN POS NN 
+VB Topic NNP nan JJ . 
+NNS VBD RB VBN NNS 
+VB VBN RB DeicticTime CD NNS . 
+NN VBG JJ NNS . 
+NNP NNP VBZ nan DT JJ NN 
+NN RB VBN Manner NN . 
+NN CD ( CC CD ) . 
+NN RB NNP NNP NNS 
+NN VBD RB Extent PRP$ NN 
+DT VBG Destination DT NNP NNP 
+NNP NNP NNP NNP DT NNP , NNP 
+DT JJ NNP NNP DT NNP NNP 
+JJ NN VBZ Elements DT NN . 
+RB , DT JJ VBZ JJ , NNP VBZ 
+NN NN VBD Destination PRP$ RB VBN 
+PRP VBP VBG Goal NNS , WRB VBP 
+PRP VBP State NN Stimulus DT JJ NN Quantity NN . 
+Circumstance DT JJ JJ 
+DT NNS Location DT NNP NNP 
+DT JJ NN , DT NN MD VB PRP$ NN NN CC nan JJ NN VBD RB nan . 
+NNP ( CD NNP ) Location DT NN 
+DT NN NN Theme PRP CC PRP . 
+PRP , NNS nan 
+NNS NNP RB Goal DT NNS nan : 
+JJR DT NN Comparison/Contrast DT NNS NN 
+NN NN , RB ValueComparison DT CD NN 
+PRP VBD JJ JJ NN . 
+NNP NNP , VBZ Duration DT NN NN 
+EX VBP NNS Location DT 
+NNP NNS VBG PhrasalVerb DT JJ NN 
+NNP NNP , NN Topic DT NN 
+PRP VBD DT NNP NNP NNP CC PRP$ NN VBD DT NNP NNP NNP . 
+VB DT JJ , Accompanier nan NNS 
+DT NNS VBP RB RB VB TO VB WP PRP VBP VBG CC PRP VBZ . 
+DT NN Idiom NNP NN CD 
+NN DT NN VBN PDT DT NN 
+DT NN , VBN Destination DT JJ NN 
+Location DT NN CC 
+JJ NNS Duration DT JJ NNP 
+CD NNS nan 
+CD NNP Destination NNP 
+Elements PRP$ JJ NN , 
+NNP POS NNS VBZ PRP$ NNS 
+NN VBZ VBN Explanation DT NN 
+NNP CC JJS Activity JJ NN NNS . 
+Approximator CD NNS WDT 
+JJ NN NN NN NN 
+CC JJ : Comparison/Contrast DT 
+DT NN VBG VBD DT NNP NNP 
+DT JJ NN Via NNP NNP 
+NN VBG NNS 2DArea DT NN . 
+VBN CD NNS , VBG CD JJ NN 
+NN NNS Comparison/Contrast NNS WP VBP 
+PRP NN NNS Explanation VBG DT NNP 
+NN NN NNP NNP NNP ( NNP ) . 
+NNS JJ NN , JJ 
+RB NNP VBZ PhrasalVerb DT NN CC 
+DT JJ NN , EX VBZ 
+NNS VBP NNS 
+PRP VBP EX VBD NN JJ TO VB Topic DT NN , CC RB , EX VBZ RB . 
+RB PRP VBP PRP PRP VBD DT Superset PRP$ NNS Manner DT NNS CC RB VBD PRP DT JJS NN RB . 
+VBG NNP CC VBG PRP 
+PRP VBP VBN PRP RB CC MD VB PRP DeicticTime DT NN . 
+CC NNP NNP , RB JJ NNS . 
+NN MD VB State JJ nan NNS 
+NNP NNP NNP Explanation VBG 
+JJS EndTime NNP , DT JJ 
+JJ NN NN NN Value DT JJ NN . 
+RB PhrasalVerb DT CD JJ 
+Location DT NN , NNS 
+nan DT NNS Theme NNP NNP NNP 
+Possessor DT NNS , NNP . 
+DT NN VBZ State JJ DT NN . 
+NN NNS nan NNP NNP nan 
+JJR nan $ CD CD 
+NNP NNP NNS Accompanier 
+JJ NNP NNS Superset DT NN NN , 
+( CD CD NNS ) , VBG $ CD CD ( $ CD 
+DT NN CC Location : WP RB 
+JJ , RB VBD Destination DT NN 
+NN POS VBG JJ Via NNP CC PRP 
+VBD VBN JJ Via DT JJ NN 
+JJR nan CD Value NN 
+PRP VBD VBN TO VB DT NN Co-Theme DT NN NN CC VB NN Explanation PRP VBD VBG VBN Theme DT NN CC VBD VBN DT VBD RB JJ . 
+PRP RB VB TO VB nan DT JJ JJ CD NN WRB PRP VBD TO VB DT NNP NNP NNP NNP Location nan NNP NNP . 
+CC Elements DT JJ NN 
+RB RP 
+JJ NN VBG RP VBG NNS , nan 
+PRP MD VB PRP TO NN . 
+JJS JJ NNS , Elements NNP , VBP VBN 
+Elements JJ NN , NNP NNP NN , NNP NNP NN NN 
+Accompanier DT JJ JJ 
+DT NN NN RelativeTime VBG NN 
+JJ NN NNS Beneficiary NN NNS WDT 
+JJ NN NN VBG DT VBN NN 
+CC NN : CC EndTime VBN . 
+NN Co-Theme NNP CC NNP 
+NNP POS NNP NNP Location DT NN 
+VB DT NN Location PRP$ NNS CC 
+VBZ VBN VBG Location DT NNP NN 
+VB NN nan NNP NN NNS 
+DT JJ JJ NN NNP 
+NNP NNP VBD Superset NNP . 
+$ CD DT NN Goal PRP$ JJ NN 
+RB DT NN Attribute NNP POS NN . 
+NN Location NNP NNP CC 
+JJ NNP VBD ValueComparison DT NN NN , 
+NNP NNP VBD Location DT NN NN 
+VBG DT NN NN DT VBG DT 
+VB NN NN NNS . 
+NN CD NN RelativeTime DT NNP CD 
+NNS CC NNS , Superset JJ NNS . 
+NN NN RP 
+VBZ VBG nan JJ NNS , PRP nan 
+NNS DT NNS Explanation NN 
+DT NN RB VBG 
+JJ JJ NN Topic DT NNS CC 
+NNS DT NN Approximator $ CD VBD 
+NN VBD VBN NN CD , CC PRP 
+NNP NNS JJ Location DT NN MD 
+RB CD NN Via NNP . 
+NN Comparison/Contrast DT NN NN , 
+RB : ( NNP VBZ ValueComparison NN . ) nan 
+NN NNP VBZ , Comparison/Contrast DT WP VBP 
+NNP NNP VBD Explanation DT JJ NN 
+VB NN $ CD Value NN 
+DT NN , VBG PRP CC VBG 
+VB PRP$ NN VBZ nan 
+VBG NN 
+VBZ NNS VBP RBR JJ 
+CD NN NNS Value NN NN MD 
+JJ NN NNS Approximator JJR nan CD 
+VBD RB VBN State JJ NN . 
+VB VBN nan NN . nan 
+NN , PRP VBZ Scalar/Rank PRP , NNP NNP 
+NNP , NNP CD , Duration DT NNP NN 
+DT NN VBG NNS VBD 
+DT JJ NN . 
+NNS DT NN ProfessionalAspect DT NNP , NNP POS 
+RB NNP NNP Attribute PRP VBP DT 
+NNS VBP NNP NNP CC NNP nan 
+VBD PRP VBD VBG NN . 
+( RB NNP ) NNP Duration DT NN NNP 
+DT NN CC VBN nan NNS 
+NN VBZ VBN VBG DT NNP NN 
+DT JJ NN , NNP VBD . 
+NN MD VB VBN DT RBS JJ 
+NNS VBD VBN CC DT NN NN VBD JJ CC DT NN Quantity DT NN VBD RB . 
+CC PRP VBP POS VB DT NNP NNS 
+DT JJ NN MD VB CC 
+Elements PRP$ NN VBZ 
+VBZ NN NNS Location NNP NNS RB 
+CD Superset DT NN POS JJS 
+DT NN Theme NN . 
+NNP VBZ VBG Causer NNS 
+VBP VBN VBN Theme DT NNP . 
+NNP ( NNP ) PRP VBD Destination DT NNS DT 
+DT RB NN Topic DT NN VBG 
+RB JJ NNS Location DT NN , DT 
+NN . PRP VBP JJ PRP . 
+CC VBG NN MD VB DT 
+DT NN PRP VBP RB VBZ nan DT NNS VBP JJ JJ . 
+NN CD NNS ValueComparison NN NN 
+NNP CC NNS 2DArea DT NN VBD 
+VB PhrasalVerb DT NN NN 
+DT NNS VBP PRP VB RB JJ CC VBP RB JJ , nan PRP VBP RB JJ CC VBP RB VB NN Extent DT Topic NN . 
+DT NN WDT 1DTrajectory DT NNP NNP 
+NN . . . 
+NNP POS NN Manner JJ NN . 
+DT JJ NN CC MD VB VBN 
+NNP NNP : CC PRP$ NNS VBD 
+DT JJ NN 
+NNP NNP NN Time NNP POS JJ NN 
+Time CD VBP Time NN # CD , DT NN NN CC NN NN VBN Location PRP$ NN . 
+Via NN , NN . 
+NNS CC NNS Duration PRP$ NN 
+JJ NNS VBG JJ NN . 
+CC NNP VBD Superset DT JJ JJ 
+DT NN RelativeTime PRP VBD 
+WDT VBD nan NN NN . nan 
+NN NN NN . 
+NN WRB VBN PhrasalVerb NNP NN , NNP 
+JJ NN VBD JJ NNP NNP 
+WRB , RB , Possessor NN VBZ CD 
+VBG NNP POS JJ NN 
+NNP VBZ RB JJ NNP MD RB VB PRP , CC MD RB VB VBG RB Purpose DT JJ NN . 
+NNS , NN , JJ NN NNS , NNS VBP 
+NNS , NNS VBP VBN nan nan 
+JJ NNP Location DT NNS 
+VBN , DT JJ NN VBD RP 
+CD , NN NNP POS CD , CC 
+WP VBD NN Location DT NN 
+DT NN NN Duration PRP$ NNP NN 
+VB DT NN JJ NN NNS . 
+CD NNS VBD VBG NN '' NNP NNP 
+Time CD NN . 
+PRP VBD NN Source JJ JJ NNS 
+DT JJ NN Agent DT NNP CC 
+VB DT RB Location DT NN 
+NN RB VBD ValueComparison PRP$ JJ NN 
+NNP NNP , NN RP nan NN 
+NNS VBD RB VBG 
+JJ NN nan JJ NNP NN . nan 
+PRP$ NNP NN , Via DT NN NN , 
+WDT VBD PRP RP NNP NNP 
+NNS CC NNS Location nan PRP MD 
+JJ JJ NN Goal VBG 
+NN CD Course NNP NNP CC 
+NN : CC DT NN WDT 
+JJ NNS VBG State JJ NN NNS , 
+NN Topic PRP$ JJ NN . 
+VB DT NNS VBG NN CC NNS . 
+PRP VBP RB VBD DT CD NN JJ nan PRP VBP nan NN TO DT NNP CC JJ NNS Location DT NN . 
+PRP MD VB PhrasalVerb DT $ CD NN . 
+VBD NNP NNS Scalar/Rank DT NN 
+PRP VBD VBN TO PRP Agent DT NN , WP VBD RB VB DT JJS NN Stimulus NNP , CC VBD nan NNP VBD JJ TO VB RP nan PRP$ NN Attribute NN Time DT NN . 
+NN NN NNP NN VBD RP VBG RB 
+DT NNP NNP 
+Comparison/Contrast DT NN VBZ WRB 
+NNP NNP POS JJ NNS , 
+VBG DT NN , VBG DT NNP NN . 
+VBG NNS RP 
+NNP NNP Beneficiary NN CC JJ 
+CC JJ NN , VBG NN , 
+, PRP VBD nan DT NN CC nan 
+NN VBD JJ NN CC 
+DT JJ NN Location DT NNP NNP 
+NN VBG DT JJ NN 
+NN EndTime NNS 
+MD VB NNS 2DArea DT NN , VBZ 
+NNS : NN 
+NNP NNP NNP NNP NNP NNP VBP 
+NN VBD NN Location DT NN NNS 
+CD : VBZ Attribute JJ NN NN 
+NNP , NNP NN Agent JJ JJ NNS 
+NN Location DT NNP NNP . 
+NNP CC JJ NN , PRP VBP PRP$ NN WRB PRP VBP Direction DT NN . 
+NNP POS JJ NN DT NN 
+DT JJ NN Comparison/Contrast DT JJ NN 
+Location JJ NNS . 
+PRP Manner VBG 
+JJ NNS Manner DT NN , DT 
+VBZ DT JJ NN NN NN JJ 
+RB NNS , RB ValueComparison DT NNP CC NNP CD 
+DT NN NN Location PRP 
+NNP CC NNP , VBG PRP$ NNS . 
+JJ NNS ( NNP ) Beneficiary PRP 
+DT NN VBD Attribute DT 
+NNP NNP RB CD JJ NN 
+NNS NNS VBP Location NNS CD NNS 
+PRP$ NNS NNS Location DT NN 
+DT VBP NN Scalar/Rank JJ NN NNP 
+nan PRP VBP VBG Theme JJ JJ NN NNS , RB VB RP RB . 
+nan JJ NNS MD nan 
+DT NN , CC DT NN NN . 
+CC VB VBG Duration DT NNS , 
+NN Explanation DT NN 
+DT NNP VBZ Superset DT JJS NNS 
+PRP$ NN , 2DArea DT NN NN 
+DT JJ Destination DT NN NN 
+NN NN , VBG Source NNP NNP 
+DT JJR NNS , Manner VBG PRP . 
+VBD DT NNP Location CD NNS . 
+CC NN , VBG EndTime NN VBZ RB 
+VBG TO VB 
+NNP VBP VBN PhrasalVerb NNS , NNS CC 
+JJ NNS , NNS Location NN 
+CD NNS : DT Topic NNS DT NN , 
+NNS RP 
+RBS JJ NNS VBG NNS VBP RB VB 
+DT NNP NNP , CC nan NNP NNS 
+CD NNS VBD Location DT NN 
+$ CD Value NN VBZ PRP 
+NNS VBP VBN Location DT NN . 
+NNS VBG 
+NNP NNP VBZ Accompanier NNP NNP . 
+DT NN POS NN NN NN 
+NNS . Location DT NN 
+NN nan VBG VB DT NN 
+Scalar/Rank DT , PRP MD 
+JJ NNP Location DT NNS 
+NNP NNP VBD VBN DT JJ NN 
+VB NN VB ValueComparison NNS , RB 
+CD NNS VBD JJ NN 
+NNP VBZ nan Approximator CD VBP VBN 
+DT JJ NN Comparison/Contrast PRP 
+NNP , Elements 
+NNP NNP NNP Via NNP NNP NNP 
+NN Goal PRP . 
+Time CD NN NNP . 
+DT NN WDT VBZ DT 
+VBG TO VB 
+nan , DT VBZ DT VBG TO PRP 
+JJ NN . . . 
+Accompanier DT CD $ CD 
+NN VBD NNS Time DT NN 
+Location DT NNP NNP 
+VBG Location DT NN NNS . 
+NN NNP VBD nan 
+VB PRP$ NN Location PRP$ NN . 
+Scalar/Rank DT , DT NN 
+NN ( DT NN ValueComparison NN ) CC CD 
+NNP CC NNP VBZ VBN VBG 
+VB Location DT NNP NNP NN 
+NN NNS NNS TO VB PRP$ NN 
+RB VB TO DT NN , RB nan PRP VBP TO VB PRP$ NN VBD . nan 
+CC VB PRP RP TO VB 
+Accompanier DT RB VBN 
+VBG 1DTrajectory JJ NN NNS 
+DT JJ NN Scalar/Rank NNP NNP JJ 
+CD JJ NN Topic PRP . 
+CD CC CD Value NN 
+DT NN VBN RelativeTime DT NN nan 
+DT JJ NNS Location DT NN . 
+nan NNP NN NN 
+VBN PRP$ NN Duration DT NN 
+VBD RB JJ Time NN . 
+CD NN ( NNP ) Approximator CD NNS VBD 
+DT JJ NNS Location NNP CC DT 
+JJ NNS , VBG Location PRP$ JJ NN 
+VB RP NN . 
+NNP VBZ NN nan NN DT NNP 
+DT JJ CD NNS . 
+NN VBZ VBN Explanation CD NNS 
+JJ NNS , Location DT NN 
+Destination DT NNS 
+Scalar/Rank DT , NNP VBZ 
+DT NN NN RelativeTime DT JJ NN . 
+PRP MD VB JJ NNS 
+VB NN VBD RP DT NN NN 
+NN NN nan NN MD 
+LS . JJ NNS Topic JJ NN NN 
+CC WP VBZ RB ProfessionalAspect DT NN 
+DT NN NN , VBG DT NN nan 
+NNS VBP nan DT NNS nan 
+NNP RB VBP 
+NN NN VBZ VBG nan CD 
+Location DT NN , NNP 
+DT JJ NN , VBG RB 
+Elements VBG DT NN 
+$ CD Beneficiary NNS CC NNS . 
+VBD VBG RB Location DT NN 
+NNP : PRP VBD RP $ CD CD 
+CC Circumstance DT JJ NNS 
+PRP VBP DT NN , JJ NN CC DT JJ NNS CC MD RB VB JJ NNP NNP CC NNP RB . 
+DT JJ NN StartState DT NN MD 
+NNP , WDT VBD EndTime DT NN 
+MD RB VB PRP VB PRP VBZ CD . # 
+PRP MD VB VBN DT NN CC RB VBN PDT DT NNS . 
+RB , DT JJR NN PRP VBD TO NNP , DT JJR DT NN VBD . 
+MD RB VB NN Duration DT NN NN . 
+RB JJ JJR Source NNP VBZ DT 
+DT NN , Elements PRP MD VB 
+VBN JJ NN nan PRP$ NN , CC 
+RB , nan DT NN WP nan 
+CC NNS , VBD PhrasalVerb VBG NNS WDT 
+PRP VBP nan , VBG DT RB 
+CC Duration NN , PRP VBD 
+DT NN NN Co-Theme NNP CC NNP 
+NNS VBN Agent NNP VBD PRP 
+DT JJ CD NNS : JJR 
+NN DT NN RB NNP 
+CD JJ VBN Time CD JJ JJ 
+nan DT NN CC NN VBZ RB 
+VBG 
+VBZ RB NN Superset DT NN . 
+JJS CD NNS , VBG CD NNS . 
+VBG NNS Location DT NN 
+Comparison/Contrast PRP$ NN , CC , 
+DT NNP NN NN JJ NNS , VBG 
+NNP NNP NNP Location DT NN 
+CD VBD NNS StartTime NNP : DT NN 
+VB JJ NNS Location VBN NNS . 
+VBG VBG NNS , DT 
+NNP POS NNS : Superset NNP POS NNS VBZ 
+DT VBG NN CC DT 
+DT NNS Possessor NNP , CC RB 
+NNP NNP , VBN Location DT NNP , MD 
+NN RB PRP VBP 
+DT NN Explanation NNP NNP VBD . 
+DT NNP NNP Location DT NN 
+NNP NNP NNP , Location PRP , NNS 
+DT NN CC NN 
+DT JJ NN State DT NNP NNP 
+PRP VBP VBN VBG NNP Duration RB PRP$ JJ NN CC PRP VBP RB VBN TO DT NNP NNS Location JJ RB CC Location DT NN CC RB DT JJ CD Location NN , CC WRB JJ VBD DT JJ NN , PRP VBD DT JJ NN NNS RB . . 
+NNS RB JJ CC JJ RB JJ . 
+PRP VBD RP WP PRP VBD TO VB VBN VBN PRP WP VBD VB VBN RelativeTime PRP VBD DT NN CC VBD JJ NN NN . 
+NNP NNP Topic VBG 
+VB PRP$ NN 2DArea DT NN , 
+NN VBZ VBN State DT NN 
+PRP MD VB TO VB PRP$ NN CC NN CC VB DT JJ NN . 
+VBD DT NN Possessor NNP POS NNS VBD 
+PRP$ NN PRP$ NN NNS , 
+CD JJ NN , CC RB VBD CD 
+DT VBZ DT JJS NNP NN NN PRP VBP RB VBN TO 
+JJ NNS : CC NNS : 
+NNS NN VBG JJ NN NN CD 
+JJ NN nan NNP NNP VBD VBG JJ nan 
+NNP Time NNP CD , CD . 
+DT JJ NN 
+NNP VBP JJ , CC JJ NNS VBP 
+CD CC VBD JJ NN 
+NN CD ( RB RP 
+MD VB VBN DeicticTime DT JJ CD NNS 
+NNS VBP JJ . 
+NN WRB NN NNS nan 
+NN NNP NNP JJ NNP NNP NNP 
+Elements VBG JJR NNS , 
+PRP VBP RB NN NN 
+NN NN VBD NNS NNS VBD RBR 
+NNP POS JJ NN Location NNP NNP NNP 
+VB PRP VB 
+NN NN Location DT NNP NNPS . 
+Location DT 
+Time VBG NN , NNP 
+DT JJ NN Accompanier PRP . 
+Elements NNP , NN NNS 
+NNP NN Topic DT WP VBP 
+NN , NN NNS Location DT NNP NNP 
+PRP MD RB VB VBN RB , CC PRP MD RB VB DT JJ NN PRP MD VBN State NN RB RB . 
+CD NNS , CC RB RB DT NN . 
+NN CC VBD RB NNP DT NN 
+CD NNS nan NN CD , CC nan 
+DT NN RBR Location DT NN . 
+DT NN Location DT NNP NN 
+NN VBD RB ValueComparison CD . 
+VBN NNP VBD Location DT NN 
+DT NN Location WRB DT NN 
+VBG nan JJ NN . 
+NNS DT NN Destination DT NN MD 
+VBN JJ NN VBD PRP$ NNS WRB 
+NN VBZ NN , NN VBZ NN . 
+NNS VBP nan DT RBS JJ nan 
+, VBZ DT JJ NN nan 
+DT CD NNS Location DT NN VBD . 
+PRP VBD DT JJ TO JJ NN Experiencer PRP 
+DT JJ , VBG NN CC VBG 
+NNS RB VBN Attribute NN NNS . 
+NNP VBD NNS Location NNP NNP CD 
+NN NNS CC Approximator CD NN NNS 
+DT NN RB Scalar/Rank DT NNP , WP$ 
+JJ , Elements 
+PRP MD NN NNP VBZ DT DT NN nan DT NN VBD JJR Scalar/Rank NN RB , NN VBD PRP$ NN RB DT JJ NN , CC DT NN PRP VBD VBD JJ . 
+WP VBZ VBG VBZ DT NN 
+PRP VBP RB VB Location NNP NNP NNP RB , CC NNS VBD RB JJ CC DT NN JJ . 
+PRP VBP NNP NNP NNP NNP CD CD , NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP NNP . 
+DT NN , CC DT $ CD 
+NN VBG VBN Topic NN NNP NN 
+CC NNP JJ NNS NNP . 
+PRP MD VB NNS Donor/Speaker NN WP VBZ VBN Accompanier PRP DeicticTime Locus DT JJ NN NN . 
+VB PRP . VBG Location DT NN . 
+WRB PRP VBD RB RB JJ 
+NN VBZ PRP Location DT NN NN , 
+NN Time NNP Time NNS 
+NN VBG DT NN VBZ 
+WRB PRP VBP RP DT NN NN , 
+DT NN , NNS nan 
+JJ NNS VBN Agent NNS CC NN 
+VB RBR JJ WRB PRP VBP NNS : DT VBZ DT NN NN , RB NNP DT NN NN . 
+PRP VBZ VBN NN nan PRP$ JJ NN DeicticTime RB CD NNS RB CC PRP MD RB VB NNP VB Accompanier NN Elements PRP$ . . . 
+VBD DT NN TO JJ CC JJ 
+PRP Via NNP . 
+Circumstance DT NNS , JJ 
+NNP NNP NNP . . . . 
+Circumstance DT JJ NN , 
+VB Location CD JJ NNS 
+CC CC CD NN NNS . 
+NN VBN Location DT JJ NN . 
+NN PRP VBD RB RB PRP , PRP VBP . 
+VBN DT JJ NN NNP DT NN 
+NNP NNS VBP VBG JJ NNS VBP 
+DT JJ NN EndTime DT NN VBZ 
+JJ JJ VBP VBG DT NN . 
+RB RBR JJ NN NNS . 
+DT NN VBD nan 
+NNS VBP NNS Location NNS VBG NNS 
+DT NN Duration DT NN NNP . 
+NNP NNP NNS Co-Agent PRP$ NN , NNP 
+NN Topic WP PRP VBD 
+NN DT NN , VBG DT NN 
+VBZ VBN NN VBG NNP POS NN 
+NNP ( NNP ) : Circumstance JJR nan CD 
+JJ NNS CC DT 
+NN NNS VBP DT JJ CC 
+VBN NN CD , DT NN 
+JJ NN , JJ Comparison/Contrast CD . 
+NNS Location NNP 
+VB DT NN VBG NNP NNP . 
+DT NN VBZ JJ . 
+DT JJ NN Elements RB 
+NNP NNP NNP NNP NNP . 
+NNP CC VBD Purpose PRP$ NN CD 
+VBZ RB DT NN 
+CD NNS : NNP 2DArea DT NN NN 
+DT VBZ $ CD Value NN 
+NNS VBP RB Location DT NN NN . 
+NN PhrasalVerb DT NNP NNP 
+RB JJ NN VBG DT NN . 
+NN NN Elements NN ( NN 
+NNS , VBG CD nan 
+VBP DT NNPS VBG NN . 
+Comparison/Contrast NN CC NNS , 
+CC NN nan PRP$ NN , NNP , nan 
+DT JJ NN NN 
+Circumstance DT NN 
+VBZ VBN VBN 2DArea PRP$ NN 
+JJ CC JJ NNS , DT NN JJ WRB NNS VBD VBG Direction JJ StartState DT NN RP , CC PRP VBD RB VB RB JJ Explanation PRP VBD RB RB VBG Direction StartState DT NN RP . 
+VBG DT NN Comparison/Contrast DT NNP NNP 
+VBZ nan DT NN , DT JJS NN NN PRP VBP RB VBN CC RB TO VB JJ , DT NN PRP VBD PRP VBD DT JJ nan PRP$ NN NN nan NNP POS NN nan VBG nan DT JJ JJ NN . nan 
+NN . VBG DT NNS CC 
+NN DT JJ NN 
+RB RBR VBG RP DT NN 
+DT NN NNP Location NNP 
+NNS VBP VBN '' NNP DT NN 
+JJ DT NN , Circumstance VBG 
+JJ . 
+NNS DT NNS DeicticTime DT NN . 
+JJ NN Location NNS CC JJ 
+VBG PRP VBD JJ NNP NN 
+Circumstance DT NN CC 
+DT NN NN Location DT NN 
+NN , WDT VBZ VBN RB , 
+NNP VBZ VBN nan NN RB . 
+NNP NNP VBZ Location NNP , NNP . 
+TO VB PRP VBD DT NN CC NN NN , PRP VBD RB JJ . 
+DT NN , CC NNS 
+MD VB JJ CC RB NNP NNS 
+VBZ DT NN Topic DT NN , PRP 
+CC DT NN Location DT NN . 
+VBG Donor/Speaker DT NN WP VBZ DT NN nan JJ , NNP NNP VBD DT JJS . 
+PRP$ NN NN NN DT 
+NNS CC NNS VBG NN 
+PRP$ NN Locus JJ NNS . 
+PRP VBD RP VBG RB JJ NN NN NN CC PRP VBD JJ Stimulus DT JJ NN NN . 
+DT JJ Location NNP NNP , NNP . 
+JJ NNS : VBG CD WP VBD 
+NN NNS VBD DT NNS . 
+NNP , DT NN Co-Theme DT NN CC 
+DT JJR nan JJ NNP . 
+NNP VBZ RB Idiom NNS VBG NN . 
+VBG State DT NN . 
+VB DT NNS VBP JJ NNS , . 
+VBN NNP NNP EndState DT NNP NN . 
+JJ NN , RB TO DT NN JJ NN NN . 
+VBZ RB VBN Attribute NNP . 
+VBD PRP VBD Possessor DT NN , VBG 
+NN NNS DT Idiom CD NN . 
+DT JJ NN Location DT NN POS JJ , 
+JJ NNS VBN PhrasalVerb DT NN NN 
+VBG NN , VBG nan 
+NN NN PRP$ Topic PRP$ NN , 
+Elements DT JJ NNS , 
+DT JJ NN TO PRP$ NN VBZ 
+NNP VBD PRP RP DT JJ CD 
+CD NNS Value NN CC CD 
+VBG DT NN NN 
+PRP VBZ RB VBG nan PRP VBP VBD 
+NN NNP NNP Duration DT NN . 
+JJ JJ NN StartTime CD . 
+NNP , CC RB Location DT NN : 
+VB WP VBD EndTime 
+NN NNS VBD Location DT NN 
+VBG DT NN Location DT NN 
+VBN VBN RB Circumstance DT JJ NN 
+PRP VBP TO VB VB PRP RP RB Purpose DT NN , CC NNP , PRP VBP DT NN RB : ) DT VBG RP , PRP VBP DT RB JJ NN , PRP VBP DT JJ NN VBG DT NN VBD DT CD NN NN CC PRP VBD RB . 
+RB VBN NN NN 
+State VBG NN : 
+NNS VBP RB Location DT NNP NNP 
+VBG PRP$ NNS Location PRP$ NNS , nan 
+VB DT NN Location PRP$ NNS CC 
+NNS VBP VBN PhrasalVerb NNS 
+NN NNP NNP Location DT NNP NN . 
+NNS VBP VBN Location DT NNP DT 
+WP VBZ NN NNP . nan 
+JJ RB VBZ Location NNP NNP . . 
+DT NN MD VB nan PRP VBP 
+PRP VBP PRP MD VB DT NN Circumstance DT JJ NN . 
+JJR NN . 
+NN ( JJ NN ) Direction DT NN 
+NNP NNP NNP VBG DT JJ NN 
+VBG RP DT NN NN 
+VBD RB VBN DeicticTime PRP$ NN 
+CC CC CD NN NNS . 
+PRP$ NNP VBG DT JJ JJ 
+Location DT NN VBD 
+PRP VBD RB PhrasalVerb NNS 
+JJ NN VBG DT CC JJ 
+DT NNP , DT NNP NNS NN , RB VBD DT NNP NNP CD DT NN , RB . 
+VB NN NNS VBG 
+NN NN Topic DT NN POS NN 
+MD RB VB VBN Elements 
+NNP NN , nan VBG 
+NN VBZ RB VBG DT NN 
+NNS JJ RB JJ JJ 
+DT NN , Elements 
+CC DT NNS nan 
+NNP RB VBD VB DT NN 
+NN CC nan NNP , 
+NN POS NN , Time PRP$ NN 
+NN NNS VBD JJ NN NN NNP 
+PRP VBZ JJ Purpose : 
+NNS VBD RB VBN PRP DT JJ 
+CC CC CD NN NNS . 
+VBG NNS 2DArea DT NN , 
+VBD DT NN nan 
+PRP VBD JJR nan NN Whole DT NN Possessor DT JJS NN PRP VBD , CC PRP$ NN VBD JJ NN . 
+NNP NN NN Source DT NNP , NNP , 
+NN NNS VBP VBG NN DT NNS 
+DT NN NNS Superset DT CD NN NNS 
+VB NN NNP 
+NN DT VBZ FW PRP '' NN nan 
+DT NN VBD ValueComparison DT JJ CD 
+RB VBG PhrasalVerb DT NN . 
+VBD DT NN Activity DT NN NN 
+VBN JJ NNS Location DT NN . 
+NNP StartTime CD , MD RB 
+JJ NN VBD PhrasalVerb 
+RB VBP RB VB RB . 
+VBD nan DT JJ NNP . nan 
+NNP Via JJ NNS . 
+PRP MD VB NNP , Circumstance NNP 
+NN Topic NNP CC DT 
+WRB PRP VBD RP NNP NNP CC 
+NN Circumstance NN NN 
+DT NN Location NNP NNP . 
+NN CC VBG RelativeTime NNS MD DT 
+VB nan NN 
+NN , NNPS VBP Comparison/Contrast DT JJ NNP 
+JJ NN PRP MD VB PRP . nan 
+NNS CC NNS , VBG DT JJ NN 
+NNP VBZ VBN Explanation PRP$ JJ NNP NN 
+NNP , VBZ NNP Duration DT NN . 
+DT NN RB RelativeTime PRP MD VB . 
+CD Agent DT NNP NNP 
+CC PRP$ NNS nan NNS , PRP MD 
+NNP CC VBZ PhrasalVerb DT NN NN 
+PRP VBZ VBG 
+NNP NNP , RB Location DT NNP NNP , 
+NN VBG CD JJ NN 
+NNS WP VBD Location NNP POS NN VBD 
+PRP VBD JJ NNS , CC NNS Topic NN RB , WDT DT VBD NN nan NN . 
+RB , NNS VBP TO VB nan PRP 
+CD NNS RB RB CD NNS 
+NNP Goal DT NNP NNP 
+RB JJ NN Goal VBG DT NN 
+DT JJ NN , DT NN 
+DT VBD VBD NNS NN 
+VBG RB VBN RP 
+NN Possessor PRP . 
+PRP VBP RB JJ nan DT NNS Agent NNP NNP NNP . 
+DT NN VBD RB nan CD NN 
+VBG DT JJ NN 
+VBZ NNP NNP VBG NNS 
+NNS Location DT NN NN 
+DT JJ NN 
+VBD RB JJ NN NNP NNP , VBG 
+NNP NNP VBD NN VBP Circumstance PRP$ NN PRP 
+NN VBG DT NN POS NN . 
+JJ NNP NNP NNP NNP VBP VBG NNP NNP NNP NNP NNP , NNP VBZ NNP NNP . 
+DT NN VBG RP NNP NNP 
+VBG NNS , NNP VBD 
+Location DT JJ NNP 
+Scalar/Rank DT , 
+DT NN VBN RelativeTime DT NN 
+DT NN Duration NNS 
+PRP$ VBG NN Activity JJ , nan VBG 
+JJ NN NN CC NN NN Circumstance NN . 
+JJ CD NN , VBG NN CC NN 
+RB Location DT NNP NN . 
+JJ NN NN Theme NNP VBG NNS 
+NNP NNP NNP Via NNP NNP NNP 
+CD NN . VB Manner NN 
+NNP NNP VBG DT NN NNP 
+DT JJ NN Location NNP , VBD PRP 
+DT NNP NNP Location PRP$ NNP NNP 
+VB DT NN Comparison/Contrast DT JJ . 
+CD . JJ NNS TO CD NNS . 
+NNS VBG NN . 
+NN NN Location DT NNP NNP , 
+PRP VBD VBN DT NN 
+VBG DT NN 
+PRP VBP NNS WDT VBP RB RB NNS , VBD NNS WDT VBP DT NN NN Comparison/Contrast DT JJ NN WRB PRP VBZ RB , DT JJ NN Stimulus NN NNS , CC nan CC nan . 
+WRB DT JJ NN VBD 
+NNP VBG DT NN NN 
+JJ NNS Circumstance JJ JJ CC 
+DT NNS Circumstance DT NN NN . 
+JJ NN NN PRP VBZ DT 
+NNP Elements WRB DT NN POS 
+CC CD NN VBZ 
+NNS JJ NNP Location DT NNP NNP 
+NN PRP$ NN PRP$ NN VBZ . 
+DT NN NN Location DT NN 
+VBD DT NN ValueComparison NN WRB NNP 
+DT NNS DeicticTime DT NN . 
+DT JJ NN Topic WRB PRP MD 
+DT NN StartTime JJ NNP , CC 
+NNP NNP VBZ JJ NN CC JJ NN . 
+RB RB CC Manner JJ NNS . 
+NN , VBG NNS Location DT JJ NN 
+PRP$ NN EndState NN . 
+VBD RB VBN Manner NN . 
+VBG NN NNS CC 
+RB VBG NN Explanation VBG 
+DT JJ NN Attribute VBG DT NN 
+NNP NNP VBD Approximator CD NNS 
+NNP : DT NNS VBP RB JJ . 
+PRP VBD DT JJ NN NN . 
+DT NN JJ Location DT NN 
+VBG 
+DT JJ NN Approximator CD NNS VBP 
+NNP , NN NNS Location DT NN VBP 
+DT NN NN Location NNP . 
+nan NN , nan Approximator CD NNS VBG 
+VBG 
+DT NN RB NNP NNP CC 
+NN CC NN nan DT RBR NN 
+nan VBG nan 
+NN Scalar/Rank NNP CC 
+NN VBN WRB JJ NN 
+2DArea DT JJ NN , 
+VBG DT NN Location DT NN NNS , 
+DT NN : CD NN VBZ CD . VB 
+NNS RB , VBG PhrasalVerb WRB JJ DT 
+MD VB NNP VBG NNS 
+VBG VBN NN . 
+PRP VBP RB VB NNS . 
+NNS VBD RB VBN DT RBS JJ 
+nan NNP 
+NN PRP$ NN Possessor DT NN : WRB 
+Elements PRP RB VBD 
+DT VBG NN . 
+CC CD NNS Value NN . 
+JJ JJ NNS Elements NN NN , NN 
+VBN NN Manner NN , VBG 
+VBD CD NNS Value NN . 
+NNP CC NNP VBP DT NNP NNP , 
+: NNS NN ProfessionalAspect DT JJ NNP . 
+NNP , WP VBD Location DT NN NN 
+JJ NN NN Location JJ JJS JJ 
+VBG NN NN NN WP RB 
+NNS CD NNS Location NNP NNP , DT 
+JJ NNP NN CC VBZ VBN 
+NNP NNP NNP Superset PRP . 
+NN VBP RB VB RP 
+CC VB DT NN , 
+NN Topic NN NN , RB 
+NN , nan NN ValueComparison NNS NN . 
+NN CC NN , CC NNS 
+VBD VBN JJ Elements 
+VB DT NN RelativeTime PRP$ NN . 
+DT JJ NNS Scalar/Rank DT 
+NN ( RB , VBG DT NNPS ) VBP 
+NNS , NNS Theme NNP VBP 
+WRB NNP VBD RP NNP NNP . 
+DT JJ NN 
+DT NN NN Co-Theme DT CD NNS 
+RB NN RB PhrasalVerb DT NN 
+DT JJ NN Theme NNP VBD VBN 
+NNP NN VBD JJ NN VBG RP DT NN . 
+PRP VBZ CD NN CD CC PRP 
+nan PRP VBP NNP VBZ NNP NNP . . . 
+NNP JJ NN . 
+VBN NN VBG JJ NNS 
+NNP NNP VBG DT JJ NNS 
+DT NN , NNS VBP PRP 
+DT NN 
+NN NNS VBD Location DT NN NN 
+VBN DT JJ NN , NN NNS nan 
+DT JJ NN VBG JJ NN NN , 
+CC NNP NNP , NN CD . 
+DT NN Duration DT NN NN 
+VBN nan JJR nan CD nan 
+DT NN VBD Destination DT NN 
+DT NN VBD VBN DT NN 
+nan CD NNS StartTime CD , VBG 
+JJ CC nan VBG JJ NNS , nan 
+PRP VBD NNS Stimulus PRP$ NN CC 
+JJ NNS Duration NNP NNP NNP , 
+RB JJ NN Via DT RB VBN 
+PRP VBP nan DT NN RB JJ . 
+NN VBD VBN Destination DT JJ NN 
+NN VBG RelativeTime NNP CD . NN 
+NNP NN NNP POS NN VBZ 
+NN VBG PRP$ NN . 
+NN , NNP VBZ RP 
+NNP NNP VB nan DT NNP . 
+VBG PRP$ NNS Topic DT NNP NNP 
+VBN Agent DT NNP NNP 
+JJ NN VBZ Superset DT CD VBN 
+NNS MD VB RP TO $ CD 
+NN WP VBD VB DT NN 
+NNP NNP Co-Agent NNP NNP 
+NNS VBG NNS Elements NNP NNP , NNP 
+nan DT VBZ nan NN RB nan 
+NNS VBP DT JJ : DT NN 
+PRP$ NN Location DT JJ NN 
+MD VB NNS VBG CC NN nan 
+JJ JJ NN EndTime CD , VBD PRP$ 
+DT NN NN , VBN NN 
+VB PRP Destination DT NN . 
+PRP VBD PRP MD VB DT JJ NN TO VB WRB DT JJ nan PRP VBD MD VB Comparison/Contrast Possessor DT NN ( Means VBG DT NN RB NN ) . 
+DT JJ NN Attribute NN . 
+PRP RB VBP DT NNP NN nan DT PRP$ NNS , PRP VBP VBN VBG RB Duration NNS CC MD RB VB RB RB . 
+NN CC NN : NNS . 
+NNP , VBG DT NN , NN 
+DT NN NN Location NNP NNS NN 
+VBD VBN NNP Location DT NN NN . 
+DT NN Location NNP NNP . 
+DT NNS VBP JJ nan NN CC DT NN VBZ JJ . 
+VBZ DT NN Comparison/Contrast NNS NNS CC 
+CC PRP$ : DT , PRP RB VBP RB VB WP PRP VBD . 
+VB NNP NNP VB PRP$ NN POS NN . 
+VBZ VBN nan PRP$ NNS , VBD nan 
+NNS DT NN NN PRP . 
+NNP NNP NNP NN RB . 
+PRP VBG NN NN . 
+NNP NNS VBD Location DT NN 
+VBG DT NN 
+NN , JJS NNS 2DArea DT NN RB 
+RB JJ VBG JJ NNS CC nan 
+NNP NNP NN VBG DT JJ NN , 
+NNP NNP VBZ CC WP nan PRP VBP 
+NNP VBZ Beneficiary NN NNP NNP , 
+VBN PRP VBD RP DT NN WDT 
+CC VBD PRP Circumstance DT NN nan 
+DT VBD VBN RB NNP NNP POS NNS 
+JJ NNS JJ NN 
+PRP VBD TO VBG CC PRP VBD PRP VB RP CC PRP VBP NN Accompanier NNP CC PRP VBD NN nan NNS Stimulus DT NN DT PRP VBD VBG , VBD PRP VBD RB VB PRP . 
+CD VBD RP 
+DT NN nan DT NNP . nan 
+NNS VBP NNS TO VB . 
+MD VB NNS Elements NNP NN , NNP 
+NN Elements PRP$ NN . 
+VBG NNS VBN nan DT NNP NN 
+JJ NN NNS TO NN CC NNS 
+CD VBP Superset DT VBG VBD 
+NN NNS RP NNP NNP CC nan 
+CD JJ NN Location JJ NNS CC 
+NNP NN 
+DT NNP NNP Explanation DT NN . 
+JJ NN VBG PRP$ JJ NN 
+PRP$ JJ Location DT JJ NN 
+DT NN VBD JJ , JJ , JJ CC JJ . 
+DT JJ NN Time PRP VBZ JJ 
+DT NN Location DT NN NNP 
+NN CC PRP VBZ JJ VBG RB . VB 
+NNP NN NNS , CC CD NNS 
+NNP NNP NNP , RB NNP NNP , NNP 
+NNP NNP NN JJ NN , RB . nan 
+VBG NNS Location DT JJ NN , 
+VB DT NN , VBG NN CC NN . 
+NNS MD VB CC CD CC NNS 
+VBZ VBG RB RelativeTime DT JJ . 
+NNS NNP NNP NNP CC NNP NNP . 
+DT NN NN NN NN . 
+CD , VBG Accompanier PRP$ NN , WP 
+NNS VBD VBN RB PRP$ NN POS NN 
+CC 2DArea DT NN MD 
+CD NNP NNP Source NNP . ( CD ) DT 
+VBP VBN VBG Topic DT NN 
+: DT NN EndTime PRP VBD RP . 
+CD VBG DT NN 
+VBD PRP NN Location DT NN 
+DT JJ NN TO VB NNP NNP , 
+CD NN VBN Agent NNP , NNS 
+NNP NNP NN Location DT NN VBG 
+NNP : NN Theme JJ NN VBD 
+JJ NNS VBG NN PDT DT JJ 
+MD VB VBN Location DT NN 
+NNP NNP NN Location NNP NN NNP 
+VB JJ NNS , CC PRP RB VBZ 
+VB DT NN Duration DT NN . 
+DT NN RelativeTime NN NNS 
+DT NN : NNS Topic NN NNS 
+NNP NNP NNP Location DT NNP NNP 
+DT NN Location NNP POS NN VBD 
+CD NNS Age CD NNS 
+JJ NN NN Duration WDT PRP VBD 
+CC CD NNS NNP 
+DT CD NNP CC NNS 
+PRP$ JJ NN . 
+VBP VBN JJ Duration DT NN 
+NN , WDT VBZ VBG WP VBZ DT 
+CC MD VB NNS PRP$ NN . 
+VBN DT NN Idiom DT NNS CC 
+PRP$ JJ NNS Co-Agent PRP$ NN NN 
+DT NNP NN VBZ VBG nan PRP VBZ 
+VB DT JJ RBR JJ Topic PRP$ NNS Theme DT NN Comparison/Contrast DT : CC RB VBP RB VB TO JJ NNS VBG nan PRP VBP RB VB TO VB RB , RB nan PRP VBD PRP$ JJ NN . 
+JJ NN NN Location NNP CC NNP 
+NN NN VBZ VBG DT NN POS JJ 
+NNS , NN VBD RP DT JJS NNS . NN 
+NNP CC DT nan 
+NN NNP RB RelativeTime NNP NNP POS NN 
+PRP VBD VBG Co-Agent NNP , CC VBG JJR Topic WRB DT NNS VBP VBN Purpose DT NNS . 
+NNP , CC VBZ StartTime VBN PRP DT 
+VBG DT JJ NN 
+CC JJ NNS EndTime DT NN 
+DT NN 
+VBG DT NN NNP NNS . 
+VBZ VBN JJ Location DT NN 
+VB RB VBN ValueComparison CD ( CD ) . 
+RB Approximator $ CD CD 
+VBG JJ NNS VBG PRP VBD RB 
+JJ NN VBG JJ JJ NNP NNP . 
+NN , VBD VBN VBG DT NN . 
+NNP , VBZ VBN Agent NNP NNP 
+NN CD NN EndTime DT NN CC 
+CD JJ VBN Time CD CD NNS 
+CC CD NN 
+VB DT JJR State DT NN . 
+DT JJ NN . 
+nan NN nan 
+CD NNP Goal NNP NNP CD 
+Circumstance DT NN 
+NNP , VBG NN NN WDT 
+DT NN POS JJ NN 
+VBG NNS Location DT NNP NNP , 
+NNP NNP , Accompanier 
+NN , VBG Via JJ NNS VBZ 
+RB RB Locus DT NNP NN , 
+DT NN Location DT NNP NNP 
+PRP RB DT JJ NN . 
+NN NNP VBZ Location DT VBN NN 
+VB NN Co-Theme NNP CC NNP , 
+PRP VBP RB VB CD NN Stimulus PRP . . . . . 
+NN , DT NN NN 
+DT , PRP VBD RP DT VBG NN 
+VBN DT JJ NN Quantity NN nan JJ VBP RB NN . 
+NNS VBP NNS DT NN NN 
+NNS WP VBD VB NNP JJS NN 
+RBS CD NNS , NN RB RBR nan 
+MD VB JJ EndTime NNP NNP CD . 
+NN VBN nan VBG NNP POS NNS 
+NN RB Location DT NN VBD 
+NN CC NN Co-Agent DT WP VBP . NN 
+PRP$ JJ NNP , VBG 
+NNP NNP VBZ , NNP 
+NN Theme NNP 
+VBD DT NN Location DT NN 
+PRP VBD JJ Location DT NN 
+NN MD VB CC VBD DT NN 
+NNP Location NNP , NNP , VBN 
+NN VBG JJ NNS , NNS 
+NNP NNP , VBD Location NNP NNP NNP 
+CC DT NN , Circumstance VBG JJ NNS 
+NNP VBD RB Duration CD NNS RelativeTime PRP VBD Time DT CD ValueComparison CD JJ NNP NN . 
+CD NNS VBD RP DT NNP NNS 
+PRP VBD VBN Manner NN , CC PRP VBD PRP VBD DT NN NN NN Theme PRP$ NN . 
+NN , VBG DT NN 
+DT JJ NNS VBG CD NN CC 
+NNS DT NN Topic NNP NNP . 
+RelativeTime PRP$ NN , PRP$ NN VBD PRP DT NN Location DT NN NN WRB PRP VBD VBN PRP MD VB DT $ CD NNP NN TO VB CC VB TO DT NN , nan DT NN PRP VBD RB VBN DT NN RB CC VBD VBG TO VB PRP$ NN NN . 
+DT JJ NN Superset CD NNS . 
+DT NN VBD RB 
+NN nan NNS 
+PRP VBD nan Location PRP , NNP VBD 
+VBN NNP NNP RelativeTime VBG PRP$ JJS 
+PRP VBP Direction RB CD NNS DT NN . 
+CD NNS ProfessionalAspect DT NNP 
+CD . NNP NN Theme JJ NN . 
+VBG 
+NNS RB VBD JJ NNP NNP . 
+CD CD NNS Source DT NN 
+CD : NN Location NNP VBZ NNP 
+JJ , Accompanier 
+VBP RB VB WRB RB PRP MD VB JJ NNP NNP CC DT Superset DT JJ NNS . 
+RB NN NN nan DT NN 
+DT NN NNS Location DT NNP NNP 
+DT JJ NN Via NNP . 
+DT JJ NN 
+VBZ DT NN Duration PRP$ NN 
+NNS CD nan NN 
+NNP NNP NNP VBG 
+VBZ VBN VBN Agent DT NN . 
+NN NN , ValueComparison CD , VBD 
+NN NN NNS Duration DT NN . 
+DT NN NN , NN nan JJ 
+WP VBP PRP Destination DT NN , RB 
+JJ NN 2DArea DT NN , NNP 
+PRP VBZ RB JJ WRB PRP VBP 
+NNP NN VBG NNS NNP VBD JJ 
+VBN RB VBG PhrasalVerb NNS VBG DT 
+CD NNP NNS TO VB PRP$ NN 
+WRB PRP RB VBD Time NNP PRP RB VBD RB nan PRP VBD VBN PRP MD VB JJ TO VB DT CD NN NN nan PRP VBD TO VB RB . 
+VBP PRP VBG PhrasalVerb DT JJ NN . 
+NNP NNS 
+CD NNS RB VBD NNS , VBD 
+PRP VBZ VBN VBN StartTime NNP 
+RB VBN VBN RB Location DT NNP NNP 
+NN NN : PRP VBZ 
+nan JJR nan 
+DT JJ NNS , CC PRP RB VBZ 
+Location DT NNP NNS 
+NNP NNP VBD Destination NNP POS JJ NN . 
+CD NN ValueComparison DT NN , PRP VBP 
+NNP VBZ VBD Destination DT NN 
+NN CC NNS Location PRP . 
+DT NNS NN VBP RB VB , NNP , nan 
+DT NNS VBP Age CD NNS CC 
+NN , VBG NN NNS , VBD 
+DT JJ NN VBG DT NNS VBD 
+PRP$ NNS Topic DT JJ . 
+PRP VBD PRP VBD DT JJ NN , CC VBD DT , RelativeTime VBG DT DT JJ NN Location PRP$ NN CC PRP$ NN NNS StartTime JJR Time DT NN . 
+DT VBZ VBP Approximator CD CD CC 
+NN MD VB Elements VBN NNP NNS . 
+NN VBD DT NNS . 
+VBZ NN NNS VBG NN CC NN , 
+CD : NNS VBP Explanation VBG DT NN . 
+NNP JJ NNS , VBG DT NNS . 
+VBD DT NN Time NNP CC VBD 
+CC VBD RB ValueComparison $ CD 
+PRP VBP RB VBN nan RB . 
+CC VB CD CC PRP$ JJ NN 
+NN VBG NNP POS JJ NNS 
+PRP VBP DT JJ NN JJ Attribute PRP$ NN Theme NN , NN , NN , CC NN CC NN CC JJ NNS CC JJ NNS . 
+CD Value NN 
+VBZ RB nan DT NN MD nan 
+NNS , DT NNS Agent DT NN MD 
+NNP CC NNS ProfessionalAspect NNP NNP . 
+CD CD NNS Age NN CD NN 
+NNP POS NN EndState CD JJ NNS 
+NNP NNP EndTime DT NN VBZ 
+NN PhrasalVerb DT RB JJ 
+DT NN VBD Approximator CD NNS ( CD 
+NN WDT VBD nan DT JJ NN 
+VBZ DT NN Comparison/Contrast DT JJ : 
+PRP VBZ RP NNP POS CD NNP . 
+NN , RB StartTime NNP NNP VBD nan NN 
+NN VBD NNS Location NNS . 
+Location CD NNS 
+NNP POS NN Location NNP NNP NNP 
+DT NNS VBG PhrasalVerb DT JJ NN . 
+NNP CD , CD , Location DT NNP NN 
+VBD PRP$ NN Duration DT NN . 
+VBZ DT NN , CC DT NN VBZ 
+PRP VBD nan CD NNP NNP nan 
+NNP VBD VBN StartState DT JJ NN 
+NN VBD CD Value NN 
+NN VBZ VBN VBG DT RB VBN 
+NN VBZ VBN InitialLocation DT NNP NNP 
+JJ NN NN Manner NN , RB NN 
+DT JJ NN NN Co-Agent NNP . 
+NNP NN NN CC DT JJ NNS 
+RB Idiom DT NNP NNP , 
+JJ VBP JJ NN NNS 
+NNP NNP NNP Time CD NN . DT 
+PRP VBD nan DT NN VBD NN NNS . 
+Elements DT NN 
+JJR NN VBZ RP DT NNS RB . 
+CC NN NN Location DT NN VBD 
+JJ NNS VBG NN PDT DT JJ 
+VBP DT JJ Location DT NN . 
+NNP NNP : Circumstance DT NNS 
+NN NNS VBP PhrasalVerb DT JJ NN 
+VB NNS RP NNP NNP NNP 
+NNS Duration DT NNS . 
+JJ JJ NNS Via VBN . 
+Location NNP , DT NN 
+VBG nan , VB JJ 
+Comparison/Contrast DT JJ NN 
+RB VB VBN Location DT NN . 
+PRP$ NN Location DT JJ NN 
+NN CC NNS Accompanier DT NN 
+WP PRP VBZ Attribute DT JJS NN 
+NNS DT JJ NN DT JJ NN , 
+NN NNS VBD RP JJ NNP : NN 
+RB PRP VBD DT nan TO PRP , Time WDT NN PRP VBD PRP RB VBD CD Superset DT JJ NNS State NN . 
+CC JJ NNS Goal DT NN NN 
+NN nan DT NN . nan 
+DT NNP NNS Accompanier NNP . 
+DT NN CC NN TO VB 
+DT NN Manner NN 
+PRP VBD nan PRP MD VB DT NN PRP VBD RP . 
+VBD DT NN NN NN NNP , NNP 
+JJ NN , VBG DT NNS , VBD 
+VB RB Location DT NN . . . 
+DT NNP NNP Location DT NN . 
+VB VBN RP 
+NN VBZ NN Attribute RB DT NN 
+PRP$ NN NN Elements PRP$ NN . 
+DT NN , DT nan 
+JJ , PRP VBZ RB NN VBN , CC PRP VBP PRP TO NN . . . 
+VBP VBG nan Explanation NN NN . CD . 
+VBG PRP$ NN 
+NN NNS RP 
+JJ NNS , CC EX VBZ RB JJR 
+NN 2DArea DT NN . 
+NN , NNP , NNP Source NNP NNP : 
+RB RB VBP DT NNS RB JJ CC JJ , CC PRP RB VBP RB VB DT NN . 
+JJ NN ValueComparison $ CD VBP VBN 
+JJ CD NN Comparison/Contrast DT NN 
+RB , CC NN nan 
+NNS VBD PRP Idiom PRP$ NN . 
+RB DT NNP Destination DT NNS PRP$ 
+NNS VBP VBN PhrasalVerb JJR NN NNS . 
+DT NN Possessor NNP WRB VBZ 
+DT VBZ NNS Goal NN CC NNS . 
+NNP NNS , NNP MD 
+NN VBG DT NNS VBZ 
+PRP$ JJ NN Duration DT JJ CD 
+nan NNP nan 
+PRP MD RB VB PRP$ NNS RB . 
+NNS VBD NNS DeicticTime DT JJ NNS 
+NN VB PRP$ NN NN 
+VBD NNP VBD PhrasalVerb JJ NN WRB 
+NNS CC JJ NN NNP NNS , RB 
+NNS , NNP VBZ Duration NN CD 
+VBG TO VB 
+NNP ( NNP ) VBD ValueComparison PRP$ JJ NN 
+PRP VBZ VBG RB . 
+DT JJ NN VBZ DT NN VBN Agent WP MD VB DT CD NN NN NN . 
+NNP VBZ RB Topic NNP . 
+NNP NNP nan DT NN nan 
+RB NNS VBP Location DT NN 
+PRP VBP CD NNS RB CC PRP VBP DT NNP . 
+VB RB JJ , CC DT NNS VBP 
+NN : CD NNS DeicticTime NN NNS VBD 
+JJ NN VBZ RB 
+NNP POS NN VBD PRP$ JJS 
+DT JJS EX VBZ ProfessionalAspect NN . 
+CC PRP VBZ Scalar/Rank DT WP VBD 
+VB VBN Direction NNP , RB VBG 
+nan NN : EX VBP 
+NNP CC NNP NN 
+VBN JJ NNS 2DArea DT NN . 
+DT NNP NNP Theme CD NNP NNP 
+DT NN Topic JJ NN POS NN 
+NN CC NN Duration PRP$ CD NN 
+VBZ RB VB DT NN nan 
+NNS Via NN , DT NN 
+PRP MD VB TO VB CD NNS RB CD TO NNP . 
+VBG JJ NNS , DT 
+MD VB VBG Location PRP$ NNS : DT 
+NNS CC VBG NNS 
+CC VB JJ VB DT RB NN 
+RB PRP VBD PRP$ NN PRP VBD DT NN CC JJ NN TO PRP$ NN POS NN CC VBD PRP RB TO VB PRP . 
+NN , DT VBD JJR nan DT NN 
+JJ NNS RB ValueComparison NNP NNP POS NNS . 
+NN CC NN Duration DT JJ NN 
+NNP VBZ VBN , Circumstance NNS POS NNS 
+RB NNP NNP NNP NNP . 
+DT NN Location DT NN VBD JJ NN PRP MD RB VB PRP . 
+CD NNP VBN Source NNP NNP NNP 
+VBZ VBN JJ VBG NN . 
+nan CD NNS Location DT NN 
+NNP NN PRP MD VB 
+RB DT NN VBZ VBG JJ 
+PRP$ NN Direction PRP$ JJ NN . 
+NN , CD NN CC DT VBD 
+NN NN VBD PhrasalVerb $ CD CD 
+DT JJ NN Location NNS NNS . 
+PRP VBD VBG DT NNP . 
+JJ NN RB Comparison/Contrast 
+DT JJ NNS , VBG WP MD RB 
+VBG 
+NNS JJ nan NNS , NNS , NN , 
+NN ) VBD VBG Circumstance DT JJ NN , 
+NN JJ NN VBG DT NN 
+NN RelativeTime DT NN 
+NNP MD VB RP 
+VBG NN . 
+NNP VBD VBN Stimulus NNP POS NN CC 
+JJ NNS . 
+NN Location DT NN . 
+VBG NNS VBD VBG 
+Scalar/Rank DT NNS , JJ 
+RB , Circumstance WP PRP VBP 
+NN JJ NN , VBN DT JJ NN 
+NNP CC VBD JJR NN nan 
+DT JJ NNS CC JJR NN VBD RB RB VBP : nan , nan DT NN VBD RB JJ CC JJ CC VBN . 
+VBD RB VB , VBD nan JJ JJ NN , 
+NNP , NNP NNP Source NNP NNP NNP 
+CC VBG DT NN , RB 
+RB NNS 
+DT NN nan CD 
+NN NNS . 
+DT NN RelativeTime PRP VBD JJ 
+DT JJ NN Source NNP NNP ( NNP , 
+RB RB JJ CC JJ . 
+Scalar/Rank DT , PRP VBP 
+NN Location DT NNP NN 
+PRP$ JJ : NN NN VBD DT NN CC VBD nan DT NN , RB VBG DT CD NNS RB ( PRP RB VBD PRP$ NN Location . ) . 
+VB PRP , Circumstance DT NN nan 
+VB RP PRP$ NN 
+NN ValueComparison CD NNS . 
+VB DT NN Duration DT NN . 
+NN MD VB EndState NN NN CC 
+JJ NN Locus JJ NNS . 
+VBD VBG NN Via NN , NNS CC 
+NN MD VB Duration DT JJ NN . 
+NNP : RB DT NN 
+CD NNS , CC RB RB DT NN . 
+Scalar/Rank DT NNS , JJ 
+NNP VBZ JJ CC VBZ JJ NN Stimulus NNS . 
+JJ JJ NN Co-Participant NNP NNP . 
+Duration JJ NNS DT 
+MD VB VBN Circumstance DT JJ NN 
+NNS WDT VBD RP JJR nan NN 
+NNS Co-Theme DT JJ NNS . 
+VBN DT NN Theme PRP$ JJ NN 
+Scalar/Rank DT VBP RB VBN 
+VB PRP$ NN Attribute NNP NNP 
+JJS $ CD ValueComparison DT JJ NN 
+PRP MD VB PRP$ TO NN . 
+VBD DT NN ProfessionalAspect NN NN . 
+NNP VBZ NN NNS . 
+NN Location DT JJ NN 
+CC CC RB CD NN . 
+DT NN VBZ DT JJS CD NN VBP RB VBN TO . 
+CD NNS : NNS Superset DT NN DT 
+DT NN VBZ DT JJ NN CC VBZ RB TO VB DT JJ NN CC DT JJ NN . 
+NNS , JJ 
+NNS , DT VBN Via DT NN . 
+CC Circumstance NNS 
+DT JJ NN , VBG CD 
+NNP VBP VBG MD VB DT 
+JJ JJ NNS State DT NN 
+DT NN Location DT NNP NN . 
+DT NN VBZ Circumstance JJ NN 
+NN RB EndTime VBN . 
+CD NNS VBG RP 
+CC VBG DT NN NN 
+CD NNP NNS Co-Agent NNP , JJ NNS 
+NN CC NN NN PRP , nan JJ 
+VB DT NN RP 
+NNP NNP VBZ RP NNS 
+PRP VBD PRP VBD VBG TO VB PRP RB CC MD PRP Extent JJS VBP DT NN . 
+nan VBG NNS RelativeTime DT NN VBP 
+JJ NN : $ CD CC NN , RB VBD 
+NN VBD VBN Location DT NN . 
+CD Superset PRP$ JJ CD NNS TO VB Location NNP . 
+PDT DT NNS VBP VBN Location DT NNS . ) 
+NN VBD $ CD Value CD JJ NNS , 
+DT NNP NNS , VBP DT JJ NN 
+JJ JJ NN Duration CD NNS , VBG 
+VB : NNP NNP FW NNP NNP VBD 
+NNS CC NNS Via DT NN 
+MD PRP VB Comparison/Contrast NNP NNP . 
+NN . 
+CD : NNP VBZ Topic NN NNS PRP$ 
+NN VBD DT NN nan PRP VBD 
+NNS Location DT NN 
+NN : nan $ CD Value NN . 
+VBG NN . 
+NN CC CD , DT NN 
+VBN nan TO DT NN nan Location nan NN Activity NN , CC PRP VBD JJ . 
+DT NN , Elements WRB NN NNS 
+VBG JJ NNS RelativeTime VBG 
+NN Duration DT NN 
+VBD DT NN EndTime CD NNS . 
+NNS VBP NNS VBG VBN NN 
+NNP NNP , CC JJ NNP POS NNS 
+NN RelativeTime PRP VBD VBN 
+NN RP PRP$ NN . 
+NNS VBD VBG RP 
+MD VB DT JJ NNS 
+nan DT JJ , RBR JJ NN VBZ 
+DT Elements NNP VBD RB 
+NNS CC VB Location DT NN 
+nan NN nan 
+NNP JJ NN Means VBG NNP NN 
+JJ NNS VBP Topic NNP ( CC VB 
+WP VBD VBG InitialLocation DT JJ NN 
+DT JJ NN . 
+NN NN VBZ Location CD 
+CD CC RelativeTime NNP NNS VBP 
+MD VB NNS RP nan NNS 
+JJ NN NN Topic DT JJ NN 
+DT JJ CD NNS . 
+DT NN NN VBD 
+NNS VBP Location DT NN NN 
+PRP$ JJ NN Topic VBG DT NN . 
+VB EX ( CD NN Comparison/Contrast CD NN 
+PRP VBD nan Duration PRP$ NN . 
+DT NN VBZ RP JJ NNS . 
+DT NN NN Theme NN . 
+DT NN NNP VBD VBG 
+NN MD VB Location DT JJ NNP 
+PRP MD RB VB VB NNP 
+NN VBD NNS JJ NN nan EX 
+NN , CC DT NNP DT NNP NN 
+JJ NNP , Accompanier 
+DT JJ NN TO DT NN DT 
+NN RB VBD RP WRB DT NN 
+PRP RB VBD PRP$ NN VBN Agent NNP NNP CC MD VB nan PRP VBP RB JJ Stimulus DT JJ NN . 
+NN VBD VBN RBR JJ nan NNP 
+NNP NN VBD Topic NN VBD DT 
+JJ JJ NNS VBG CD NNP CC PRP$ 
+VBG CC VBG Comparison/Contrast VBG MD VB 
+WRB PRP VBD RP 
+DT NNS NNS Duration DT NN NN , 
+DT JJS NN Location NNP NNP CC 
+NN nan DT NN 
+NNS VBG NN , VBG DT NNS VBN . 
+JJ NN VBD Time PRP VBD 
+DT NN Time CD NN CC 
+DT NN NN Location DT NN . 
+WDT VBD VBG PhrasalVerb DT NN 
+VBZ DT NN Comparison/Contrast VBG PRP$ JJ 
+NNP POS JJ NN Scalar/Rank DT NNP JJ 
+DT NN Location DT JJ NNS 
+NNP NN NNS 
+RB CD NNS Location DT NNP VBD 
+EX MD VB DT NN RB JJ NNS nan PRP RB . 
+CD NNS VBD Destination DT JJ NN 
+JJ NN NNS VBG JJ NNS . 
+NN Topic DT JJ JJ 
+NN VBZ VBN Location DT JJ NN 
+RB JJ . 
+DT JJ CD NNS . 
+NNP VBD RB JJ CC VBD WRB DT NN VBD . 
+NN PhrasalVerb VBG NN NN 
+PRP$ NN , Location DT NN 
+NN VBD nan NN CC VBD RB VB DT NNS , PRP VBD RB TO VB CC VB DT NN RB CC RB . nan 
+DT NN NN EndTime VBG JJ NN 
+nan PRP VBP NNS NN . 
+'' NNP POS NN Location CD NN VBD RB NN . 
+NNP NNP NNP , VBZ DT VBG NN 
+DT NNS VBD RB DT NNP NNP 
+DT NN VBD nan NN . 
+PRP VBD DT JJ NN Species NNS TO VB Theme CC PRP$ NNS VBP JJ NN . 
+DT JJ MD RB RB nan DT 
+NN : JJ NN Source JJ NN . 
+DT JJ CD VBG DT JJ NN 
+PRP RB VBD TO VB DT NN . 
+CC VBD NNS RB NNP NNPS NNP 
+VBZ VBN NN ProfessionalAspect NNP . 
+nan CD NNS Attribute NN , NNS VBD 
+VBN JJ NN Location NNP . 
+NNP NNP NNP Location NNP . 
+VBG JJ NN , RB , 
+PRP VBZ RB DT JJ NN . 
+VBZ DT NNP Source DT NN POS NNS 
+NNP NNP VBZ InitialLocation PRP$ NN 
+DT JJ Duration DT NN 
+CD Value NN 
+NNS VBD VBG 1DTrajectory DT NNP NN 
+VBN NNP NN VBG DT JJ 
+NNP NNP VBD Via NNP . 
+NNP NNS VBG TO VB 
+NNS VBN Agent JJ NN NN 
+DT NNS Elements DT NNP 
+NNP CC NNP VBP 
+CD NNS CC Approximator JJS CD NNS VBP RB JJ NNS . 
+VBZ RB CD NN CC JJ CC JJ 
+NN , Comparison/Contrast NNP . 
+NNP NNP NNP , JJ NNP NN NNS 
+NNS JJ NNS CC NNS , 
+NNS Location DT JJ NN 
+NNP NNP NN Locus PRP$ NNS . 
+DT JJ Explanation NNS RB 
+NNP NNP NNP Topic NNP NNP ( NNP ) 
+VBZ VBG VBG Via NNP NNP 
+RB JJ : VBG DT NN 
+VB PRP$ NNS Elements NNP . 
+NNS , NNP VBZ VBN JJ NN NNS 
+NN CC VBZ RB CD NN , CC 
+CD NNS ValueComparison JJ NNS , VBG 
+NN CC VBD Destination DT NN , VBG 
+NNP VBZ PRP Elements NNP NNP . 
+NNP VBG PRP$ JJ NN . 
+PRP VBZ VBG Scalar/Rank 
+NN NNS VBZ Approximator CD NNS ( CD 
+VBN DT PRP$ NNS , CC VBD PRP RP WRB PRP VBD NN . 
+RB VBN NN Comparison/Contrast PRP RB . 
+DT VBZ DT JJ 
+NNP , Location DT NNS CC 
+CD NNS : NN '' nan DT NNS 
+NN RB PRP , CC PRP VBP VBN 
+Location NNP , JJ NNS 
+nan DT NNS EndTime DT NNS VBP 
+NNP VBP JJ NNP NNP 
+NNP NNS : NN TO VB nan . 
+PRP$ JJ NNS Destination NNP NNP , DT 
+DT JJ NN StartTime VBG RP 
+JJ JJ NN NN CD 
+JJR MD VB Theme NNS NNS . 
+PRP VBD CD JJ NN Species NNS , PRP VBD PDT DT JJ WRB PRP VBD TO NN . 
+NNP , VBG DT NN NN 
+VBG DT NN Direction DT NN 
+NN MD RB VB EndTime RBR DT NN 
+PRP$ NN Location PRP CC nan 
+DT JJ NN Scalar/Rank NNP NNP JJ 
+DT JJ NN StartTime JJ NN POS JJ 
+NNS NNS VBG PhrasalVerb DT JJ NN 
+JJ NN Duration DT JJ CD 
+nan CD NNS RB NN , DT NN 
+VBN CC VBN StartTime CD , CC nan 
+VBN NN : WP Topic PRP NNS PRP$ 
+VBG TO VB 
+JJ CC NN . 
+DT JJ NN Theme NN , VBZ NNP . 
+: VBZ VBN Circumstance DT NN 
+DT NNS NNS , Elements NNS CC NNS , 
+VBN RP 
+NNS DT NN Experiencer JJ JJ NNS . 
+PRP VBD RB JJ CC PRP$ VBD 
+DT NN Comparison/Contrast DT NN '' NNS . 
+NNP JJ NNS 2DArea DT JJ NNP . 
+NNS JJ NNP Manner DT JJ NN . 
+VBG NNS VBN PhrasalVerb DT NN 
+NN RB JJ , CC NNS VBP 
+NN ( NN ) VBZ CD CD NN 
+NNP NNP VBZ DT NNP . 
+NNS CC NNS Location DT NN 
+DT NN VBD VBG DT NN WDT 
+JJ NN VBZ Superset DT NNS 
+NNP RB VBD Explanation PRP VBP RB RB WRB VBP RB PRP VB PRP NN . 
+VBG : NNS RB 
+DT NN Co-Theme NNP POS NNP NNP , 
+RB VB RP PRP$ NNS , 
+NN NNS Location PRP$ NNS , DT 
+VBG DT NN nan 
+Elements NNP POS NNP , DT 
+NNP NNP VBZ nan NNP NN 
+PRP$ NN NN , NN VBZ RB VBG . 
+CD NNS NNP EndTime CD NNS RB , 
+RB JJ : NNS Attribute JJ NNS NNP 
+MD RB VB VBN Idiom DT JJ NN . 
+NN MD RB VB PhrasalVerb NN . 
+NN VBZ VBN Location DT JJ JJ 
+CD NNS nan DT NN , WRB 
+JJS $ CD , VBG NN NNS CC 
+DT JJ NN Comparison/Contrast NN WP VBP 
+VBN JJ NNS , CC JJ NNS , NN 
+NNP , PRP VBD VBN PRP NN PRP 
+NNS , VBP VBN PhrasalVerb DT NN WDT 
+NN PRP VBD VBN 
+Elements DT NN 
+NN PRP VBD VBG 
+VB PRP$ NN Location DT NN POS NN 
+CD NNS VBG 
+NNP NNP 
+Circumstance DT NN DT 
+CC Idiom TO VB 
+VBG NNS VBP Location DT NN : 
+VBZ RB VBG Manner NNS , JJ NNS 
+NNP , VBZ Superset NNP POS JJS NNS , 
+NNS Agent NNP NNS NNS 
+NNP VBD NN , RB CD 
+Comparison/Contrast JJ NNS 
+DT NN VBZ Direction JJ NNS 
+VB Topic NNS RB 
+CC Scalar/Rank NNP POS NN 
+JJ NNS VBD Location DT NN WRB 
+NNP Co-Agent DT NNP NNP 
+MD VB NN Source NNS . 
+NNP NNP VBD Time CD nan PRP 
+NNP NNP NNP ProfessionalAspect DT NNP NNPS 
+DT NNS VBD JJ CC PRP VBD VBN RelativeTime PRP CC VBD RB VB DT NNS Theme PRP$ NNS . 
+NN NN Purpose DT JJ NNS . 
+NNP CD , RelativeTime NNP NNP , RB 
+VBP RB VB RB EndTime NNP CD 
+NNS DT NN , VBG 
+NN CC NN PhrasalVerb NNP . 
+NNP NNS PRP VBD PRP NNP TO VB CC VBD RB VBN . 
+NNP JJ Direction DT NN 
+VBG NN NNS , Time NNS VBP . 
+nan nan VBG VBG State DT NN , RB Time NN NNS , DT NNP NNP VBZ RB JJ CC PRP VBZ DT JJR Scalar/Rank DT Superset DT NN NN PRP VBP VBN Location . 
+DT NNP NN Location TO VB 
+NNS , VB PRP EndState DT NN NN 
+NNS VBP JJ VBG DT NN 
+CC MD VB Attribute JJ VBG NNS . 
+JJ NN NN Source NNS 
+DT NN nan Causer VBG JJ NNS . 
+PRP$ NNS Elements VBG DT NN 
+NN CC MD PRP VB 
+NN VBD RB VBN DT NN . 
+JJ NN Co-Agent NNP 
+NN VBZ JJ EndTime CD . 
+CC CC CD NN NNS . 
+NNP CD , CD VBG DT NN . 
+RB DT NN Duration NNP . 
+NN VBD JJ VBG DT NN , 
+NN PhrasalVerb RB JJ NNS 
+RelativeTime PRP$ NN CC NN , PRP VBD Theme DT NN Quantity EX NNP NNP NNP , PRP MD VB PRP VBD JJ , Stimulus DT JJ NN CC PRP VBP DT NNP NNP RB VBG Donor/Speaker PRP , PRP VBP DT VBZ RBR , PRP VBZ RBR JJ CC NN . 
+PRP VBZ PDT DT JJS Superset DT JJ NN . 
+VBD DT NN , VBG NNS , NNS , CC 
+DT NN VBD Location NNP : 
+NN nan NNP , DT NN nan 
+NNS Superset JJ NNS CC 
+PRP VBP VBG RB nan NN VBP RB VBN RB RB , NN MD VB VBG NN TO VB DT NN Quantity JJ NNS CC NN MD RB VB TO DT JJS CC TO PRP DT JJS VBZ RB . 
+NN VBD NN , RB nan Theme DT NN CC NN . 
+MD VB NN Location DT NN . 
+VBZ VBN VBN VBG DT NNP NN . 
+NNS CC NNS : Approximator CD NNS VBD 
+Location DT NN 
+NNS WP VBP PhrasalVerb NN CD NN 
+NN NNP NNP nan 
+NNP CC NNP , CC DT JJ NN , 
+DT NN WDT VBZ PRP VBP DT 
+NN nan NN Location NNP , NNP , NNP , 
+VB DT NN , PRP MD 
+DT JJ JJ NN DT NN NN 
+VB PRP$ NN , RB RB Accompanier JJ 
+RB JJ VBP VBG 
+PRP VBD NN Topic NN WRB PRP 
+NN VBG NN CC RB CD NN 
+NN CC CD NNS . 
+VB NN NN DeicticTime PRP VBP PRP . 
+NN NN Value NN : CC 
+NNP NNP NNP NN NN CC VBD 
+NN NN NN , VBG NNS VBD 
+$ CD CD Location DT NNP , VBZ 
+NN VBG DT NN 
+RB CD NNS Scalar/Rank DT . CD NNP 
+RB NN NN Explanation DT NN . 
+JJ NN NN 2DArea NNP . 
+DT NN VBD nan NNP 
+DT JJ NN Topic DT NN nan 
+JJ NN NNS , NN NN NNS , VBG 
+VBG 
+DT JJ NN Locus DT JJ NNS , 
+CC PRP$ NN CC PRP RB VBD RB VBG PRP MD VB JJ NN ( VBP NNS Quantity NN ) , CC PRP VBD RP TO VB DT JJ NN . 
+NNS nan NNP NNP NNP . nan 
+Elements nan VBG 
+VB JJ NNS Activity DT NNP NNP 
+NN WP VBD Destination NN NNP 
+NN VBG DT NN , VB 
+VBG DT JJ NN 
+DT NNP Duration DT NN NN 
+JJ NN CD : Explanation DT NNP NN 
+NNP POS JJ NNS Topic VBG NNP NN 
+nan DT NN nan 
+PRP$ Idiom DT NNS , PRP 
+NN NNS , Accompanier 
+NN VBZ VBN Stimulus VBG NN 
+NN NNS , RB Comparison/Contrast JJ NNS WDT 
+NN VBZ DT JJ 
+VB PRP Circumstance NN . 
+NN PhrasalVerb DT NNS : 
+NNP NNP CC NNP NNP : PRP MD RB VB NNP NNP NNP RB . 
+CD . nan CC NN NNS 
+NNP NN NNP , Duration DT NN NN 
+NNP NN Location DT NNP NNP 
+JJ NNS , NNS Location NN 
+DT JJ NNS , nan 
+NNP VBZ RB VBG 
+NNP : nan DT JJS NN CC NN PRP VBP RB VBN ( CC PRP VBP VBN DT NN ) . 
+NN Circumstance DT JJ NN . 
+NN PRP VBD Accompanier PRP$ JJ JJ 
+NNP NNP VBD VBG 
+MD PRP VB CC DT JJ NN 
+NNP VBN VBG TO VB 
+NNP NN NNS Duration DT NN NN 
+NN VBZ VBN Location DT NN . 
+PRP$ JJ NN Location DT NN . 
+NNS RB NNP RP 
+NNP CD JJ JJ 
+NNP VBP JJ Duration DT NN 
+nan DT NN , DT 
+DT NN VBN RelativeTime DT NN nan 
+NN , VBG 
+CC VB State PRP$ NN NN . 
+NNS VBP NNS Duration DT NN NN . 
+JJ NN nan NNP CC NNP nan 
+VBP RB VBG ValueComparison DT JJ NN 
+DT JJ NNS Direction DT NN NN 
+JJ NNS VBG PhrasalVerb NN . 
+NN , NN NNP RB RB Frequency JJ . 
+PRP VBP VBG Comparison/Contrast NN WP VBZ 
+VB PRP EndState DT NNP NNPS 
+DT NNS EndTime JJ NNS VBN . 
+PRP VBD JJ , VBG RB 
+NN VBZ NNP Topic VBG CD . DT 
+NNP , RB VBN Attribute NNP NNP NNP 
+CC VBG RB Destination DT NN NN 
+RB EndTime PRP VBD VBN 
+Approximator CD NN nan 
+NNS Attribute PRP$ JJ NNP 
+Location DT NN POS NN . 
+VBG TO VB 
+DT NN , CD Value NN VBD nan 
+NN NNP VBD EndState DT NN CD 
+VBD CD NNS , VBG CD NNS . 
+NN NN VBD Location DT NN 
+NNS Via NNP . 
+RB VBN Location DT NN NN . 
+NN , NNP NNP , Activity NNP DT JJ 
+DT NNP NNP Duration DT NN . 
+JJ NN NN CC JJ NNS CC JJ PRP VBD DT RB RBR Locus PRP$ NN NN , nan NN VBZ DT JJ NN . 
+NN VBP VBG Scalar/Rank DT NN POS NN 
+VB VBN , VBG NNS 
+VBN CD NNS Duration PRP$ CC PRP$ 
+NNS Beneficiary JJ NN DT 
+CD : NNS Agent NNP , WDT VBZ 
+WRB NNP VBD Location PRP$ NN DT 
+VB NN VBG 
+VB NN NNS , VBG CD 
+JJ NNS ) : RP 
+CD NNS , VBN State CD NN : 
+NN Duration DT NNP 
+NNP NNS 
+DT JJ NN Topic NN DT NN 
+NN NNS VBP VBG 
+NN NN NNS 1DTrajectory DT NN NN 
+CC CC CD NN NNS , 
+Via VBG CD CD 
+NNP RelativeTime DT NN CC 
+VB DT NNS , CC PRP VBZ RB RB 
+RB VB NNS PhrasalVerb DT NN . 
+CD NNS VBG DT NN NN 
+nan JJ NN POS NN nan 
+NN NNP RB , VBG DT NN NN 
+VBZ DT NN Attribute NN NN PRP 
+RB RBR Topic JJ NNS NNP 
+NNP POS JJ NN Topic JJ NN VBG 
+DT NN VBZ Location PRP$ NN NNP 
+JJ , JJ NN , CC PRP VBD RB 
+VBN VBG NN JJ JJ NNP . 
+NN NNS VBD 2DArea DT NN . 
+CD RB VBG RP JJ NNP NNP : 
+PRP VBP RB JJ Stimulus DT NNS ProfessionalAspect NNP NNP . 
+NN PRP Location NNS , VBG DT 
+NN PRP : Elements VBG NNS VBP 
+DT JJ NNS VBD RB Extent DT JJ , RB VBN PRP$ NN . 
+NN NNS VBD RBR JJ . 
+CC CC CD NN NNS . 
+NNP PRP$ NNS VBD 
+DT JJ NN , RB nan 
+NNP , NNP , CC VBZ PRP$ NN 
+DT NN VBP RBR JJ 
+VB PRP$ NN , 
+DT NN JJ Activity JJ NN CC 
+NNS PRP VBP VBG DT JJ . 
+Elements JJ NN , EX 
+PRP$ NN '' VBG DT JJ NN , 
+JJ , CD VBD Activity NNP VBG CD 
+CD . VB JJR Topic DT NN 
+NNP NN Co-Theme JJ NNS CC 
+RB PRP VBD VBN . 
+VBN CD NNS RelativeTime VBG TO VB nan DT NN VBD State NN . 
+RB CD nan NN 
+VB VBG EndTime PRP MD VB . 
+PRP VBD VBN TO PRP$ JJ NN CC VBD VBN VBN : DT NN : JJ NN , CC DT CD NNS . 
+WP VBZ CD NN CD . 
+NNP CC NNP POS NNP 
+DT NN VBD VBN 
+WP VBZ VBN TO NNP NN NNP 
+NN Extent NN . 
+Comparison/Contrast NNS 
+VBN NNS Accompanier 
+DT NNP DeicticTime PRP VBD NNP , 
+DT NN NN Manner VBG nan PRP 
+DT NN NNS Time NNP POS JJ , NN 
+NNS VBP NNS : WRB 
+NNP NNPS NN TO NNP POS NNS DT 
+VBN CC VBN Agent DT NN NN , 
+NN VBZ RB VBG 
+VBP RB VB VBG NN PRP VBP RP . '' 
+JJ NN NNS Superset NNP . 
+RB JJR nan VBG NNS WDT VBD 
+RB nan NN RelativeTime CD ) . 
+RB VBD DT JJ NN . 
+VBG Topic PRP 
+NN POS JJ NNS Location DT JJ NN . 
+NN DT NN RelativeTime NN NNS 
+VBZ nan PRP nan 
+JJ NN NN . . . 
+DT NN CC NN 
+. NNS , nan DT CD CD nan 
+RB VBN , VBN State PRP$ NN . 
+NN VBD NNS Location DT JJ NNP 
+DT NN VBZ nan JJR , PRP VBZ DT 
+JJ . 
+VB JJ RB Manner DT JJ NN , 
+RB PRP VBD DT NNS RelativeTime PRP VBD CD Beneficiary PRP . 
+NN NNP . 
+NNS NN ValueComparison CD , DT JJS 
+DT NN VBD PhrasalVerb DT NN NNS 
+NNP VBG DT NNS , PRP 
+DT JJ NN MD VB 
+PRP VBD DT RB VBG NN Experiencer PRP$ NN CC PRP RB NNP VBD DT NN TO VB DT CC DT CD CD nan PRP . 
+DT JJ NN Location DT NN . 
+VBN NNS Value NN , WDT VBZ 
+NN NNP CC DT NN VBZ 
+NNS VBP NNS Duration PRP$ NN 
+CC JJ NNS Superset DT JJ NNS 
+VBZ NNS nan 
+DT NN VBN PhrasalVerb DT NNP NNP , 
+DT JJ NN RelativeTime VBG , VBD VBN 
+NNP POS VBG NNP NNP POS NN 
+DT NNP NN JJR nan $ CD DT 
+Comparison/Contrast DT NNP NNP , 
+NN NN VBZ VBG VBG NN 
+PRP VBD RB VBG DT NN , RB 
+VBG DT JJR NN 
+JJ NNP VBZ RP DT NNS 
+DT NN VBD EX VBD Approximator CD NNS VBG . 
+CD . RelativeTime CD NNS 
+NN nan PRP$ NN CC 
+VB TO VB Theme JJ NN 
+DT JJ NN Topic WRB PRP MD 
+DT NN EndTime CD , WRB NN 
+JJ VBN VBG Direction DT JJ NN 
+CD : NN VBD Attribute VBG NN DT 
+NNP VBG NNP 
+NNP NN NNS Accompanier NNP NNP . NNP 
+NNS VBP VBN Location NN 
+CD Value NN VBD 
+NN NNS CC NN NNS VBD 
+VBG NNS 
+VBD DT NN Locus NNS , CD WP 
+Elements VBN NN , PRP 
+VBG DT NN 
+DT NNP NNP , NN CD . 
+NNS ( CD NNS ) Location NN , DT NN 
+NNS Beneficiary CD NNS . 
+nan NNS 
+NNS , CC VBZ VBG 
+DT NN : NNS Topic NN 
+NNP NN VBZ VBN CC VB Attribute JJ : RB DT NN VBZ VBN Location DT NNS . 
+NNS RB VBG JJ NNS . 
+JJ NN NNS Circumstance VBG NNS nan 
+EndTime RB 
+DT JJ NN NNS JJ CC MD 
+NNP JJ NNS , NN 
+NNP '' NN . CD Elements NNP . 
+Circumstance DT VBN NN , 
+DT NN Time NN 
+DT NN 
+JJ JJ NN Goal JJR NN NNS , 
+VB PRP$ NN Beneficiary NNP NNP NNP 
+EndState NNS RB nan 
+NNS CD NNP Location NNP NNP CC 
+MD VB VBG RP DT NN NN 
+DT CD Value NN NN VBZ 
+VBN DT NN Duration DT JJ CD 
+RBR NNS , VBG CD 
+NNS VBP NNS 
+Elements NNP , 
+DT JJ NN 
+RB JJ NNS State PRP$ NN . 
+JJ NNS VBG DT NN . nan 
+PRP VBP DT NN VBZ DT JJ NN NN NNS . 
+CC Circumstance PRP$ NN 
+DT NN JJ NNS . 
+DT JJ NN Elements NN NNS . 
+WRB PRP VBP Location PRP$ NN . 
+CC RBR NN ValueComparison WP VBZ VBN 
+WRB PRP VBZ Comparison/Contrast PRP$ NN NN 
+NNP NNP VBD RB 
+VBN JJ NNS Theme NN WDT VBD 
+RB VB NNS Location DT JJ NN 
+JJ NNP NNS Location NNP 
+VBZ VBG VBG RB RB Accompanier VBG 
+VBD RB VB RB DT JJ JJ 
+NNS , VBG DT VBG 
+JJ NN NNS VBP JJ JJ , NN 
+MD RB VB State DT JJ NNS , 
+Approximator $ CD 
+PhrasalVerb CD NN 
+RB NN , VBD RB NNP NNP POS NN 
+PRP VBD TO VB Location NNP CC DT VBD DT NN . 
+JJ NN NN EndTime JJ NN , NNP 
+DT JJ NN Accompanier PRP$ NN , NNP . 
+CC RBR , RB VBG NN , 
+: NN NNP NNP NNP NNP 
+JJ NNS , RB PhrasalVerb DT NN NN 
+VBG 
+VBP RB VBN JJ NNS 
+ValueComparison NN . 
+NNP NN VBG Location NNP NNP POS NNP . 
+PRP VBZ 1DTrajectory NNP . 
+Elements NNS , NNP , CC 
+NNP NNP VBZ VBG VBG 
+PRP VBD NNP NNP Purpose PRP$ JJ NN POS JJ NNS Explanation PRP VBD VBN VBN TO PRP . 
+NNP : VBN Agent NNP NNP NNP . 
+NNS VBG DT JJ NNP 
+VBG TO VB 
+CD . NNP NNP , Source NNP NNP PRP VBZ 
+NN WRB NN , CC JJ NNS 
+DT NNP RB Destination NNP CC NNP 
+VBN RP 
+DT JJ NN Location DT NN NN 
+NNS VBD NN VBG DT NN 
+DT NN NN Circumstance DT NNS CC 
+DT NNP NNP Location DT NNP NNP 
+NN NNS VBP Location DT NNP NNP 
+NNS VBZ DT JJ NNP NNP . 
+NN NN VBD VBN NN 
+NNP NNS nan DT 
+DT NN NN 
+RB VBG RP JJ NN 
+NN nan 
+VBG 
+DT JJ NN Location DT NN VBZ 
+Explanation nan DT NNS PRP VBD PRP TO DT CD NN . 
+VBD VBN CC Approximator DT NN VBN 
+PRP$ NN Direction JJ NNS . 
+SYM : DT VBZ RB $ CD ( nan NN 
+NN 2DArea NNP NNP , NNS 
+MD VB VBN DeicticTime CD NNS RB 
+PRP$ JJ NN RelativeTime PRP , NNP NNP . 
+DT NN VBD Destination NNP CD , 
+PRP RB VBD TO VB Stimulus DT NN , CC PRP VBD DT NN DT JJ NN . 
+CD NN StartTime JJ , WRB DT 
+NNS NN , NNS VBP DT NNP NN 
+RB NN VBD Location DT NN . 
+VBN VBG PRP Destination DT JJ NN 
+DT NN VBG DT NNS 
+NNP CC NNP , Accompanier 
+CC NN NNS , VBG JJ NN , JJ 
+NNP DT JJ NN . nan 
+PRP RB VBP NN VBN Patient PRP$ NN Location DT NN , CC PRP VBZ CD NNS JJ RB CC VBG VBN NN NNS RB VBD RB VB RB JJ RB . 
+CD Superset NN POS JJS NNS 
+NNP VBZ VBN Location DT NN NN 
+NN CD JJ NNS 
+NNS VBP Location JJ NNP . 
+NNP NN , CC RB JJ Approximator CD 
+VBD DT NN Topic VBG DT JJ 
+NN PRP VBP Superset PRP$ JJ NN , 
+nan DT NN , NN 
+DT JJ CD NNS . 
+DT MD VB , Superset JJ NNS , VBN 
+Accompanier DT JJ NN , 
+NN , VBG JJ Location DT NNP NNP 
+DT NNP VBZ VBG VBG NNS 
+NNP POS JJ NN VBZ RBR . 
+MD VB VBN DeicticTime DT JJ NN , 
+VBN NNS VBD JJ NNP NNP 
+VBN Theme NN : SYM : NN NN RB VBD PRP . 
+CC NNP NNP , CC DT JJ NN 
+NNP NNP Explanation VBG NNP JJ 
+VBG NN , CC VBG RB RB . 
+NNP NNP VBZ RP PRP$ NN 
+: DT NN Location NNP NN NNS 
+Elements NN CC NN 
+RB JJ NNS nan DT JJ 
+NN NNS State PRP$ NN 
+JJ Location DT NN . 
+Comparison/Contrast JJ , PRP VBD 
+JJ NN RB RB . 
+NNS VBP nan JJ nan 
+CD NNP NN NN NNP 
+: VBZ JJ VBG NN : DT NNP POS 
+DT JJ NN JJ NN : 
+Location DT NN VBZ 
+DT VBZ VBZ DT JJ CC 
+DT NN Location DT NN VBD EX Attribute DT NN CC RB VBD TO VB DT NNS NN JJ NN . 
+NN , Elements NN 
+NN WDT VBZ Location DT RB , JJ 
+NN NNS NNS NNP NN NNS 
+NNS VBP VBN Duration NN 
+WP VBZ CD NN CD . 
+Comparison/Contrast NN , NN MD RB 
+NNS CC NNS Location NNP NNP VBP 
+VBG DT 
+NN VBG nan DT JJ NN . nan 
+DT NN VBZ nan NN 
+VBP PRP VB Topic NNP NNP NNP . 
+NN : DT JJ NN 
+Scalar/Rank DT , NN 
+CC Comparison/Contrast DT JJ NNS , 
+NNS NNS VBG NN . 
+VBZ VBG RP PhrasalVerb PRP MD RB nan 
+RB VBG NN 
+NNP VBZ Location NNP POS NN . 
+NN DT NN Topic DT JJ NN 
+NN VBZ $ CD NN NNP $ CD . 
+DT VBZ NNP Scalar/Rank DT NN 
+Location DT NN , NN 
+VBN nan CC VBD 
+NNS Topic DT JJ NN . 
+VB RB Co-Theme RB VBN NNS . 
+VBZ NN POS NN Comparison/Contrast DT CD NNS , 
+VBD JJ , nan Elements 
+NNS VBN RB NNP POS NNP NNP 
+VBZ DT NN Location NNP CC NNP 
+NNP NNP VBZ VBN NN 
+NNS CD NNS Duration NN NNS . 
+VBD RB VBG Location PRP$ NN WRB 
+JJ VBG JJ Time DT NNS 
+MD RB VB NNS VBG PRP$ NN NNS , 
+NNP VBD RP DT NN CC 
+Scalar/Rank DT , NNP VBZ 
+NNP MD RB , VBG DT NN , VB 
+VB PRP$ NN 
+CD RP DT NN NNP POS 
+CC JJ NNS Via NNS . 
+JJ NNS , Elements 
+DT VBZ VBN State NN 
+VB VBG PhrasalVerb DT NN 
+NN JJ , CC Comparison/Contrast DT NNP , WRB 
+DT NNP , VBG NN 
+NNP VBZ VBG VBG RP nan 
+DT NNP NNP , Accompanier 
+CD : RB VBZ PhrasalVerb NNP 
+JJ CC VBD NNP VBZ DT NN 
+NN Topic DT NN PRP 
+JJ NN NN , Elements DT NNP NNP 
+NNP VBD Location NN 
+JJ NN VBZ VBG 
+DT NNS Time NN 
+DT NN VBD VBG 
+DT : NN NNP . 
+NNP NNP , NNP , JJ NNP NNS VBP 
+Elements VBG PRP VBP 
+Location DT NN 
+CD . VB nan PRP$ NNS 
+DT NN , NNP POS NN 
+DT JJ NNS Superset NN VBD RB 
+NN NNS VBD RP DT NNS , NN 
+WRB PRP VBP PRP$ NN VBN RB , PRP VBP JJ NN NNS nan PRP VBZ RB VB PRP$ NN . 
+NNP VBD DT NN 
+NNP NN 
+PRP MD RB RB VB NN TO VB DT JJ NN RelativeTime VBG VBN TO NN CC nan PRP VBP Theme JJR NN PRP$ NN MD VB Location DT NN . 
+NNS CC NN , Accompanier 
+NNP ( VBN ) NNS Location PRP$ NN NNP 
+JJR NN VBD RB DT JJ NN 
+NNS VBD VBN Agent RB VBN NN 
+NNS VBP JJ Elements 
+NN , CC DT NNP DT NNP NN 
+: VBZ VBZ Accompanier NNP NN NNP 
+DT NNS VBD Locus NNS . 
+CC , Scalar/Rank DT , PRP VBP VBN 
+PRP VBZ RB VBG NN 
+NN NNS Accompanier 
+NN NNS NNS Location NNP NN ( NNP ) nan 
+Scalar/Rank DT , DT NN 
+JJ NNS , RB VBG NN CC NN 
+NN VBZ VBG Function NNP POS JJ , RB 
+VB VBN VBN DeicticTime PRP VBD 
+PRP VBD DT NN Explanation DT NN Superset NNS . 
+VB DT NN VBG NNS Theme NNS . 
+DT NN VBD VBG 
+PRP$ NNS VBD RB CD NN . 
+DT CD , CC CD NNS VBD 
+NNS : JJ NNS Time NN DT JJ 
+VBG NN NN , Circumstance JJR NNS RB 
+DT JJ NN Goal JJ NN 
+CC CC CD NN NNS . 
+DT NN Manner VBG 
+NNP NNP NNP Duration DT NN NN 
+VBN NN NNS Location DT NN NNS 
+PRP$ NN NN nan : VBD 
+NN Location DT NN . 
+NNP VBG JJ NN 
+VBN PRP$ MD VB DT NN NNP 
+nan PRP$ NN NNP nan 
+WP VBD VBG VBG nan 
+VBN nan NNP , Accompanier 
+VBG NNP NNP Time NNP . NNP CD , 
+nan $ CD CD State NNP ( NNP NNP ) 
+NN VBZ RB VBG 
+VBG DT JJ NN 
+NN POS JJ NNS , Manner VBG NNS . 
+NN Scalar/Rank DT NNS , VBG 
+NNS VBD VBN DeicticTime DT JJ NN 
+JJ NNS VBN StartTime NN NN NNP 
+NNP VBG DT NN NN 
+NNP NNP NN Attribute DT NN NN 
+CD Manner VBG JJ JJ 
+VBG DT NNS 
+CD Value NN 
+Location NNP , NNS WP 
+DT NN Topic NN nan NN 
+VBN NN NNP Topic DT NN 
+DT NN VBD RP NNS 
+nan PRP VBD NN TO VB CD , PRP VBD DT JJR NN , CC VBD PRP RB . 
+DT NNP VBD RP 
+VBG JJ NNS VBP NNS 
+NNS Location DT NNPS . 
+PRP$ JJ NN VBD DT NN NNS 
+$ CD DT NN , VBG NNS . 
+DT JJ NN 
+DT NN RP NNP NNP 
+NNP NNP NNS Location DT NNP NN . 
+NNP VBG 
+CD NNS VBD PhrasalVerb PRP$ NNP NN 
+DT NN VBG DT NN NN 
+NNS : NNP NNP nan DT NNS NNP 
+NNP CD Duration DT NN NN 
+DT JJ NN 1DTrajectory NNP NNP 
+NN CC VB RP 
+VB PRP$ NN RP 
+DT NN WP VBZ DT JJ NNS VBZ JJ . 
+DT JJ NN , VB PRP$ NN , DT 
+CD NNS VBG RP DT JJ NNP 
+PRP$ NN VBG RP 
+NNP : NNS Idiom JJ : NN 
+JJ NN NN ProfessionalAspect NNP , VBD DT 
+JJ NN , nan NNP NNP nan 
+NNS VBP NNS Elements DT NN NN 
+PRP VBP VBN RB CD NNS CC DT CD NNS PRP VBZ VBN JJ . 
+NNP NNP NNP 
+NN , Explanation DT NN VBD 
+Location DT JJ NN 
+PRP$ NNS VBD JJ PRP , CC DT 
+CD VBD VBG Manner PRP$ NNS . 
+NNP NNP ( NNP ) Means CD NN 
+NN MD VB VBG PRP$ NNS 
+NNP NN VBD RB nan 
+DT NNS Topic DT NNP NN 
+JJ NNP NN Via NN , VBP PRP 
+NNP POS NN VBZ RP nan RB 
+, RB VBN nan NN nan 
+JJ : NNP Superset DT NNP NNP 
+NN NNS VBN Location CD DT . 
+NN VBD VBN Explanation JJ NN , JJ 
+RB JJ NNS Topic DT NN 
+Elements VBG NNS , PRP 
+RB RB VBG JJ NN 
+DT NN NNP , CC PRP MD VB PRP 
+WP DT JJ NN . 
+VB DT NN RelativeTime DT NN 
+NNP NNP NNP : VBD PRP VBD DT 
+WRB PRP MD VB TO VB 
+DT VBZ NN Attribute JJ , RB . 
+VBG NN 
+VBG CD NN ValueComparison DT JJ NN 
+CD NNP NNS RP JJ NN , NN 
+NN Elements 
+RB VBN RP DT NN NNS 
+WP VBD RP NN NNS WDT nan 
+MD VB DT JJ NN . 
+NN NN VBD DeicticTime CD NNS 
+NN NNS CD NNS CD ( NNP NNP ) . 
+RB DT NN TO VBN NN . 
+CD , DT NN RelativeTime DT NN 
+NN '' : NNP NN Location NNP NNP VBD 
+NN NN TO VB PRP RBR nan 
+VBZ VBN VBN Manner DT NN VBD 
+NN VBD DT JJR nan CD NNS 
+VBG NN NN 2DArea DT JJ NN 
+DT CD NN Via VBG NN . 
+NN FW NN NN . 
+JJ NN VBG nan DT NN VBD 
+JJ NN Duration VBG NNS NNP 
+PRP VBD VBG NNS , 
+DT VBG Elements DT NNP . 
+NNP DT NNS 
+VBG DT NN nan 
+NNS Location DT JJ NN . 
+MD VB VBN Location DT NNS , CC 
+Elements NNP , DT NN 
+PRP VBP RB VBD DT NN Stimulus DT NNS . 
+VB nan PRP VBZ DT JJ RB 
+DT NN Scalar/Rank NNP NNP JJ 
+JJ , NNP VBZ , CC nan PRP VBP 
+NN VBZ VBN VBN NN 
+JJ : RB VBZ RBR JJ NNS 
+CD Duration DT NN POS NN . 
+, VBD PRP nan PRP VBD RB nan 
+DT NN Location NNP , DT NN 
+NNP NN VBN Time CD , VBZ VBN 
+WP RB VBZ Location PRP , VBP RB 
+PRP VBP DT JJS NNS Location DT NN . 
+CC CC CD NN NNS . 
+JJ NNS : Accompanier DT JJ NN , 
+RB JJ NNS , VBG NNS 
+DT JJS NN NN PRP VBP RB VBN Location NNP , RB JJ CC RB JJ NN Possessor JJ NNP . 
+DT JJ NN VBD . 
+DT JJ CD NNS , NNP 
+DT NN nan Causer VBG JJ NNS . 
+NN VBP VBG PhrasalVerb NN , RB , CC 
+NNS MD VB VBN DT RBS JJ 
+NN , VBG NNS . 
+NN POS NN NN 1DTrajectory DT NN . 
+VBG JJ NNS Location NN 
+NN CD NN RelativeTime VBG 
+VBG NNP NNP CD VBZ DT 
+Circumstance DT NN , NNP 
+NNP NNP VBZ NNP RB . . 
+NNS VBP VBN State NN . 
+VBN PRP$ NNP Theme JJS NN . 
+NNP , NNP VBD Direction PRP$ NN . 
+CD VBD PRP VB DT NN , NNP 
+DT JJ NN Attribute DT JJ NN 
+JJS PRP$ NN Duration DT NN 
+DT NN NN ProfessionalAspect DT NNP 
+CD . CD NN TO VB DT NN 
+RB VBN NNP NNP NNP 
+nan WRB NNS VBP 
+VBN NNP POS NN Topic DT NN . 
+DT CD NNPS Location DT JJ JJ 
+CC NN NNS Location DT JJ NN 
+Circumstance DT JJ NNS 
+CD : NNS Attribute DT NNP NNP 
+VBG DT JJ NN , nan 
+PRP RB VBP NNP , PRP VBZ DT JJ NN , PRP VBP DT NN PRP VBZ PRP$ NN , RB JJ CC JJ NNS PRP$ NN TO VB JJ PRP$ NN VBZ JJ . 
+DT CD Value NN NN NN 
+JJ NNS VBG NN NNS , VBG 
+Location DT NN , CD 
+DT NNP NN CC DT NNP NNP 
+nan DT NN Topic NNS Topic DT 
+CD , CC PRP$ JJS NN 
+CC CC CD NN NNS 
+JJ NN VBZ Scalar/Rank DT NN 
+RB TO VB nan DT JJ NN VBD RB RB JJ nan VBG nan DT JJ NN . 
+NN NN NNS NNP 
+PRP VBZ Location DT JJ NN , 
+DT JJR NN Theme JJ NN NNS 
+NN VBG Locus DT NNS 
+NNS VBD PRP Location DT JJ NN 
+VBZ VBG NNS Superset DT JJ NN 
+NNP NNP VBZ VBG WRB 
+VBG DT JJ , NNP 
+JJ NN : CC CD NNP 
+DT VBP JJ Elements NNP , WP VBD 
+PRP VBZ Topic PRP$ NN WP 
+NN NNP NN Duration DT NN . 
+VBN PRP RB Destination DT NN NN , 
+PRP RB VBZ VB PRP$ NNS EndState NN Purpose PRP$ NN . 
+NN NN Agent NNP NNP NNP 
+VBG NN NN , VBG NNS 
+VBG RB NNP NNP CD 
+DT JJ NN 
+NNP VBZ DT NN NN CC PRP CC DT NN nan DT NN VBD JJ . . . nan 
+NNS VBP VBN RP JJ NN WRB 
+NNP VBD VBN RB NNP CD . 
+PRP VBD , VBG Location DT JJ NN 
+MD VB VBN DeicticTime CD NNS 
+PRP VBD State NN 
+VBD RB JJ Elements 
+RB RB JJ NN NN , nan PRP VBP 
+NNP NNS 
+PRP VBP NNP NNP 
+DT JJ NN NN 
+PRP$ JJS NN Activity DT NNP NN 
+CD NNPS NNP Idiom DT NN 
+PRP DT NN Elements NN , CD NN 
+NN ProfessionalAspect DT NNP NNP 
+PRP VBD nan nan DT NN Quantity JJ NNS CC RB PRP VBP WRB . . . 
+WP , VBG NN Time NN CC NN 
+DT NN VBG DT JJ NN 
+NNP : RB RP 
+PRP MD VB Time NN . 
+NNP NNP VBD Destination DT JJ NN 
+NNP TO NNP NNP , CD NN CD NN . 
+PRP$ NNS , NN RB DT JJ 
+DeicticTime NNS , DT NN 
+RB VB VBN PhrasalVerb 
+DT NN NN Possessor NNP NNP NNP 
+WP PRP VBP VBG Stimulus DT NN CC 
+DT NN Explanation VBG VBD DT 
+Comparison/Contrast JJ NNS , NNP 
+NN JJ NNS Duration DT NN , VBG 
+NN CC VBD Scalar/Rank DT NN 
+VB RP NN 
+JJ NNP NNP NN NN . 
+DT NN NN , CC PRP VBZ JJ 
+DT NNP NNP TO VB CC VB 
+WRB DT NN Elements DT NNP CC 
+JJ NNS VBP 1DTrajectory NNS NNS nan 
+RB , nan NNP NNP NNS MD VB 
+Elements 
+VB NN Via NNP . 
+NNP NNP VBD Via NNP 
+VBG 
+JJ NNS VBP NNP NNS : EX VBZ 
+JJ JJ NN NNS 
+NNP NNS VBP VBG NNS 
+DT NN EndTime 
+CD , CD nan DT NNP NN nan 
+NNP NNP VBZ Location DT NN 
+RB VBG JJ PRP . nan 
+VBG DT NN , RB RB Accompanier CD 
+DT NN Accompanier NNS . 
+JJR nan CD DT . 
+Approximator CD CD JJ 
+DT NN VBD nan CD NNS 
+DT VBG NN VBZ Scalar/Rank JJ ( PRP VBP PRP$ FW WRB PRP VBP TO DT NN ) . 
+VBZ DT NN Duration PRP$ JJ NN 
+VBN PhrasalVerb VBG 
+NN VBD VBN Location DT NN . 
+Location DT NNP NN : 
+CD Value NN CD NNS 
+NNP State NN 
+NN VBZ VBG PhrasalVerb DT JJ NN 
+CD NNS NNP Approximator CD CD NNS 
+CD NNS VBD Location DT JJ NN POS 
+NNP , Accompanier 
+NN RB NNP NNP NNS 
+NNS NNS , PRP MD VB PRP$ NN NN , 
+CD NNS VBN Agent DT NNS 
+RBR NN 
+RBR NN RB ValueComparison DT CD NN 
+DT JJ JJ NN NN 
+PRP VBD RB JJ 
+NN nan VBG DT NN 
+RB , DT NN NN VBN PRP TO VB DT NN . 
+JJ NN , PDT DT NN . 
+Elements 
+NN NN 2DArea JJ NNP 
+NNS VBG , VBZ Location DT JJ NN . 
+PRP$ NN VBZ JJ , nan WP PRP VBP Time DT VBN NN MD RB VB JJ RB Location DT NN . 
+NNS , nan NNS VBG JJ NNS 
+NNP nan NNP NNP NNP POS 
+NNP , WP DT RB VBZ VBN JJ 
+VBG DT NN VBZ nan 
+JJ Location DT NN 
+JJ NNP VBG Theme PRP$ NN . 
+NNP NNS NN Explanation VBG DT NN 
+DT NN Location DT NN . 
+NNP NNP NNP nan NNP NNP NNP 
+CD NNS Superset NN NN NNS 
+NNP CD JJ , VBG JJ , 
+NN NNP NNP , VBG PRP$ JJ NN 
+NNS CC NNS Superset PRP$ NNS , PRP 
+PRP MD VB Duration DT JJ CD 
+NNS : NNP NNP NNP NNP POS NNP NNP 
+NN NNPS VBP Location DT JJ NN 
+NNP NNP VBD RP 
+NN NNS VBP VBZ DT 
+NNP CC NNP VBG DT JJ NN . 
+NN NN , RB VB WRB CD NN 
+NN NN NN . 
+NNP NNS CC NN 
+Location DT NN VBZ 
+NNP NN RB , Comparison/Contrast NNS VBD PRP 
+NN CD NNS Location DT NNS . 
+VBD DT NN Idiom DT NN VBD 
+NN , VBG NN NNS VBG 
+nan VBG 
+DT JJ NN NN 
+VB JJ NNS Location DT NN NN , 
+NN RB NN NNP NN NNS CC 
+PRP$ NN , Location PRP$ NN . 
+RB Approximator $ CD CD 
+VBZ EX VBZ NN Idiom NN Idiom NN 
+RB VBG Location NNP NN CC 
+NN VBZ RB Idiom DT NN 
