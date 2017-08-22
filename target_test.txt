@@ -20,7 +20,7 @@ Location DT NN IN
 JJS CD NNS Location DT NN NN 
 Superset DT CD , CD 
 NNP NNP Location DT NNP CD 
-NNS Location DT JJ NN 
+NNS O DT JJ NN 
 JJ NNS VBZ VBN RP DT NN 
 ( PRP VBP VBN IN Approximator JJS CD NNS RB . ) 
 DT NN NN ProfessionalAspect NNP NNP CC 

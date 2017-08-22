@@ -11,7 +11,7 @@ VBN CD NNS , Superset NNS ,
 Approximator CD CD NNS . 
 VBZ JJ : Elements 
 NN Circumstance VBG DT NN 
-NNS : DT Location DT NN CC 
+NNS : DT O DT NN CC 
 DT NN NN Location NNP NNP POS JJ 
 Elements DT 
 CD NNP NNS Location DT NNP NNP 

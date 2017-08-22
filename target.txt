@@ -47,7 +47,7 @@ RBR JJ NNS Destination DT NN .
 NN RB RBR , Accompanier DT NN 
 NN Topic WP VBD DT 
 NNP NNP Location NNP NNP VBD 
-NNS VBD Location PRP$ NNS . 
+NNS VBD O PRP$ NNS . 
 VBZ VBG VBG PhrasalVerb DT NN CC 
 VB VBN IN JJ CC JJ 
 NN VBD VBN Agent DT NN NNP 
